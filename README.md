@@ -57,7 +57,7 @@ cp -r salon/template/ sites/muj-novy-salon/
 
 ### Krok 3 — Vytvoř config.json
 
-Zkopíruj existující konfiguraci a upravij:
+Zkopíruj existující konfiguraci a upravij: fdsaf dsa fsdaf
 
 ```bash
 # Jako základ použij podobný existující web:
