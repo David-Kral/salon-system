@@ -1,0 +1,181 @@
+{
+  "template": "barbershop",
+  "business": {
+    "name": "BARBER·ROOM",
+    "tagline": "Když se řemeslo stává rituálem.",
+    "description": "Prémiový střih, holení břitvou a péče v srdci Prahy. Místo, kde čas zpomalí a každý detail má svou váhu.",
+    "city": "Praha",
+    "established": "MMXXV"
+  },
+  "colors": {
+    "background": "#1a1815",
+    "foreground": "#f0ebe0",
+    "card": "#1e1c18",
+    "accent": "#37432f",
+    "chrome": "#c8c2b5",
+    "cream": "#f0ebe0",
+    "muted": "#868070",
+    "olive": "#4a5a38"
+  },
+  "contact": {
+    "phone": "+420 777 123 456",
+    "email": "rezervace@barberroom.cz",
+    "address": "Národní 28",
+    "city": "110 00 Praha 1 — Nové Město",
+    "parking": "pro klienty zajištěno přímo před salonem (3 vyhrazená stání).",
+    "bookingUrl": "https://reservio.com",
+    "mapsLink": "https://maps.google.com/?q=Národní+28+Praha+1",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=14.418%2C50.080%2C14.426%2C50.085&layer=mapnik&marker=50.0825%2C14.422"
+  },
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "09:00 — 20:00" },
+    { "days": "Sobota",          "hours": "10:00 — 18:00" },
+    { "days": "Neděle",          "hours": "Zavřeno", "closed": true }
+  ],
+  "social": {
+    "instagram": "#",
+    "facebook": "#"
+  },
+  "nav": [
+    { "label": "Domů",    "href": "#home"     },
+    { "label": "Koncept", "href": "#about"    },
+    { "label": "Služby",  "href": "#services" },
+    { "label": "Lookbook","href": "#gallery"  },
+    { "label": "Barbeři", "href": "#team"     },
+    { "label": "Kontakt", "href": "#contact"  }
+  ],
+  "hero": {
+    "ornament": "Praha · Estd. MMXXV",
+    "heading": "Když se řemeslo\nstává rituálem.",
+    "subheading": "Prémiový střih, holení břitvou a péče v srdci Prahy. Místo, kde čas zpomalí a každý detail má svou váhu.",
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Rezervovat termín"
+  },
+  "stats": [
+    { "value": "12+", "label": "Let řemesla" },
+    { "value": "4",   "label": "Mistři barbeři" },
+    { "value": "∞",   "label": "Pozornost detailu" }
+  ],
+  "ritual": {
+    "heading": "Tři kroky k dokonalosti",
+    "steps": [
+      {
+        "image": "./assets/gallery-1.jpg",
+        "title": "Konzultace",
+        "text": "Posadíme se, nasloucháme. Než se dotkneme nůžek, rozumíme tomu, kdo jste."
+      },
+      {
+        "image": "./assets/gallery-6.jpg",
+        "title": "Řemeslo",
+        "text": "Ruční střih, horký ručník, břitva. Žádné kompromisy, žádné spěchání."
+      },
+      {
+        "image": "./assets/gallery-3.jpg",
+        "title": "Odchod",
+        "text": "Sklenka, drobný rozhovor, závěrečné vylepšení. Pak vyjdete jako nový."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Připraveni na svůj rituál?",
+    "subheading": "Termíny se plní rychle. Zarezervujte si svůj online — během chvíle."
+  },
+  "services": [
+    {
+      "title": "The Classic Haircut",
+      "desc": "Konzultace, mytí, ruční střih, styling. Drink dle výběru v ceně.",
+      "duration": "45 min",
+      "price": "890",
+      "currency": "Kč"
+    },
+    {
+      "title": "Royal Beard Trim",
+      "desc": "Tvarování vousů břitvou, horký ručník, péče olejem, masáž obličeje.",
+      "duration": "30 min",
+      "price": "650",
+      "currency": "Kč"
+    },
+    {
+      "title": "Executive Package",
+      "desc": "Střih, holení břitvou, péče o vousy, masáž hlavy, manikúra, drink.",
+      "duration": "90 min",
+      "price": "1 890",
+      "currency": "Kč"
+    },
+    {
+      "title": "Hot Towel Shave",
+      "desc": "Klasické holení břitvou. Horký ručník, pěna, dvojí průchod, tonik.",
+      "duration": "40 min",
+      "price": "790",
+      "currency": "Kč"
+    },
+    {
+      "title": "Father & Son",
+      "desc": "Střih pro otce a syna ve dvou křeslech vedle sebe. Společný rituál.",
+      "duration": "60 min",
+      "price": "1 290",
+      "currency": "Kč"
+    },
+    {
+      "title": "Junior Cut (do 12 let)",
+      "desc": "Klidná atmosféra, vlastní limonáda, trpělivý barber.",
+      "duration": "30 min",
+      "price": "490",
+      "currency": "Kč"
+    }
+  ],
+  "about": {
+    "heading": "Salón. Útočiště.\nPrivátní klubovna.",
+    "image": "./assets/about-chair.jpg",
+    "paragraphs": [
+      "Barber Room není barbershop. Je to malé, pečlivě zařízené místo, kam přijdete unavení a odejdete s pocitem, že vám někdo konečně věnoval čas.",
+      "Inspirovali jsme se starými gentlemen's cluby — tlumené světlo, tmavé dřevo, kůže, jemný kouř whisky v pozadí. K tomu řemeslo barberů, kteří svou profesi berou jako poslání.",
+      "Pracujeme s evropskými klasickými značkami péče, břitvami z Solingenu a italským textilem. Žádné kompromisy, žádné spěchání, žádný stres."
+    ],
+    "brands": [
+      { "name": "Solingen",  "label": "Břitvy & nůžky"  },
+      { "name": "Proraso",   "label": "Italská péče"    },
+      { "name": "Auböck",    "label": "Mosazné doplňky" },
+      { "name": "Glencairn", "label": "Sklo k drinku"   }
+    ]
+  },
+  "teamHeading": "Mistři řemesla.",
+  "team": [
+    {
+      "image": "./assets/barber-1.jpg",
+      "name": "Tomáš Vlček",
+      "role": "Senior Barber",
+      "specialization": "Klasické střihy · Fade · Konzultace stylu",
+      "years": 9
+    },
+    {
+      "image": "./assets/barber-2.jpg",
+      "name": "Marek Doležal",
+      "role": "Master Barber",
+      "specialization": "Tetovaní gentlemani · Pompadour · Britská škola",
+      "years": 12
+    },
+    {
+      "image": "./assets/barber-3.jpg",
+      "name": "Pan Vilém",
+      "role": "Founder · Master",
+      "specialization": "Holení břitvou · Péče o vousy · Italská škola",
+      "years": 28
+    }
+  ],
+  "galleryHeading": "Atmosféra v obrazech.",
+  "gallery": [
+    { "image": "./assets/gallery-6.jpg", "alt": "Řada křesel" },
+    { "image": "./assets/gallery-1.jpg", "alt": "Břitva a štětka" },
+    { "image": "./assets/gallery-2.jpg", "alt": "Detail střihu" },
+    { "image": "./assets/gallery-3.jpg", "alt": "Whisky na pultě" },
+    { "image": "./assets/gallery-4.jpg", "alt": "Police s produkty" },
+    { "image": "./assets/gallery-5.jpg", "alt": "Horký ručník" }
+  ],
+  "contactHeading": "Zarezervujte si křeslo.",
+  "footer": {
+    "tagline": "Prémiový střih, holení a péče v srdci Prahy. Místo, kde se řemeslo mění v rituál.",
+    "copyright": "Barber Room",
+    "established": "MMXXV"
+  }
+}

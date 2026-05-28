@@ -1,0 +1,84 @@
+{
+  "template": "salon",
+  "business": {
+    "name": "Studio Luna",
+    "tagline": "Kde krása nachází svou formu.",
+    "description": "Luxusní vlasový ateliér v centru Olomouce. Specializujeme se na organická barvení, strukturální péči a precizní střihy pro ženy.",
+    "city": "Olomouc"
+  },
+  "colors": {
+    "background": "#faf9f6",
+    "foreground": "#1a1a1a",
+    "primary": "#1a1a1a",
+    "accent": "#b5a08a",
+    "sand": "#ede7db",
+    "surface": "#f3f0ea",
+    "muted": "#6b6560"
+  },
+  "contact": {
+    "phone": "+420 585 222 111",
+    "email": "rezervace@studioluna.cz",
+    "address": "Horní náměstí 12",
+    "city": "779 00 Olomouc",
+    "mapsLink": "https://maps.google.com/?q=Horní+náměstí+12+Olomouc",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=17.248%2C49.592%2C17.260%2C49.598&layer=mapnik&marker=49.5945%2C17.2539"
+  },
+  "hours": [
+    { "days": "Úterý – Pátek", "hours": "9:00 — 19:00" },
+    { "days": "Sobota",        "hours": "8:00 — 15:00" },
+    { "days": "Ne – Po",       "hours": "Zavřeno", "closed": true }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/studioluna_olomouc",
+    "facebook":  "https://facebook.com/studioluna.olomouc"
+  },
+  "nav": [
+    { "label": "Služby",   "href": "#services" },
+    { "label": "O studiu", "href": "#about"    },
+    { "label": "Kontakt",  "href": "#contact"  }
+  ],
+  "hero": {
+    "heading": "Kde krása nachází svou formu.",
+    "subheading": "Luxusní vlasový ateliér v centru Olomouce. Organická barvení, strukturální péče a precizní střihy — vždy s osobním přístupem.",
+    "image": "./assets/hero-salon.jpg",
+    "ctaLabel": "Naše služby"
+  },
+  "brands": ["Organic Colour Systems", "Davines", "Olaplex", "Aveda"],
+  "servicesHeading": "Naše služby",
+  "services": [
+    {
+      "image": "./assets/service-balayage.jpg",
+      "tag": "Barvení",
+      "title": "Organický balayage",
+      "desc": "Přirozené melírování pomocí 100% organických barev bez amoniaku. Šetrné ke zdraví i k vláknům.",
+      "price": "od 3 200 Kč"
+    },
+    {
+      "image": "./assets/service-cleanse.jpg",
+      "tag": "Strukturální péče",
+      "title": "Olaplex Treatment",
+      "desc": "Hloubková rekonstrukce struktury vlasu. Ideální doplněk k barvení i samostatný rituál.",
+      "price": "od 800 Kč"
+    },
+    {
+      "image": "./assets/service-k18.jpg",
+      "tag": "Střih & Styling",
+      "title": "Precizní střih",
+      "desc": "Konzultace, střih přesně na míru vaší tváři a životnímu stylu, profesionální styling.",
+      "price": "od 1 100 Kč"
+    }
+  ],
+  "about": {
+    "label": "O studiu",
+    "quote": "Každá klientka si zaslouží vlasy, které jsou výrazem její osobnosti. Pracujeme pomalu, s rozmyslem a láskou k detailu.",
+    "author": "Karolína Nováková, majitelka"
+  },
+  "contactHeading": "Navštivte nás v Olomouci",
+  "footerLinks": [
+    { "label": "Ceník",           "href": "#services" },
+    { "label": "Ochrana údajů",   "href": "#"         }
+  ],
+  "footer": {
+    "copyright": "Studio Luna Olomouc"
+  }
+}

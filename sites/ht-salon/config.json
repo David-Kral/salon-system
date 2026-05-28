@@ -1,0 +1,89 @@
+{
+  "template": "barbershop",
+  "business": {
+    "name": "BARBERSHOP·HT·SALON",
+    "tagline": "Moderní střihy a precizní péče o vousy",
+    "description": "Profesionální kadeřnický salon a barbershop v Přelouči. Specializujeme se na moderní pánské střihy, precizní úpravu vousů a špičkový servis pro každého muže.",
+    "street": "Tůmy Přeloučského 145",
+    "city": "Přelouč",
+    "zip": "535 01",
+    "established": "MMXX"
+  },
+  "colors": {
+    "background": "#141416",
+    "foreground": "#F5F5F7",
+    "card": "#1E1E22",
+    "accent": "#EA7623",
+    "chrome": "#8E8E93",
+    "cream": "#FAF9F6",
+    "muted": "#7A7A80",
+    "olive": "#8A410B"
+  },
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address": "Tůmy Přeloučského 145",
+    "city": "535 01 Přelouč",
+    "parking": "",
+    "bookingUrl": "",
+    "mapsLink": "https://maps.google.com/?q=Tůmy+Přeloučského+145,+Přelouč",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=15.545%2C50.033%2C15.575%2C50.044&layer=mapnik&marker=50.0383%2C15.5601"
+  },
+  "hero": {
+    "ornament": "Přelouč · Estd. MMXX",
+    "heading": "Špičkový styl\npro moderního muže",
+    "subheading": "Dopřejte si precizní střih a dokonalou úpravu vousů v samém srdci Přelouče.",
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Rezervovat termín"
+  },
+  "stats": [
+    { "value": "1000+", "label": "Spokojených klientů" },
+    { "value": "5+", "label": "Let zkušeností" },
+    { "value": "∞", "label": "Stylu a elegance" }
+  ],
+  "services": [
+    {
+      "title": "Klasický střih",
+      "desc": "Konzultace, mytí, střih vlasů, styling a kolínská.",
+      "duration": "45 min",
+      "price": "450",
+      "currency": "Kč"
+    },
+    {
+      "title": "Úprava vousů",
+      "desc": "Zastřižení, napaření hot towel, holení břitvou a ošetření.",
+      "duration": "30 min",
+      "price": "350",
+      "currency": "Kč"
+    },
+    {
+      "title": "Komplet servis",
+      "desc": "Kombinace prémiového střihu a kompletní péče o vousy.",
+      "duration": "75 min",
+      "price": "750",
+      "currency": "Kč"
+    }
+  ],
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "09:00 — 19:00" },
+    { "days": "Sobota", "hours": "09:00 — 14:00" },
+    { "days": "Neděle", "hours": "Zavřeno", "closed": true }
+  ],
+  "about": {
+    "heading": "Tradiční řemeslo\nv moderním pojetí",
+    "image": "./assets/about-chair.jpg",
+    "paragraphs": [
+      "V našem salonu Barbershop HT Salon věříme, že návštěva holiče není jen o zkrácení vlasů, ale o celkovém zážitku a relaxaci.",
+      "Naši zkušení čeští i mezinárodní barberi neustále sledují nejnovější trendy v oblasti pánských střihů, fadeů a péče o vousy.",
+      "Zakládáme si na individuálním přístupu, preciznosti a použití prémiových kosmetických produktů pro dokonalý výsledek."
+    ],
+    "brands": [
+      { "name": "Premium Barber", "label": "Profesionální vlasová kosmetika" }
+    ]
+  },
+  "footer": {
+    "tagline": "Váš styl, naše vizitka.",
+    "copyright": "Barbershop HT Salon",
+    "established": "MMXX"
+  }
+}

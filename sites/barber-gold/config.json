@@ -1,0 +1,180 @@
+{
+  "template": "barbershop",
+  "business": {
+    "name": "GOLD·CUT",
+    "tagline": "Každý střih je příběh.",
+    "description": "Tradiční řemeslo v moderním provedení. Vaše image je naše vášeň.",
+    "city": "Brno",
+    "established": "MMXIX"
+  },
+  "colors": {
+    "background": "#0f0e0c",
+    "foreground": "#f5f0e8",
+    "card": "#141310",
+    "accent": "#8b6914",
+    "chrome": "#d4af37",
+    "cream": "#f5f0e8",
+    "muted": "#857f70",
+    "olive": "#a07820"
+  },
+  "contact": {
+    "phone": "+420 602 345 678",
+    "email": "info@goldcut.cz",
+    "address": "Náměstí Svobody 15",
+    "city": "602 00 Brno — Střed",
+    "parking": "k dispozici v parkovacím domě 50m od salonu.",
+    "bookingUrl": "https://bookio.cz",
+    "mapsLink": "https://maps.google.com/?q=Náměstí+Svobody+15+Brno",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=16.604%2C49.193%2C16.614%2C49.200&layer=mapnik&marker=49.1954%2C16.6085"
+  },
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "08:00 — 19:00" },
+    { "days": "Sobota",          "hours": "09:00 — 16:00" },
+    { "days": "Neděle",          "hours": "Zavřeno", "closed": true }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/goldcut_brno",
+    "facebook": "https://facebook.com/goldcutbrno"
+  },
+  "nav": [
+    { "label": "Domů",    "href": "#home"     },
+    { "label": "O nás",   "href": "#about"    },
+    { "label": "Ceník",   "href": "#services" },
+    { "label": "Galerie", "href": "#gallery"  },
+    { "label": "Tým",     "href": "#team"     },
+    { "label": "Kontakt", "href": "#contact"  }
+  ],
+  "hero": {
+    "ornament": "Brno · Estd. MMXIX",
+    "heading": "Každý střih\nje příběh.",
+    "subheading": "Profesionální barbering v centru Brna. Přijďte si odpočinout a odejděte jako nový.",
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Objednat se"
+  },
+  "stats": [
+    { "value": "6+",  "label": "Let zkušeností" },
+    { "value": "3",   "label": "Experti" },
+    { "value": "500+","label": "Spokojených klientů" }
+  ],
+  "ritual": {
+    "heading": "Jak to u nás probíhá",
+    "steps": [
+      {
+        "image": "./assets/gallery-1.jpg",
+        "title": "Konzultace",
+        "text": "Začneme rozhovorem. Co vám vyhovuje, co chcete změnit — vše záleží na vás."
+      },
+      {
+        "image": "./assets/gallery-6.jpg",
+        "title": "Precizní práce",
+        "text": "Ruční střih s důrazem na detail. Tvar, kontura, délka — nic nenecháme náhodě."
+      },
+      {
+        "image": "./assets/gallery-2.jpg",
+        "title": "Finální dotek",
+        "text": "Styling, vonný olej, chvilka odpočinku. Odejdete sebejistě."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Čekáme na vás v centru Brna.",
+    "subheading": "Objednejte se online za 60 vteřin. Nebo zavolejte — rádi si najdeme čas."
+  },
+  "services": [
+    {
+      "title": "Klasický střih",
+      "desc": "Konzultace, umytí, střih na míru, styling. Vždy s kávou.",
+      "duration": "40 min",
+      "price": "750",
+      "currency": "Kč"
+    },
+    {
+      "title": "Střih + Vousy",
+      "desc": "Kompletní péče o vlasy a vousy. Kombinace za výhodnou cenu.",
+      "duration": "60 min",
+      "price": "1 100",
+      "currency": "Kč"
+    },
+    {
+      "title": "Holení břitvou",
+      "desc": "Tradiční holení s horkým ručníkem, pěnou a uklidňujícím tonikem.",
+      "duration": "35 min",
+      "price": "680",
+      "currency": "Kč"
+    },
+    {
+      "title": "Tvarování vousů",
+      "desc": "Přesné tvarování a úprava vousů do požadovaného tvaru.",
+      "duration": "25 min",
+      "price": "450",
+      "currency": "Kč"
+    },
+    {
+      "title": "Gold Package",
+      "desc": "Střih, holení, péče o vousy, masáž hlavy a sklenka dle výběru.",
+      "duration": "80 min",
+      "price": "1 590",
+      "currency": "Kč"
+    },
+    {
+      "title": "Dětský střih (do 14 let)",
+      "desc": "Příjemná atmosféra, trpělivý přístup, limonáda zdarma.",
+      "duration": "25 min",
+      "price": "390",
+      "currency": "Kč"
+    }
+  ],
+  "about": {
+    "heading": "Tradice,\npreciznost,\nstyl.",
+    "image": "./assets/about-chair.jpg",
+    "paragraphs": [
+      "Gold Cut je místo, kde tradiční barbering potkává moderní estetiku. Každý klient si zaslouží plnou pozornost — a tu mu dáváme.",
+      "Pracujeme s prémiovými produkty a břitvami, které vyrábějí mistři řemesla. Naše práce není jen střih — je to péče o váš celkový vzhled.",
+      "Věříme, že dobrý barber mění nejen vlasy. Mění sebedůvěru. A to je to, co nás žene dopředu."
+    ],
+    "brands": [
+      { "name": "Dapper Dan", "label": "Styling produkty"  },
+      { "name": "Proraso",    "label": "Holení & péče"     },
+      { "name": "Thiers Issard","label": "Francouzské břitvy" },
+      { "name": "Murdock",    "label": "Prémiová kosmetika" }
+    ]
+  },
+  "teamHeading": "Náš tým.",
+  "team": [
+    {
+      "image": "./assets/barber-2.jpg",
+      "name": "Lukáš Novák",
+      "role": "Head Barber",
+      "specialization": "Fade · Textured cuts · Beard shaping",
+      "years": 8
+    },
+    {
+      "image": "./assets/barber-1.jpg",
+      "name": "Jan Procházka",
+      "role": "Senior Barber",
+      "specialization": "Klasické střihy · Hot towel shave",
+      "years": 5
+    },
+    {
+      "image": "./assets/barber-3.jpg",
+      "name": "Milan Šimánek",
+      "role": "Barber & Stylist",
+      "specialization": "Moderní styly · Kreativní střihy",
+      "years": 4
+    }
+  ],
+  "galleryHeading": "Naše práce.",
+  "gallery": [
+    { "image": "./assets/gallery-1.jpg", "alt": "Detail práce" },
+    { "image": "./assets/gallery-2.jpg", "alt": "Precizní střih" },
+    { "image": "./assets/gallery-3.jpg", "alt": "Atmosféra salonu" },
+    { "image": "./assets/gallery-4.jpg", "alt": "Produkty" },
+    { "image": "./assets/gallery-5.jpg", "alt": "Zátiší" },
+    { "image": "./assets/gallery-6.jpg", "alt": "Interiér" }
+  ],
+  "contactHeading": "Najdete nás v centru Brna.",
+  "footer": {
+    "tagline": "Tradiční řemeslo v moderním provedení. Centrum Brna, srdce stylu.",
+    "copyright": "Gold Cut Brno"
+  }
+}

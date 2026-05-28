@@ -1,0 +1,166 @@
+{
+  "template": "barbershop",
+  "business": {
+    "name": "HT·SALON",
+    "tagline": "HT Barbershop Přelouč.",
+    "description": "Moderní barbershop v srdci Přelouče. Střih, holení a péče pro každého gentlemana.",
+    "city": "Přelouč",
+    "established": "MMXXV"
+  },
+  "colors": {
+    "background": "#121212",
+    "foreground": "#FAFAFA",
+    "card":       "#1A1A1A",
+    "accent":     "#EA7623",
+    "chrome":     "#d4cfc9",
+    "cream":      "#FAFAFA",
+    "muted":      "#888888",
+    "olive":      "#c8621a"
+  },
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address": "",
+    "city": "Přelouč",
+    "parking": "",
+    "bookingUrl": "",
+    "mapsLink": "",
+    "mapEmbed": ""
+  },
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "09:00 — 19:00" },
+    { "days": "Sobota",          "hours": "09:00 — 14:00" },
+    { "days": "Neděle",          "hours": "Zavřeno", "closed": true }
+  ],
+  "social": {
+    "instagram": "#",
+    "facebook":  "#"
+  },
+  "nav": [
+    { "label": "Domů",    "href": "#home"     },
+    { "label": "Koncept", "href": "#about"    },
+    { "label": "Služby",  "href": "#services" },
+    { "label": "Lookbook","href": "#gallery"  },
+    { "label": "Barbeři", "href": "#team"     },
+    { "label": "Kontakt", "href": "#contact"  }
+  ],
+  "hero": {
+    "ornament": "Přelouč · Estd. MMXXV",
+    "heading": "Střih, který\ndělá dojem.",
+    "subheading": "Moderní barbershop v Přelouči. Přijď jako zákazník, odejdi jako gentleman.",
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Rezervovat termín"
+  },
+  "stats": [
+    { "value": "100%", "label": "Spokojenost" },
+    { "value": "3",    "label": "Zkušení barbeři" },
+    { "value": "∞",    "label": "Styl bez kompromisů" }
+  ],
+  "ritual": {
+    "heading": "Tři kroky k dokonalosti",
+    "steps": [
+      {
+        "image": "./assets/gallery-1.jpg",
+        "title": "Konzultace",
+        "text": "Posloucháme tě. Než vezmeme nůžky, chceme vědět, co chceš."
+      },
+      {
+        "image": "./assets/gallery-6.jpg",
+        "title": "Řemeslo",
+        "text": "Přesný střih, horký ručník, péče s citem. Žádný spěch."
+      },
+      {
+        "image": "./assets/gallery-3.jpg",
+        "title": "Odchod",
+        "text": "Odejdeš s jiným pocitem. To je ten důvod, proč se vrátíš."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Připraveni na svůj rituál?",
+    "subheading": "Termíny se plní rychle. Zarezervujte si místo online — během chvíle."
+  },
+  "services": [
+    {
+      "title": "Klasický střih",
+      "desc": "Konzultace, mytí, ruční střih, styling.",
+      "duration": "45 min",
+      "price": "350",
+      "currency": "Kč"
+    },
+    {
+      "title": "Střih + Vousy",
+      "desc": "Kompletní péče o vlasy i vousy.",
+      "duration": "60 min",
+      "price": "500",
+      "currency": "Kč"
+    },
+    {
+      "title": "Holení břitvou",
+      "desc": "Tradiční holení, horký ručník, tonik.",
+      "duration": "30 min",
+      "price": "300",
+      "currency": "Kč"
+    },
+    {
+      "title": "Junior střih (do 12 let)",
+      "desc": "Klidná atmosféra, trpělivý barber.",
+      "duration": "30 min",
+      "price": "250",
+      "currency": "Kč"
+    }
+  ],
+  "about": {
+    "heading": "Moderní barbershop.\nTvoje místo v Přelouči.",
+    "image": "./assets/about-chair.jpg",
+    "paragraphs": [
+      "HT Salon není jen místo na střih. Je to prostor, kde se cítíš dobře — moderní, ale s respektem k řemeslu.",
+      "Věříme, že dobrý střih změní náladu na celý den. Proto ke každému přistupujeme individuálně a bez spěchu.",
+      "Pracujeme s kvalitními produkty a nástroji. Žádné kompromisy."
+    ],
+    "brands": [
+      { "name": "Wahl",    "label": "Profesionální strojky" },
+      { "name": "Proraso", "label": "Italská péče"          },
+      { "name": "Reuzel",  "label": "Styling produkty"      }
+    ]
+  },
+  "teamHeading": "Váš tým barberů.",
+  "team": [
+    {
+      "image": "./assets/barber-1.jpg",
+      "name": "Honza",
+      "role": "Head Barber",
+      "specialization": "Klasické střihy · Fade · Moderní styly",
+      "years": 5
+    },
+    {
+      "image": "./assets/barber-2.jpg",
+      "name": "Tomáš",
+      "role": "Barber",
+      "specialization": "Vousy · Skin fade · Konzultace",
+      "years": 3
+    },
+    {
+      "image": "./assets/barber-3.jpg",
+      "name": "Marek",
+      "role": "Barber",
+      "specialization": "Holení · Úprava vousů · Junioři",
+      "years": 2
+    }
+  ],
+  "galleryHeading": "Atmosféra v obrazech.",
+  "gallery": [
+    { "image": "./assets/gallery-6.jpg", "alt": "Interiér salonku" },
+    { "image": "./assets/gallery-1.jpg", "alt": "Nástroje řemesla" },
+    { "image": "./assets/gallery-2.jpg", "alt": "Detail střihu" },
+    { "image": "./assets/gallery-3.jpg", "alt": "Barber při práci" },
+    { "image": "./assets/gallery-4.jpg", "alt": "Police s produkty" },
+    { "image": "./assets/gallery-5.jpg", "alt": "Příprava" }
+  ],
+  "contactHeading": "Zarezervujte si křeslo.",
+  "footer": {
+    "tagline": "Moderní barbershop v Přelouči. Střih, holení a péče pro každého gentlemana.",
+    "copyright": "HT Salon",
+    "established": "MMXXV"
+  }
+}

@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" id="meta-desc" content="">
+  <title id="page-title">Loading…</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+<body>
+
+<!-- Loading screen -->
+<div id="loading-screen"><div class="loader"></div></div>
+
+<!-- ═══ HEADER ════════════════════════════════════════════ -->
+<header id="site-header">
+  <div class="header-inner">
+    <a href="#home" class="logo" id="logo">…</a>
+    <nav class="desktop-nav" id="desktop-nav"></nav>
+    <a href="#contact" class="btn-luxury" id="header-cta">Rezervovat</a>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Otevřít menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="mobile-nav" id="mobile-nav">
+    <div class="mobile-nav-inner" id="mobile-nav-inner"></div>
+  </div>
+</header>
+
+<!-- ═══ HERO ══════════════════════════════════════════════ -->
+<section id="home" class="hero">
+  <img id="hero-image" class="ken-burns" src="" alt="">
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <span class="ornament reveal" id="hero-ornament"></span>
+    <h1 id="hero-heading" class="reveal"></h1>
+    <p id="hero-sub" class="reveal"></p>
+    <div class="hero-actions reveal">
+      <a href="#contact" class="btn-luxury btn-luxury-solid" id="hero-cta-1">Rezervovat termín</a>
+      <a href="#services" class="btn-luxury" id="hero-cta-2">Naše služby</a>
+    </div>
+  </div>
+  <div class="scroll-hint">↓ Scroll</div>
+</section>
+
+<!-- ═══ STATS ═════════════════════════════════════════════ -->
+<section class="stats-strip">
+  <div class="stats-grid" id="stats-grid"></div>
+</section>
+
+<!-- ═══ RITUAL ════════════════════════════════════════════ -->
+<section id="ritual" class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="ornament reveal">Rituál</span>
+      <h2 id="ritual-heading" class="reveal"></h2>
+    </div>
+    <div class="ritual-grid" id="ritual-grid"></div>
+  </div>
+</section>
+
+<!-- ═══ CTA BAND ══════════════════════════════════════════ -->
+<section class="cta-band">
+  <div class="cta-content">
+    <h2 id="cta-heading" class="reveal"></h2>
+    <p id="cta-sub" class="reveal"></p>
+    <a href="#contact" class="btn-luxury reveal" id="cta-btn">Rezervovat termín</a>
+  </div>
+</section>
+
+<!-- ═══ SERVICES ══════════════════════════════════════════ -->
+<section id="services" class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="ornament reveal">Služby &amp; Ceník</span>
+      <h2 class="reveal" id="services-heading">Vyberte si svůj rituál.</h2>
+    </div>
+    <ul class="services-list" id="services-list"></ul>
+    <div style="margin-top:3rem;display:flex;justify-content:flex-end;">
+      <a href="#contact" class="btn-luxury btn-luxury-solid reveal">Rezervovat termín</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ ABOUT ═════════════════════════════════════════════ -->
+<section id="about" class="section about-section">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-image-wrap reveal">
+        <img id="about-image" src="" alt="" class="about-image">
+        <div class="about-image-deco"></div>
+      </div>
+      <div class="about-text">
+        <div class="reveal">
+          <span class="ornament">Náš koncept</span>
+          <h1 id="about-heading"></h1>
+        </div>
+        <div id="about-paragraphs"></div>
+        <div class="hairline"></div>
+        <div class="brands-grid" id="brands-grid"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ TEAM ══════════════════════════════════════════════ -->
+<section id="team" class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="ornament reveal">Tým</span>
+      <h2 id="team-heading" class="reveal"></h2>
+    </div>
+    <div class="team-grid" id="team-grid"></div>
+  </div>
+</section>
+
+<!-- ═══ GALLERY ═══════════════════════════════════════════ -->
+<section id="gallery" class="section" style="padding-bottom:0;">
+  <div class="container">
+    <div class="section-header">
+      <span class="ornament reveal">Lookbook</span>
+      <h2 id="gallery-heading" class="reveal"></h2>
+    </div>
+  </div>
+  <div class="gallery-grid" id="gallery-grid"></div>
+</section>
+
+<!-- ═══ CONTACT ═══════════════════════════════════════════ -->
+<section id="contact" class="section">
+  <div class="container">
+    <div class="section-header">
+      <span class="ornament reveal">Rezervace &amp; Kontakt</span>
+      <h2 id="contact-heading" class="reveal"></h2>
+    </div>
+    <div class="contact-grid">
+      <div class="contact-details" id="contact-details"></div>
+      <div class="contact-map">
+        <iframe id="map-iframe" src="" title="Mapa" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FOOTER ════════════════════════════════════════════ -->
+<footer id="site-footer">
+  <div class="footer-inner" id="footer-inner"></div>
+  <div class="footer-bottom">
+    <div class="footer-bottom-inner">
+      <span id="footer-copy"></span>
+      <span id="footer-est"></span>
+    </div>
+  </div>
+</footer>
+
+<script>
+/* ═══════════════════════════════════════════════════════════
+   BARBERSHOP TEMPLATE — Config Loader & Renderer
+   ═══════════════════════════════════════════════════════════ */
+
+(async function () {
+  /* ── 1. Load config ─────────────────────────────────── */
+  let cfg;
+  try {
+    const res = await fetch('./config.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    cfg = await res.json();
+  } catch (e) {
+    document.getElementById('loading-screen').innerHTML =
+      '<div style="color:#c8c2b5;font-family:monospace;text-align:center;padding:2rem">' +
+      '<p style="font-size:1.5rem;margin-bottom:1rem">⚠</p>' +
+      '<p>config.json nenalezen nebo nečitelný</p>' +
+      '<p style="opacity:.5;margin-top:.5rem;font-size:.8rem">' + e.message + '</p></div>';
+    return;
+  }
+
+  /* ── 2. Apply CSS color variables ───────────────────── */
+  const c = cfg.colors || {};
+  const root = document.documentElement;
+  if (c.background)  root.style.setProperty('--color-bg',     c.background);
+  if (c.foreground)  root.style.setProperty('--color-fg',     c.foreground);
+  if (c.card)        root.style.setProperty('--color-card',   c.card);
+  if (c.accent)      root.style.setProperty('--color-accent', c.accent);
+  if (c.chrome)      root.style.setProperty('--color-chrome', c.chrome);
+  if (c.cream)       root.style.setProperty('--color-cream',  c.cream);
+  if (c.muted)       root.style.setProperty('--color-muted',  c.muted);
+  if (c.olive)       root.style.setProperty('--color-olive',  c.olive);
+
+  /* ── 3. Helper: safe text ───────────────────────────── */
+  const t = (id, val) => {
+    const el = document.getElementById(id);
+    if (el && val != null) el.textContent = val;
+  };
+  const h = (id, val) => {
+    const el = document.getElementById(id);
+    if (el && val != null) el.innerHTML = val;
+  };
+
+  const b = cfg.business || {};
+  const contact = cfg.contact || {};
+
+  /* ── 4. Meta & title ────────────────────────────────── */
+  document.title = (b.name || 'Barbershop') + (b.city ? ' — ' + b.city : '');
+  const metaDesc = document.getElementById('meta-desc');
+  if (metaDesc) metaDesc.content = b.description || '';
+
+  /* ── 5. Logo ────────────────────────────────────────── */
+  const logoEl = document.getElementById('logo');
+  if (logoEl) {
+    const name = b.name || 'BARBER·ROOM';
+    const dotIdx = name.indexOf('·');
+    if (dotIdx !== -1) {
+      logoEl.innerHTML = name.slice(0, dotIdx) +
+        '<span class="dot">·</span>' + name.slice(dotIdx + 1);
+    } else {
+      logoEl.textContent = name;
+    }
+  }
+
+  /* ── 6. Navigation ──────────────────────────────────── */
+  const nav = cfg.nav || [
+    { label: 'Domů',    href: '#home'     },
+    { label: 'Koncept', href: '#about'    },
+    { label: 'Služby',  href: '#services' },
+    { label: 'Lookbook',href: '#gallery'  },
+    { label: 'Barbeři', href: '#team'     },
+    { label: 'Kontakt', href: '#contact'  },
+  ];
+  const navHTML = nav.map(n =>
+    `<a href="${n.href}" class="nav-link">${n.label}</a>`
+  ).join('');
+  document.getElementById('desktop-nav').innerHTML = navHTML;
+  const mobileLinks = nav.map(n =>
+    `<a href="${n.href}" class="nav-link">${n.label}</a>`
+  ).join('');
+  const ctaLabel = cfg.hero?.ctaLabel || 'Rezervovat termín';
+  document.getElementById('mobile-nav-inner').innerHTML =
+    mobileLinks + `<a href="#contact" class="btn-luxury btn-luxury-solid">${ctaLabel}</a>`;
+
+  /* ── 7. Hero ────────────────────────────────────────── */
+  const hero = cfg.hero || {};
+  const heroImg = document.getElementById('hero-image');
+  if (heroImg) { heroImg.src = hero.image || './assets/hero-interior.jpg'; heroImg.alt = b.name || ''; }
+  t('hero-ornament', hero.ornament || (b.city ? b.city + ' · Estd. MMXXV' : ''));
+  t('hero-heading',  hero.heading  || b.tagline || '');
+  t('hero-sub',      hero.subheading || b.description || '');
+
+  /* ── 8. Stats ───────────────────────────────────────── */
+  const stats = cfg.stats || [];
+  document.getElementById('stats-grid').innerHTML = stats.map(s => `
+    <div class="reveal">
+      <span class="stat-value">${s.value}</span>
+      <span class="stat-label">${s.label}</span>
+    </div>`).join('');
+
+  /* ── 9. Ritual steps ────────────────────────────────── */
+  const ritual = cfg.ritual || {};
+  t('ritual-heading', ritual.heading || 'Tři kroky k dokonalosti');
+  const steps = ritual.steps || [];
+  document.getElementById('ritual-grid').innerHTML = steps.map((s, i) => `
+    <article class="ritual-card reveal">
+      <div class="ritual-card-img">
+        <img src="${s.image || ''}" alt="${s.title}" loading="lazy">
+      </div>
+      <div class="ritual-card-body">
+        <div class="ritual-num">0${i + 1}</div>
+        <h3>${s.title}</h3>
+        <p>${s.text}</p>
+      </div>
+    </article>`).join('');
+
+  /* ── 10. CTA Band ───────────────────────────────────── */
+  const cta = cfg.cta || {};
+  t('cta-heading', cta.heading || 'Připraveni na svůj rituál?');
+  t('cta-sub', cta.subheading || 'Termíny se plní rychle. Zarezervujte si svůj online — během chvíle.');
+
+  /* ── 11. Services ───────────────────────────────────── */
+  const services = cfg.services || [];
+  document.getElementById('services-list').innerHTML = services.map(s => `
+    <li class="service-item reveal">
+      <span class="service-title">${s.title}</span>
+      <span class="service-duration">${s.duration || ''}</span>
+      <span class="service-price">${s.price}<span class="currency">${s.currency || 'Kč'}</span></span>
+      <p class="service-desc">
+        ${s.duration ? `<span style="color:var(--color-accent);margin-right:.5rem">${s.duration} ·</span>` : ''}
+        ${s.desc}
+      </p>
+    </li>`).join('');
+
+  /* ── 12. About ──────────────────────────────────────── */
+  const about = cfg.about || {};
+  const aboutImg = document.getElementById('about-image');
+  if (aboutImg) { aboutImg.src = about.image || './assets/about-chair.jpg'; aboutImg.alt = b.name || ''; }
+  t('about-heading', about.heading || '');
+  const paras = about.paragraphs || [];
+  document.getElementById('about-paragraphs').innerHTML =
+    paras.map(p => `<p class="about-para reveal">${p}</p>`).join('');
+  const brands = about.brands || [];
+  document.getElementById('brands-grid').innerHTML = brands.map(br => `
+    <div class="reveal">
+      <div class="brand-name">${br.name}</div>
+      <div class="brand-label">${br.label}</div>
+    </div>`).join('');
+
+  /* ── 13. Team ───────────────────────────────────────── */
+  const team = cfg.team || [];
+  t('team-heading', cfg.teamHeading || 'Mistři řemesla.');
+  document.getElementById('team-grid').innerHTML = team.map(p => `
+    <article class="team-card reveal">
+      <div class="team-card-img">
+        <img src="${p.image || ''}" alt="${p.name}" loading="lazy">
+        <div class="team-img-overlay"></div>
+        <div class="team-name-block">
+          <div class="team-role">${p.role}</div>
+          <div class="team-name">${p.name}</div>
+        </div>
+      </div>
+      <div class="team-card-body">
+        <p class="team-spec">${p.specialization}</p>
+        <div class="team-meta">
+          <span class="team-years">${p.years} let praxe</span>
+          <a href="#contact" class="team-book">Rezervovat →</a>
+        </div>
+      </div>
+    </article>`).join('');
+
+  /* ── 14. Gallery ────────────────────────────────────── */
+  const gallery = cfg.gallery || [];
+  t('gallery-heading', cfg.galleryHeading || 'Atmosféra v obrazech.');
+  document.getElementById('gallery-grid').innerHTML = gallery.map(g => `
+    <div class="gallery-item reveal">
+      <img src="${g.image}" alt="${g.alt || ''}" loading="lazy">
+    </div>`).join('');
+
+  /* ── 15. Contact ────────────────────────────────────── */
+  t('contact-heading', cfg.contactHeading || 'Zarezervujte si křeslo.');
+  const hours = cfg.hours || [];
+  const hoursHTML = hours.map(h =>
+    `<li class="hours-row${h.closed ? ' closed' : ''}">
+       <span class="day">${h.days}</span>
+       <span class="time">${h.hours}</span>
+     </li>`).join('');
+  const contactNote = contact.parking
+    ? `<p class="contact-note"><span class="hl">Parkování</span> ${contact.parking}</p>` : '';
+  const bookingBtn = contact.bookingUrl
+    ? `<a href="${contact.bookingUrl}" target="_blank" rel="noreferrer"
+          class="btn-luxury btn-luxury-solid">Online rezervace</a>` : '';
+  const mapsBtn = contact.mapsLink
+    ? `<a href="${contact.mapsLink}" target="_blank" rel="noreferrer"
+          class="btn-luxury">Mapa</a>` : '';
+  document.getElementById('contact-details').innerHTML = `
+    <div class="reveal">
+      <div class="contact-label">Adresa</div>
+      <div class="contact-address">
+        ${contact.address || ''}
+        <div class="sub">${contact.city || ''}</div>
+      </div>
+    </div>
+    <div class="hairline"></div>
+    <div class="reveal">
+      <div class="contact-label">Rezervace</div>
+      <a href="tel:${(contact.phone || '').replace(/\s/g, '')}" class="contact-phone">${contact.phone || ''}</a>
+      <a href="mailto:${contact.email || ''}" class="contact-email">${contact.email || ''}</a>
+    </div>
+    <div class="hairline"></div>
+    <div class="reveal">
+      <div class="contact-label">Otevírací doba</div>
+      <ul class="hours-list">${hoursHTML}</ul>
+    </div>
+    ${contactNote ? '<div class="hairline"></div><div class="reveal">' + contactNote + '</div>' : ''}
+    <div class="contact-actions reveal">${bookingBtn}${mapsBtn}</div>`;
+
+  /* Map */
+  const mapIframe = document.getElementById('map-iframe');
+  if (mapIframe) mapIframe.src = contact.mapEmbed || 'https://www.openstreetmap.org/export/embed.html?bbox=14.200%2C49.900%2C14.600%2C50.200&layer=mapnik&marker=50.0755%2C14.4378';
+
+  /* ── 16. Footer ─────────────────────────────────────── */
+  const social = cfg.social || {};
+  const footer = cfg.footer || {};
+  const socialLinks = Object.entries(social)
+    .filter(([, url]) => url && url !== '#')
+    .map(([name, url]) =>
+      `<a href="${url}" target="_blank" rel="noreferrer">${name.charAt(0).toUpperCase() + name.slice(1)}</a>`)
+    .join('');
+  const footerHoursHTML = hours.map(h =>
+    `<li class="${h.closed ? 'closed' : ''}">
+       <span>${h.days}</span><span class="val">${h.hours}</span>
+     </li>`).join('');
+  const logoName = b.name || 'BARBER·ROOM';
+  const dotIdx = logoName.indexOf('·');
+  const footerLogoHTML = dotIdx !== -1
+    ? logoName.slice(0, dotIdx) + '<span class="dot">·</span>' + logoName.slice(dotIdx + 1)
+    : logoName;
+  document.getElementById('footer-inner').innerHTML = `
+    <div>
+      <div class="footer-logo">${footerLogoHTML}</div>
+      <p class="footer-tagline">${footer.tagline || b.description || ''}</p>
+      ${socialLinks ? '<div class="footer-social">' + socialLinks + '</div>' : ''}
+    </div>
+    <div class="footer-col">
+      <h4>Otevírací doba</h4>
+      <ul>${footerHoursHTML}</ul>
+      ${contact.parking ? `<p style="margin-top:1.5rem;font-size:.75rem;color:var(--color-muted)">${contact.parking}</p>` : ''}
+    </div>
+    <div class="footer-col">
+      <h4>Kontakt</h4>
+      <address><ul class="footer-addr">
+        <li>${contact.address || ''}</li>
+        <li>${contact.city || ''}</li>
+        ${contact.phone ? `<li style="padding-top:.5rem"><a href="tel:${(contact.phone).replace(/\s/g,'')}">${contact.phone}</a></li>` : ''}
+        ${contact.email ? `<li><a href="mailto:${contact.email}">${contact.email}</a></li>` : ''}
+      </ul></address>
+      ${contact.bookingUrl ? `<a href="${contact.bookingUrl}" target="_blank" rel="noreferrer"
+        class="btn-luxury" style="margin-top:2rem">Rezervovat termín</a>` : ''}
+    </div>`;
+
+  const year = new Date().getFullYear();
+  t('footer-copy', `© ${year} ${footer.copyright || b.name || ''}`);
+  t('footer-est', 'Established · ' + (b.established || 'MMXXV'));
+
+  /* ── 17. Fade out loader ────────────────────────────── */
+  const loader = document.getElementById('loading-screen');
+  loader.classList.add('fade-out');
+  setTimeout(() => loader.remove(), 600);
+
+  /* ── 18. Scroll reveal via IntersectionObserver ─────── */
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) { e.target.classList.add('is-visible'); observer.unobserve(e.target); }
+    });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  /* ── 19. Header glass on scroll ─────────────────────── */
+  const header = document.getElementById('site-header');
+  const onScroll = () => header.classList.toggle('scrolled', window.scrollY > 24);
+  onScroll();
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  /* ── 20. Mobile menu ────────────────────────────────── */
+  const toggle = document.getElementById('menu-toggle');
+  const mobileNav = document.getElementById('mobile-nav');
+  toggle.addEventListener('click', () => {
+    const open = mobileNav.classList.toggle('open');
+    toggle.classList.toggle('open', open);
+    toggle.setAttribute('aria-label', open ? 'Zavřít menu' : 'Otevřít menu');
+  });
+  mobileNav.addEventListener('click', e => {
+    if (e.target.tagName === 'A') { mobileNav.classList.remove('open'); toggle.classList.remove('open'); }
+  });
+
+  /* ── 21. Smooth scroll for anchor links ─────────────── */
+  document.querySelectorAll('a[href^="#"]').forEach(a => {
+    a.addEventListener('click', e => {
+      const target = document.querySelector(a.getAttribute('href'));
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+
+})();
+</script>
+</body>
+</html>

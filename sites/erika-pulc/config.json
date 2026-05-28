@@ -1,0 +1,182 @@
+{
+  "template": "barbershop",
+
+  "business": {
+    "name": "ERIKA·PULC",
+    "tagline": "Střihy, které drží tvar – v centru Pardubic",
+    "description": "Pánské kadeřnictví s přesností řemesla a smyslem pro detail. Moderní prostor, klidná atmosféra, výsledek, který funguje i den po návštěvě.",
+    "city": "Pardubice",
+    "established": "MMXX"
+  },
+
+  "colors": {
+    "background": "#121212",
+    "foreground": "#F5F5F7",
+    "card": "#1c1c1c",
+    "accent": "#3A3D40",
+    "chrome": "#B08A53",
+    "cream": "#F5F5F7",
+    "muted": "#7a7a7a",
+    "olive": "#D4AF37"
+  },
+
+  "contact": {
+    "phone": "+420 XXX XXX XXX",
+    "email": "info@erikapulc.cz",
+    "address": "Doplňte adresu",
+    "city": "530 02 Pardubice",
+    "bookingUrl": "#",
+    "mapsLink": "https://maps.google.com/?q=Pardubice+centrum",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=15.772%2C49.994%2C15.786%2C50.002&layer=mapnik&marker=49.998%2C15.779"
+  },
+
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "09:00 — 19:00" },
+    { "days": "Sobota",          "hours": "09:00 — 15:00" },
+    { "days": "Neděle",          "hours": "Zavřeno", "closed": true }
+  ],
+
+  "social": {
+    "instagram": "#",
+    "facebook": "#"
+  },
+
+  "nav": [
+    { "label": "Domů",    "href": "#home"     },
+    { "label": "O nás",   "href": "#about"    },
+    { "label": "Služby",  "href": "#services" },
+    { "label": "Ukázky",  "href": "#gallery"  },
+    { "label": "Tým",     "href": "#team"     },
+    { "label": "Kontakt", "href": "#contact"  }
+  ],
+
+  "hero": {
+    "ornament": "Pardubice · Estd. MMXX",
+    "heading": "Střih s přesností.\nBez kompromisů.",
+    "subheading": "Pánské kadeřnictví v centru Pardubic. Střihy, které drží tvar, péče, která vrátí sebedůvěru.",
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Rezervovat termín"
+  },
+
+  "stats": [
+    { "value": "5+",  "label": "Let zkušeností"    },
+    { "value": "2",   "label": "Specializovaní barbeři" },
+    { "value": "∞",   "label": "Pozornost detailu" }
+  ],
+
+  "ritual": {
+    "heading": "Tři kroky k dokonalému střihu",
+    "steps": [
+      {
+        "image": "./assets/gallery-1.jpg",
+        "title": "Konzultace",
+        "text": "Nejdřív si povíme, co chcete. Váš typ vlasů, způsob života, jak moc času chcete věnovat stylingů doma."
+      },
+      {
+        "image": "./assets/gallery-6.jpg",
+        "title": "Přesné řemeslo",
+        "text": "Střih nůžkami nebo strojkem – s plnou soustředěností. Každý přechod, každá linka má svůj důvod."
+      },
+      {
+        "image": "./assets/gallery-3.jpg",
+        "title": "Výsledek, který trvá",
+        "text": "Odcházíte s hlavou, která vypadá upraveně i za týden. A s tím, jak to doma zreplikovat."
+      }
+    ]
+  },
+
+  "cta": {
+    "heading": "Čas na nový střih?",
+    "subheading": "Rezervujte si termín online – trvá to 30 sekund."
+  },
+
+  "services": [
+    {
+      "title": "Střih vlasů",
+      "desc": "Konzultace, mytí, střih nůžkami nebo strojkem, styling a závěrečné úpravy.",
+      "duration": "40 min",
+      "price": "450",
+      "currency": "Kč"
+    },
+    {
+      "title": "Střih + Vousy",
+      "desc": "Kompletní péče o vlasy i vousy. Tvarování, úprava kontur, aplikace oleje.",
+      "duration": "60 min",
+      "price": "700",
+      "currency": "Kč"
+    },
+    {
+      "title": "Holení břitvou",
+      "desc": "Klasické holení. Horký ručník, kvalitní pěna, hladká pokožka. Pomalé a precizní.",
+      "duration": "35 min",
+      "price": "380",
+      "currency": "Kč"
+    },
+    {
+      "title": "Úprava vousů",
+      "desc": "Tvarování, zastřižení délky, definice kontur a ošetření olejem nebo balzámem.",
+      "duration": "25 min",
+      "price": "280",
+      "currency": "Kč"
+    },
+    {
+      "title": "Dětský střih (do 12 let)",
+      "desc": "Klidné prostředí, trpělivý přístup, výsledek, se kterým budou spokojeni rodiče i dítě.",
+      "duration": "30 min",
+      "price": "320",
+      "currency": "Kč"
+    },
+    {
+      "title": "Kompletní balíček",
+      "desc": "Střih vlasů, holení břitvou, úprava vousů, masáž hlavy a péče o pokožku v jednom sezení.",
+      "duration": "90 min",
+      "price": "980",
+      "currency": "Kč"
+    }
+  ],
+
+  "about": {
+    "heading": "Moderní prostor.\nKlasické řemeslo.",
+    "image": "./assets/about-chair.jpg",
+    "paragraphs": [
+      "Erika Pulc provozuje pánské kadeřnictví v centru Pardubic s jedním cílem: aby každý muž odešel s hlavou, na kterou je hrdý. Žádný shon, žádné kompromisy.",
+      "Prostor je navržen tak, abyste se u nás cítili pohodlně – industriální estetika, tlumené světlo, klid. Místo, kde se střih stává přestávkou v hektickém dni.",
+      "Pracujeme s prověřenými přípravky evropských značek a nástroji, které skutečně fungují. Každý detail servisu – od mytí vlasů až po závěrečný styling – má svůj smysl."
+    ],
+    "brands": [
+      { "name": "Wahl",      "label": "Profesionální strojky" },
+      { "name": "Proraso",   "label": "Italská péče"          },
+      { "name": "Uppercut",  "label": "Styling produkty"      },
+      { "name": "Solingen",  "label": "Precizní nůžky"        }
+    ]
+  },
+
+  "teamHeading": "Váš barber.",
+  "team": [
+    {
+      "image": "./assets/barber-1.jpg",
+      "name": "Erika Pulc",
+      "role": "Majitelka · Senior Barber",
+      "specialization": "Klasické střihy · Fade · Holení břitvou",
+      "years": 5
+    }
+  ],
+
+  "galleryHeading": "Práce mluví za sebe.",
+  "gallery": [
+    { "image": "./assets/gallery-6.jpg", "alt": "Pohled na křesla" },
+    { "image": "./assets/gallery-1.jpg", "alt": "Detail práce s nůžkami" },
+    { "image": "./assets/gallery-2.jpg", "alt": "Precizní střih" },
+    { "image": "./assets/gallery-3.jpg", "alt": "Interiér kadeřnictví" },
+    { "image": "./assets/gallery-4.jpg", "alt": "Produkty na poličce" },
+    { "image": "./assets/gallery-5.jpg", "alt": "Horký ručník" }
+  ],
+
+  "contactHeading": "Najdete nás v centru Pardubic.",
+
+  "footer": {
+    "tagline": "Pánské kadeřnictví s přesností a smyslem pro detail. Centrum Pardubic.",
+    "copyright": "Erika Pulc",
+    "established": "MMXX"
+  }
+}

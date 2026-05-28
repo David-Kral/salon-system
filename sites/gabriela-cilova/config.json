@@ -1,0 +1,83 @@
+{
+  "template": "salon",
+  "business": {
+    "name": "Gabriela Cilová",
+    "tagline": "Péče o vlasy, která dýchá přirozeností.",
+    "description": "V chrudimském studiu spojujeme vědu Malibu C, K18 a Paul Mitchell s estetikou čistého designu. Vaše vlasy jsou plátnem, kterému dopřáváme čas a pozornost.",
+    "city": "Chrudim"
+  },
+  "colors": {
+    "background": "#fdfbf7",
+    "foreground": "#262626",
+    "primary": "#262626",
+    "accent": "#a8a29e",
+    "sand": "#e7e2d8",
+    "surface": "#f5f3ee",
+    "muted": "#737373"
+  },
+  "contact": {
+    "phone": "+420 775 399 470",
+    "email": "gabrielacilova@centrum.cz",
+    "address": "Rooseveltova 335",
+    "city": "537 01 Chrudim",
+    "mapsLink": "https://maps.google.com/?q=Rooseveltova+335+Chrudim",
+    "mapEmbed": "https://maps.google.com/maps?q=Rooseveltova+335,+537+01+Chrudim&output=embed&hl=cs"
+  },
+  "hours": [
+    { "days": "Pondělí – Pátek", "hours": "9:00 — 18:00" },
+    { "days": "Sobota",          "hours": "9:00 — 14:00" },
+    { "days": "Neděle",          "hours": "Zavřeno", "closed": true }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/gabrielacilova"
+  },
+  "nav": [
+    { "label": "Služby",   "href": "#services" },
+    { "label": "O salonu", "href": "#about"    },
+    { "label": "Kontakt",  "href": "#contact"  }
+  ],
+  "hero": {
+    "heading": "Péče o vlasy, která dýchá přirozeností.",
+    "subheading": "V chrudimském studiu spojujeme vědu Malibu C, K18 a Paul Mitchell s estetikou čistého designu. Vaše vlasy jsou plátnem, kterému dopřáváme čas a pozornost.",
+    "image": "./assets/hero-salon.jpg",
+    "ctaLabel": "Ceník služeb"
+  },
+  "brands": ["Malibu C", "K18 Molecular", "Paul Mitchell", "Oway"],
+  "servicesHeading": "Vybrané rituály",
+  "services": [
+    {
+      "image": "./assets/service-cleanse.jpg",
+      "tag": "Ozdravná kúra",
+      "title": "Malibu C Crystal Gel",
+      "desc": "Hloubkové čištění vlasů od minerálů a nánosů stylingových produktů.",
+      "price": "od 1 200 Kč"
+    },
+    {
+      "image": "./assets/service-balayage.jpg",
+      "tag": "Barvení",
+      "title": "Balayage & Tónování",
+      "desc": "Přirozené přechody inspirované sluncem s důrazem na zdraví vlasového vlákna.",
+      "price": "od 2 800 Kč"
+    },
+    {
+      "image": "./assets/service-k18.jpg",
+      "tag": "Regenerace",
+      "title": "K18 Molekulární péče",
+      "desc": "Revoluční obnova poškozených keratinových řetězců během 4 minut.",
+      "price": "od 650 Kč"
+    }
+  ],
+  "about": {
+    "label": "O salonu",
+    "quote": "Čistím a vyživuji vlasy. Poradím péči na míru — tak, aby z každé návštěvy odcházel klient s lehkostí a jistotou.",
+    "author": "Gabriela Cilová"
+  },
+  "contactHeading": "Najdete nás v Chrudimi",
+  "footerLinks": [
+    { "label": "Obchodní podmínky", "href": "#" },
+    { "label": "Ochrana údajů",     "href": "#" }
+  ],
+  "footer": {
+    "copyright": "Gabriela Cilová"
+  }
+}
