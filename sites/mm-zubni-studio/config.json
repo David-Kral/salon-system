@@ -1,0 +1,199 @@
+{
+  "template": "dentist",
+  "colors": {
+    "ink": "#0e0e0d",
+    "paper": "#ffffff",
+    "cream": "#f1ece3",
+    "fg": "#15140f",
+    "fgInv": "#f4f1ea",
+    "muted": "#8c857a",
+    "mutedInv": "#8f897e"
+  },
+  "hours": [
+    {
+      "days": "Po – Čt",
+      "hours": "08:00 — 17:00"
+    },
+    {
+      "days": "Pá",
+      "hours": "08:00 — 13:00"
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com"
+  },
+  "nav": [
+    {
+      "label": "Studio",
+      "href": "#about"
+    },
+    {
+      "label": "Služby",
+      "href": "#services"
+    },
+    {
+      "label": "Ceník",
+      "href": "#pricing"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Kontakt",
+      "href": "#contact"
+    }
+  ],
+  "cta": {
+    "label": "Chci se objednat"
+  },
+  "hero": {
+    "image": "./assets/hero.png",
+    "ctaLabel": "Chci se objednat",
+    "secondaryLabel": "Více o studiu",
+    "heading": "Precizní estetika.\nNekompromisní péče."
+  },
+  "trust": [
+    "Skandinávský minimalismus",
+    "Švýcarské technologie",
+    "Guided Biofilm Therapy",
+    "Mikroskopická endodoncie",
+    "Estetická stomatologie"
+  ],
+  "servicesLabel": "Služby",
+  "servicesHeading": "Čtyři pilíře *naší* péče.",
+  "servicesIntro": "Každý zákrok začíná detailní konzultací a kompletním plánem léčby — víte přesně, co vás čeká, a kolik to bude stát.",
+  "services": [
+    {
+      "num": "01",
+      "title": "Estetická stomatologie & fasety",
+      "tag": "Premiérová proměna úsměvu",
+      "detail": "Keramické fasety a kompozitní dostavby, které vrátí úsměvu přirozený tvar i barvu. Návrh úsměvu konzultujeme digitálně předem."
+    },
+    {
+      "num": "02",
+      "title": "Dentální hygiena & bělení",
+      "tag": "Guided Biofilm Therapy",
+      "detail": "Šetrná profesionální hygiena metodou GBT a ordinační bělení s viditelným a trvalým výsledkem."
+    },
+    {
+      "num": "03",
+      "title": "Mikroskopická endodoncie",
+      "tag": "Ošetření kořenových kanálků",
+      "detail": "Ošetření kořenových kanálků pod operačním mikroskopem — vyšší úspěšnost a záchrana vlastního zubu."
+    },
+    {
+      "num": "04",
+      "title": "Implantologie & chirurgie",
+      "tag": "Plnohodnotná náhrada zubů",
+      "detail": "Zubní implantáty s dlouhou životností a přirozeným vzhledem, plánované ve 3D pro maximální přesnost."
+    }
+  ],
+  "pricingLabel": "Ceník",
+  "pricingHeading": "Transparentní standard.",
+  "pricingIntro": "Orientační ceny nejnavštěvovanějších úkonů. Závazný rozpočet dostanete vždy po vstupním vyšetření.",
+  "pricing": [
+    {
+      "name": "Vstupní vyšetření & konzultace",
+      "price": "1 800 Kč"
+    },
+    {
+      "name": "Dentální hygiena (GBT)",
+      "price": "od 2 400 Kč"
+    },
+    {
+      "name": "Bělení zubů ordinační",
+      "price": "od 8 500 Kč"
+    },
+    {
+      "name": "Estetická faseta (keramická)",
+      "price": "od 16 000 Kč"
+    },
+    {
+      "name": "Mikroskopické ošetření kanálků",
+      "price": "od 9 500 Kč"
+    },
+    {
+      "name": "Implantát s korunkou",
+      "price": "od 42 000 Kč"
+    }
+  ],
+  "pricingNote": "Ceny jsou orientační a mohou se lišit dle rozsahu ošetření. Přesný plán léčby a rozpočet sestavujeme individuálně po konzultaci.",
+  "faqLabel": "FAQ",
+  "faqHeading": "Pravidla studia.",
+  "faq": [
+    {
+      "q": "Berete nové pacienty?",
+      "a": "Ano, kapacitu pro nové pacienty otevíráme průběžně. Ozvěte se nám telefonicky nebo přes formulář a domluvíme vstupní konzultaci."
+    },
+    {
+      "q": "Jak probíhá první návštěva?",
+      "a": "První návštěva je komplexní vstupní vyšetření — projdeme stav chrupu, vaše přání a sestavíme individuální plán léčby s transparentním rozpočtem."
+    },
+    {
+      "q": "Co když musím zrušit termín?",
+      "a": "Termín lze bezplatně zrušit nejpozději 24 hodin předem. Stačí zavolat nebo napsat."
+    },
+    {
+      "q": "Pracujete s pojišťovnami?",
+      "a": "Část výkonů je hrazena z veřejného zdravotního pojištění, nadstandardní a estetické výkony jsou hrazeny přímo. Vše dopředu vysvětlíme."
+    },
+    {
+      "q": "Nabízíte sedaci pro úzkostné pacienty?",
+      "a": "Ano. Pro úzkostné pacienty nabízíme šetrné postupy a možnost sedace — řešení vždy volíme individuálně."
+    }
+  ],
+  "contactLabel": "Kontakt",
+  "contactHeading": "Začněme *vaším* úsměvem.",
+  "footerLinks": [
+    {
+      "label": "GDPR",
+      "href": "#"
+    },
+    {
+      "label": "Právní informace",
+      "href": "#"
+    }
+  ],
+  "business": {
+    "name": "MM zubní studio",
+    "monogram": "MM",
+    "tagline": "Precizní estetika.\nNekompromisní péče.",
+    "description": "Privátní zubní studio v Pardubicích. Estetická stomatologie, mikroskopická endodoncie a dentální hygiena v klidném, nadstandardním prostředí."
+  },
+  "contact": {
+    "phone": "+420 777 000 000",
+    "email": "studio@mmstudio.cz",
+    "address": "Hronovická 2815",
+    "city": "530 02 Pardubice",
+    "region": "Pardubice · centrum"
+  },
+  "philosophy": {
+    "label": "Filozofie",
+    "heading": "Změnili jsme strach ze zubaře *v relaxační* zážitek.",
+    "paragraphs": [
+      "Spojujeme nejmodernější techniku s lidským přístupem. Vše se u nás odehrává v klidném tempu — každý pacient je pro nás jediný.",
+      "Naše studio jsme navrhli do detailu — architekturou počínaje, tichem konče. Vše tu dýchá péčí o vaše pohodlí i zdraví."
+    ],
+    "portrait": "./assets/portrait.svg",
+    "caption": "MUDr. Michaela Hájková, MBA — zakladatelka",
+    "stats": [
+      {
+        "value": "12",
+        "label": "Let praxe"
+      },
+      {
+        "value": "04",
+        "label": "Specialisté"
+      },
+      {
+        "value": "01",
+        "label": "Cíl: váš klid"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "MM zubní studio"
+  }
+}

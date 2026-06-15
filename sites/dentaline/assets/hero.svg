@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Interiér ordinace">
+  <rect width="1600" height="1000" fill="#0e0e0d"/>
+  <g stroke="rgba(244,241,234,0.06)" stroke-width="1">
+    <path d="M0 200H1600M0 400H1600M0 600H1600M0 800H1600"/>
+    <path d="M400 0V1000M800 0V1000M1200 0V1000"/>
+  </g>
+  <g fill="none" stroke="rgba(244,241,234,0.16)" stroke-width="2">
+    <rect x="980" y="380" width="360" height="240" rx="120"/>
+    <line x1="1160" y1="620" x2="1160" y2="760"/>
+    <rect x="1080" y="760" width="160" height="40" rx="20"/>
+  </g>
+  <text x="120" y="520" font-family="Georgia, serif" font-size="46" fill="rgba(244,241,234,0.35)">placeholder — foto interiéru ordinace</text>
+  <text x="120" y="580" font-family="Inter, sans-serif" font-size="24" letter-spacing="3" fill="rgba(244,241,234,0.25)">NAHRAĎTE VLASTNÍ FOTOGRAFIÍ (./assets/hero.svg)</text>
+</svg>

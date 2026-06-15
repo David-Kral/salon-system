@@ -147,6 +147,7 @@
     }
     .badge-barbershop { background: rgba(55,67,47,0.5); color: #8fa97e; border: 1px solid rgba(55,67,47,0.8); }
     .badge-salon      { background: rgba(168,162,158,0.15); color: #c5bfbb; border: 1px solid rgba(168,162,158,0.3); }
+    .badge-dentist    { background: rgba(20,184,166,0.15); color: #5fd3c4; border: 1px solid rgba(20,184,166,0.35); }
     .site-slug {
       font-size: 0.75rem;
       color: var(--muted);
@@ -307,7 +308,11 @@
       <span class="stat-lbl">Salon</span>
     </div>
     <div class="stat-cell">
-      <span class="stat-num">2</span>
+      <span class="stat-num" id="dentist-count">—</span>
+      <span class="stat-lbl">Zubaři</span>
+    </div>
+    <div class="stat-cell">
+      <span class="stat-num">3</span>
       <span class="stat-lbl">Šablony</span>
     </div>
   </div>
@@ -319,7 +324,7 @@
 </main>
 
 <footer class="dash-footer">
-  Salon System · Šablony: <code>barbershop/template/</code> a <code>salon/template/</code> ·
+  Salon System · Šablony: <code>barbershop/</code>, <code>salon/</code> a <code>dentist/</code> ·
   Konfigurace: <code>sites/[slug]/config.json</code>
 </footer>
 
@@ -336,16 +341,25 @@ const SITES = [
   { slug: 'erika-pulc',         template: 'barbershop' },
   { slug: 'ht-salon',           template: 'barbershop' },
   { slug: 'muj-novy-barbershop',template: 'barbershop' },
+  { slug: 'usmev-dental',       template: 'dentist'    },
+  { slug: 'mm-zubni-studio',    template: 'dentist'    },
+  { slug: 'dentpra',            template: 'dentist'    },
+  { slug: 'denticio',           template: 'dentist'    },
+  { slug: 'happyend',           template: 'dentist'    },
+  { slug: 'dentaline',          template: 'dentist'    },
+  { slug: 'alma-dental',        template: 'dentist'    },
+  { slug: 'rodinne-zubni-centrum', template: 'dentist' },
 ];
 
 const TEMPLATE_LABELS = {
   barbershop: 'Barbershop',
   salon:      'Salon',
+  dentist:    'Zubař',
 };
 
 function colorDots(colors) {
   if (!colors) return '';
-  const keys = ['background','accent','chrome','cream'].filter(k => colors[k]);
+  const keys = ['background','primary','accent','chrome','cream'].filter(k => colors[k]);
   if (!keys.length) return '';
   return '<div class="color-dots">' +
     keys.map(k => `<div class="color-dot" style="background:${colors[k]}" title="${k}: ${colors[k]}"></div>`).join('') +
@@ -398,7 +412,7 @@ async function renderDashboard() {
     const metaPills = [];
     if (contact.city || b.city) metaPills.push(`📍 ${contact.city || b.city}`);
     if (contact.phone)          metaPills.push(`📞 ${contact.phone}`);
-    if (cfg.services?.length)   metaPills.push(`✂️ ${cfg.services.length} služeb`);
+    if (cfg.services?.length)   metaPills.push(`${site.template === 'dentist' ? '🦷' : '✂️'} ${cfg.services.length} služeb`);
 
     return `<div class="site-card">
       <div class="site-card-header">
@@ -437,10 +451,12 @@ async function renderDashboard() {
   const loaded = results.filter(r => r.status === 'fulfilled').length;
   const barbershops = SITES.filter((s, i) => s.template === 'barbershop' && results[i].status === 'fulfilled').length;
   const salons      = SITES.filter((s, i) => s.template === 'salon'      && results[i].status === 'fulfilled').length;
+  const dentists    = SITES.filter((s, i) => s.template === 'dentist'    && results[i].status === 'fulfilled').length;
 
   document.getElementById('total-sites').textContent     = loaded;
   document.getElementById('barbershop-count').textContent = barbershops;
   document.getElementById('salon-count').textContent      = salons;
+  document.getElementById('dentist-count').textContent    = dentists;
   document.getElementById('topbar-meta').textContent      =
     `${loaded} weby aktivní · ${new Date().toLocaleDateString('cs-CZ')}`;
 }

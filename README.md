@@ -23,6 +23,12 @@ salon-system/
 │       ├── style.css             ← CSS salon stylu
 │       └── assets/               ← Výchozí obrázky šablony
 │
+├── dentist/
+│   └── template/
+│       ├── index.html            ← Šablona (načítá ./config.json)
+│       ├── style.css             ← CSS zubařského stylu
+│       └── assets/               ← Výchozí SVG placeholdery
+│
 └── sites/
     ├── velvet-chrome/            ← Prémiový barbershop Praha
     │   └── config.json
@@ -44,6 +50,7 @@ salon-system/
 |-------|---------|
 | Barbershop (tmavý luxusní styl) | `barbershop` |
 | Vlasový salon (světlý elegantní styl) | `salon` |
+| Zubní studio (tmavý editoriální styl) | `dentist` |
 
 ### Krok 2 — Zkopíruj šablonu
 
@@ -53,6 +60,9 @@ cp -r barbershop/template/ sites/muj-novy-barbershop/
 
 # Nebo salon:
 cp -r salon/template/ sites/muj-novy-salon/
+
+# Nebo zubař:
+cp -r dentist/template/ sites/moje-nova-ordinace/
 ```
 
 ### Krok 3 — Vytvoř config.json
@@ -89,6 +99,7 @@ const SITES = [
   { slug: 'gabriela-cilova',     template: 'salon'      },
   { slug: 'studio-luna',         template: 'salon'      },
   { slug: 'muj-novy-barbershop', template: 'barbershop' }, // ← přidej tuto řadu
+  { slug: 'moje-nova-ordinace',  template: 'dentist'    }, // ← nebo zubařskou
 ];
 ```
 
@@ -358,27 +369,94 @@ Web bude živý na: `https://UZIVATEL.github.io/muj-novy-barbershop/`
 
 ---
 
-## Tipy
+## Schéma config.json — Zubař (dentist)
 
-**Obrázky:** Doporučená velikost pro hero je 1200×1500px (poměr 4:5). Pro galerii 800×800px.
+Tmavý editoriální „studio" styl (inspirováno MM zubní studio): full-bleed tmavý hero,
+trust bar, číslované sekce **Filozofie · Služby · Ceník · FAQ · Kontakt**, B&W portrét,
+accordiony, kontaktní formulář, tmavá patička. Design je monochromatický (černá/krémová) —
+napříč ordinacemi vypadá identicky, liší se jen obsah.
 
-**Barvy:** Lze zadat v libovolném CSS formátu: `#hex`, `rgb()`, `oklch()` atd.
+V nadpisech: `*text*` = kurzívní serifový akcent, `\n` = zalomení řádku.
 
-**Mapa embed:** Google Maps embed URL získáš na `maps.google.com` → sdílet → vložit mapu → zkopíruj src z iframe.  
-OpenStreetMap embed: `https://www.openstreetmap.org/export/embed.html?bbox=LON1,LAT1,LON2,LAT2&layer=mapnik&marker=LAT,LON`
+```jsonc
+{
+  "template": "dentist",
 
-**Rezervace:** Doporučené systémy: [Reservio](https://reservio.com), [Bookio](https://bookio.cz), [Fresha](https://fresha.com).
+  "business": {
+    "name": "MM zubní studio",
+    "monogram": "MM",                 // 2 písmena do loga (jinak se odvodí z názvu)
+    "tagline": "Precizní estetika.\nNekompromisní péče.",
+    "description": "Meta popis pro SEO..."
+  },
 
-**Vlastní font:** Přidej do `<head>` v šabloně `<link>` tag z Google Fonts a uprav CSS proměnnou `--font-display` nebo `--font-serif`.
+  "colors": {                          // monochromatická paleta (volitelné — má rozumné výchozí)
+    "ink": "#0e0e0d", "paper": "#ffffff", "cream": "#f1ece3",
+    "fg": "#15140f", "fgInv": "#f4f1ea", "muted": "#8c857a", "mutedInv": "#8f897e"
+  },
+
+  "contact": {
+    "phone": "+420 777 000 000",
+    "email": "studio@mmstudio.cz",
+    "address": "Hronovická 2815",
+    "city": "530 02 Pardubice",
+    "region": "Pardubice · centrum"    // popisek u mapy
+  },
+
+  "hours": [ { "days": "Po – Čt", "hours": "08:00 — 17:00" } ],
+  "social": { "instagram": "https://...", "facebook": "https://..." },
+  "nav": [ { "label": "Studio", "href": "#about" } /* ... */ ],
+  "cta": { "label": "Chci se objednat" },
+
+  "hero": {
+    "heading": "Precizní estetika.\nNekompromisní péče.",
+    "ctaLabel": "Chci se objednat",
+    "secondaryLabel": "Více o studiu",
+    "image": "./assets/hero.svg"       // tmavá fotka interiéru (nahraď vlastní)
+  },
+
+  "trust": ["Skandinávský minimalismus", "Guided Biofilm Therapy", "..."],
+
+  "philosophy": {                      // sekce 01
+    "label": "Filozofie",
+    "heading": "Změnili jsme strach ze zubaře *v relaxační* zážitek.",
+    "paragraphs": ["Odstavec 1...", "Odstavec 2..."],
+    "portrait": "./assets/portrait.svg",   // B&W portrét (auto grayscale)
+    "caption": "MUDr. Michaela Hájková, MBA — zakladatelka",
+    "stats": [ { "value": "12", "label": "Let praxe" } ]
+  },
+
+  "servicesLabel": "Služby",           // sekce 02 — accordion
+  "servicesHeading": "Čtyři pilíře *naší* péče.",
+  "servicesIntro": "Krátký text vpravo od nadpisu...",
+  "services": [
+    { "num": "01", "title": "Estetická stomatologie & fasety",
+      "tag": "Premiérová proměna úsměvu", "detail": "Rozbalovací popis..." }
+  ],
+
+  "pricingLabel": "Ceník",             // sekce 03
+  "pricingHeading": "Transparentní standard.",
+  "pricingIntro": "Krátký text pod nadpisem...",
+  "pricing": [ { "name": "Vstupní vyšetření & konzultace", "price": "1 800 Kč" } ],
+  "pricingNote": "Poznámka pod ceníkem...",
+
+  "faqLabel": "FAQ",                   // sekce 04 — accordion
+  "faqHeading": "Pravidla studia.",
+  "faq": [ { "q": "Berete nové pacienty?", "a": "Odpověď..." } ],
+
+  "contactLabel": "Kontakt",           // sekce 05 — formulář + mapa + adresa
+  "contactHeading": "Začněme *vaším* úsměvem.",
+
+  "footerLinks": [ { "label": "Ochrana informací", "href": "#" } ],
+  "footer": { "copyright": "MM zubní studio" }
+}
+```
+
+> **Obrázky:** Dokud nedodáš fotky, šablona použije placeholdery `assets/hero.svg`
+> (tmavý interiér) a `assets/portrait.svg` (B&W portrét). Stačí je přepsat reálnými
+> soubory pod stejným názvem — layout zůstane identický.
+
+> **Kontaktní formulář** otevře e-mailového klienta na `contact.email` (bez backendu).
 
 ---
 
-## Jak funguje technicky
-
-1. Prohlížeč načte `index.html` ze šablony  
-2. JavaScript provede `fetch('./config.json')`  
-3. Z konfigurace aplikuje barvy jako CSS proměnné (`document.documentElement.style.setProperty(...)`)  
-4. Naplní všechny sekce obsahem z JSON (název, texty, obrázky, ceník, tým, mapa...)  
-5. Spustí IntersectionObserver pro scroll reveal animace  
-
-Výsledek: **jeden HTML soubor = nekonečně různých webů** — stačí vyměnit config.json.
+r
