@@ -1,7 +1,7 @@
 {
   "template": "barbershop",
   "business": {
-    "name": "BARBER·ROOM",
+    "name": "barber house",
     "tagline": "Když se řemeslo stává rituálem.",
     "description": "Prémiový střih, holení břitvou a péče v srdci Prahy. Místo, kde čas zpomalí a každý detail má svou váhu.",
     "city": "Praha",
@@ -128,7 +128,7 @@
     "heading": "Salón. Útočiště.\nPrivátní klubovna.",
     "image": "./assets/about-chair.jpg",
     "paragraphs": [
-      "Barber Room není barbershop. Je to malé, pečlivě zařízené místo, kam přijdete unavení a odejdete s pocitem, že vám někdo konečně věnoval čas.",
+      "barber house není barbershop. Je to malé, pečlivě zařízené místo, kam přijdete unavení a odejdete s pocitem, že vám někdo konečně věnoval čas.",
       "Inspirovali jsme se starými gentlemen's cluby — tlumené světlo, tmavé dřevo, kůže, jemný kouř whisky v pozadí. K tomu řemeslo barberů, kteří svou profesi berou jako poslání.",
       "Pracujeme s evropskými klasickými značkami péče, břitvami z Solingenu a italským textilem. Žádné kompromisy, žádné spěchání, žádný stres."
     ],
@@ -175,7 +175,7 @@
   "contactHeading": "Zarezervujte si křeslo.",
   "footer": {
     "tagline": "Prémiový střih, holení a péče v srdci Prahy. Místo, kde se řemeslo mění v rituál.",
-    "copyright": "Barber Room",
+    "copyright": "barber house",
     "established": "MMXXV"
   }
 }
