@@ -1,11 +1,8 @@
-name: Deploy stationery-haven to GitHub Pages
+name: Deploy salon-system to GitHub Pages
 
 on:
   push:
     branches: [master]
-    paths:
-      - "stationery-haven/**"
-      - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
 permissions:
@@ -33,14 +30,25 @@ jobs:
         working-directory: stationery-haven
         run: npm install
 
-      - name: Build
+      - name: Build stationery-haven
         working-directory: stationery-haven
-        run: npm run build
+        run: npx vite build --base=/salon-system/stationery-haven/
+
+      - name: Assemble site (dashboard + demo sites + built app)
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -r sites _site/sites
+          cp -r barbershop _site/barbershop
+          cp -r salon _site/salon
+          cp -r dentist _site/dentist
+          mkdir -p _site/stationery-haven
+          cp -r stationery-haven/dist/. _site/stationery-haven/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: stationery-haven/dist
+          path: _site
 
   deploy:
     environment:
