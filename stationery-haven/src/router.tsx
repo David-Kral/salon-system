@@ -8,7 +8,7 @@ export const getRouter = () => {
   const router = createRouter({
     routeTree,
     context: { queryClient },
-    basepath: "/salon-system",
+    basepath: "/salon-system/stationery-haven",
     scrollRestoration: true,
     defaultPreloadStaleTime: 0,
   });
