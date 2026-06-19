@@ -148,6 +148,7 @@
     .badge-barbershop { background: rgba(55,67,47,0.5); color: #8fa97e; border: 1px solid rgba(55,67,47,0.8); }
     .badge-salon      { background: rgba(168,162,158,0.15); color: #c5bfbb; border: 1px solid rgba(168,162,158,0.3); }
     .badge-dentist    { background: rgba(20,184,166,0.15); color: #5fd3c4; border: 1px solid rgba(20,184,166,0.35); }
+    .badge-shop       { background: rgba(212,175,55,0.15); color: #d4af37; border: 1px solid rgba(212,175,55,0.35); }
     .site-slug {
       font-size: 0.75rem;
       color: var(--muted);
@@ -315,11 +316,48 @@
       <span class="stat-num">3</span>
       <span class="stat-lbl">Šablony</span>
     </div>
+    <div class="stat-cell">
+      <span class="stat-num">1</span>
+      <span class="stat-lbl">React weby</span>
+    </div>
   </div>
 
   <div class="section-title">Aktivní weby</div>
   <div class="sites-grid" id="sites-grid">
     <!-- Populated by JS -->
+  </div>
+
+  <div class="section-title">Ostatní projekty</div>
+  <div class="sites-grid">
+    <div class="site-card">
+      <div class="site-card-header">
+        <span class="template-badge badge-shop">React Shop</span>
+        <span class="site-slug">stationery-haven/</span>
+      </div>
+      <div class="site-card-body">
+        <div class="site-name">Papírnictví Zásilkovna</div>
+        <div class="site-city">Praha 7 — Letná</div>
+        <div class="site-desc">Landing page lokálního papírnictví s výdejním místem Zásilkovny. Školní, kancelářské a výtvarné potřeby.</div>
+        <div class="site-meta">
+          <span class="meta-pill">⚛️ React + Vite</span>
+          <span class="meta-pill">🌐 GitHub Pages</span>
+          <span class="meta-pill">📦 TanStack Router</span>
+        </div>
+      </div>
+      <div class="site-card-footer">
+        <button class="btn-open" onclick="window.open('./stationery-haven/index.html','_blank')">
+          ↗ Lokální náhled
+        </button>
+        <button class="btn-config" onclick="window.open('https://david-kral.github.io/salon-system/','_blank')">
+          GitHub Pages
+        </button>
+      </div>
+    </div>
+    <div class="add-card">
+      <div class="add-icon">＋</div>
+      <div class="add-title">Přidat projekt</div>
+      <div class="add-hint">Nakloňte repo a přidejte kartu sem</div>
+    </div>
   </div>
 </main>
 
