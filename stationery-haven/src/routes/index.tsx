@@ -704,4 +704,7 @@ function LeafIcon({ className }: IconProps) {
 function PuzzleIcon({ className }: IconProps) {
   return (
     <svg className={className} viewBox="0 0 24 24" {...stroke}>
-      <path d="M10 3h4v3a2 2 0 1 0 4 0V3h3v4h-3a2 2 0 1 0 0 4h3v
+      <path d="M10 3h4v3a2 2 0 1 0 4 0V3h3v4h-3a2 2 0 1 0 0 4h3v4h-4a2 2 0 1 1-4 0v4H6v-4a2 2 0 1 0-3 0H3v-4h3a2 2 0 1 0 0-4H3V3h3v3a2 2 0 1 0 4 0V3Z" />
+    </svg>
+  );
+}
