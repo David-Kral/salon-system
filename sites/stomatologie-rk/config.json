@@ -1,0 +1,131 @@
+{
+  "template": "dentist",
+  "colors": {
+    "ink": "#0e0e0d",
+    "paper": "#ffffff",
+    "cream": "#f1ece3",
+    "fg": "#15140f",
+    "fgInv": "#f4f1ea",
+    "muted": "#8c857a",
+    "mutedInv": "#8f897e"
+  },
+  "hours": [
+    { "days": "Po – Čt", "hours": "08:00 — 17:00" },
+    { "days": "Pá", "hours": "08:00 — 13:00" }
+  ],
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com"
+  },
+  "nav": [
+    { "label": "Studio", "href": "#about" },
+    { "label": "Služby", "href": "#services" },
+    { "label": "Ceník", "href": "#pricing" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Kontakt", "href": "#contact" }
+  ],
+  "cta": { "label": "Chci se objednat" },
+  "hero": {
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Chci se objednat",
+    "secondaryLabel": "Více o ordinaci",
+    "heading": "Precizní stomatologie.\nModerní přístup."
+  },
+  "trust": [
+    "Moderní stomatologie",
+    "Mikroskopická endodoncie",
+    "Estetická stomatologie",
+    "Protetika a implantologie",
+    "Individuální plán léčby"
+  ],
+  "servicesLabel": "Služby",
+  "servicesHeading": "Čtyři pilíře *naší* péče.",
+  "servicesIntro": "Každý zákrok začíná detailní konzultací a kompletním plánem léčby — víte přesně, co vás čeká, a kolik to bude stát.",
+  "services": [
+    {
+      "num": "01",
+      "title": "Estetická stomatologie & fasety",
+      "tag": "Proměna úsměvu",
+      "detail": "Keramické fasety a kompozitní dostavby, které vrátí úsměvu přirozený tvar i barvu.",
+      "image": "./assets/service-aesthetic.jpg"
+    },
+    {
+      "num": "02",
+      "title": "Dentální hygiena & bělení",
+      "tag": "Guided Biofilm Therapy",
+      "detail": "Šetrná profesionální hygiena metodou GBT a ordinační bělení s viditelným a trvalým výsledkem.",
+      "image": "./assets/service-hygiene.jpg"
+    },
+    {
+      "num": "03",
+      "title": "Mikroskopická endodoncie",
+      "tag": "Ošetření kořenových kanálků",
+      "detail": "Ošetření kořenových kanálků pod operačním mikroskopem — vyšší úspěšnost a záchrana vlastního zubu.",
+      "image": "./assets/service-endo.jpg"
+    },
+    {
+      "num": "04",
+      "title": "Implantologie & protetika",
+      "tag": "Plnohodnotná náhrada zubů",
+      "detail": "Zubní implantáty a náhrady s dlouhou životností a přirozeným vzhledem, plánované s maximální přesností.",
+      "image": "./assets/service-implant.jpg"
+    }
+  ],
+  "pricingLabel": "Ceník",
+  "pricingHeading": "Transparentní standard.",
+  "pricingIntro": "Orientační ceny nejnavštěvovanějších úkonů. Závazný rozpočet dostanete vždy po vstupním vyšetření.",
+  "pricing": [
+    { "name": "Vstupní vyšetření & konzultace", "price": "Doplňte cenu" },
+    { "name": "Dentální hygiena (GBT)", "price": "Doplňte cenu" },
+    { "name": "Bělení zubů ordinační", "price": "Doplňte cenu" },
+    { "name": "Estetická faseta (keramická)", "price": "Doplňte cenu" },
+    { "name": "Mikroskopické ošetření kanálků", "price": "Doplňte cenu" },
+    { "name": "Implantát s korunkou", "price": "Doplňte cenu" }
+  ],
+  "pricingNote": "Ceny jsou orientační a mohou se lišit dle rozsahu ošetření. Přesný plán léčby a rozpočet sestavujeme individuálně po konzultaci.",
+  "faqLabel": "FAQ",
+  "faqHeading": "Časté dotazy.",
+  "faq": [
+    { "q": "Berete nové pacienty?", "a": "Kapacitu pro nové pacienty otevíráme průběžně. Ozvěte se nám telefonicky nebo přes formulář a domluvíme vstupní konzultaci." },
+    { "q": "Jak probíhá první návštěva?", "a": "První návštěva je komplexní vstupní vyšetření — projdeme stav chrupu, vaše přání a sestavíme individuální plán léčby s transparentním rozpočtem." },
+    { "q": "Co když musím zrušit termín?", "a": "Termín lze bezplatně zrušit nejpozději 24 hodin předem. Stačí zavolat nebo napsat." },
+    { "q": "Pracujete s pojišťovnami?", "a": "Část výkonů je hrazena z veřejného zdravotního pojištění, nadstandardní a estetické výkony jsou hrazeny přímo. Vše dopředu vysvětlíme." }
+  ],
+  "contactLabel": "Kontakt",
+  "contactHeading": "Začněme *vaším* úsměvem.",
+  "footerLinks": [
+    { "label": "GDPR", "href": "#" },
+    { "label": "Právní informace", "href": "#" }
+  ],
+  "business": {
+    "name": "STOMATOLOGIE RK",
+    "monogram": "RK",
+    "tagline": "Precizní stomatologie, moderní přístup",
+    "description": "STOMATOLOGIE RK s.r.o. — zubní ordinace MUDr. Lubomíra Berana. Moderní stomatologická péče s individuálním přístupem."
+  },
+  "contact": {
+    "phone": "+420 000 000 000",
+    "email": "Doplňte e-mail",
+    "address": "Doplňte adresu",
+    "city": "Doplňte město",
+    "region": "Ordinace ve 3. patře budovy"
+  },
+  "philosophy": {
+    "label": "Ordinace",
+    "heading": "Moderní stomatologie *s* pečlivostí.",
+    "paragraphs": [
+      "STOMATOLOGIE RK je ordinace MUDr. Lubomíra Berana, kde se snoubí zkušenost s moderními technologiemi.",
+      "Každému pacientovi věnujeme dostatek času a sestavujeme srozumitelný plán léčby na míru."
+    ],
+    "portrait": "./assets/portrait.svg",
+    "caption": "MUDr. Lubomír Beran",
+    "stats": [
+      { "value": "03", "label": "3. patro budovy" },
+      { "value": "µ", "label": "Mikroskopická endodoncie" },
+      { "value": "01", "label": "Cíl: váš klid" }
+    ]
+  },
+  "footer": {
+    "copyright": "STOMATOLOGIE RK s.r.o."
+  }
+}

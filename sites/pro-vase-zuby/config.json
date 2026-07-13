@@ -1,0 +1,129 @@
+{
+  "template": "dentist",
+  "colors": {
+    "ink": "#0e0e0d",
+    "paper": "#ffffff",
+    "cream": "#f1ece3",
+    "fg": "#15140f",
+    "fgInv": "#f4f1ea",
+    "muted": "#8c857a",
+    "mutedInv": "#8f897e"
+  },
+  "hours": [
+    { "days": "Po – Čt", "hours": "08:00 — 17:00" },
+    { "days": "Pá", "hours": "08:00 — 13:00" }
+  ],
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com"
+  },
+  "nav": [
+    { "label": "Ordinace", "href": "#about" },
+    { "label": "Služby", "href": "#services" },
+    { "label": "Ceník", "href": "#pricing" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Kontakt", "href": "#contact" }
+  ],
+  "cta": { "label": "Objednat hygienu" },
+  "hero": {
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Objednat hygienu",
+    "secondaryLabel": "Více o ordinaci",
+    "heading": "Zdravé dásně,\nzářivý úsměv."
+  },
+  "trust": [
+    "Guided Biofilm Therapy",
+    "Šetrné odstranění plaku",
+    "Air-Flow pískování",
+    "Ordinační bělení",
+    "Individuální instruktáž"
+  ],
+  "servicesLabel": "Služby",
+  "servicesHeading": "Péče o *zdraví* vašich zubů.",
+  "servicesIntro": "Profesionální dentální hygiena je základ zdravého úsměvu. Každou návštěvu přizpůsobíme stavu vašich zubů a dásní.",
+  "services": [
+    {
+      "num": "01",
+      "title": "Dentální hygiena (GBT)",
+      "tag": "Guided Biofilm Therapy",
+      "detail": "Šetrné a důkladné odstranění zubního plaku a kamene moderní metodou GBT — bez bolesti a s viditelným výsledkem.",
+      "image": "./assets/service-hygiene.jpg"
+    },
+    {
+      "num": "02",
+      "title": "Air-Flow pískování",
+      "tag": "Odstranění pigmentací",
+      "detail": "Odstranění povrchových pigmentací od kávy, čaje a cigaret jemným proudem vzduchu, vody a prášku.",
+      "image": "./assets/service-endo.jpg"
+    },
+    {
+      "num": "03",
+      "title": "Ordinační bělení zubů",
+      "tag": "Zářivější úsměv",
+      "detail": "Šetrné profesionální bělení s viditelným a trvalým výsledkem po předchozí dentální hygieně.",
+      "image": "./assets/service-aesthetic.jpg"
+    },
+    {
+      "num": "04",
+      "title": "Instruktáž & prevence",
+      "tag": "Domácí péče",
+      "detail": "Nácvik správné techniky čištění a výběr pomůcek na míru, aby výsledek vydržel co nejdéle.",
+      "image": "./assets/service-implant.jpg"
+    }
+  ],
+  "pricingLabel": "Ceník",
+  "pricingHeading": "Transparentní ceny.",
+  "pricingIntro": "Orientační ceny nejčastějších úkonů. Přesnou cenu vám sdělíme po vstupní prohlídce.",
+  "pricing": [
+    { "name": "Vstupní dentální hygiena", "price": "Doplňte cenu" },
+    { "name": "Opakovaná dentální hygiena (GBT)", "price": "Doplňte cenu" },
+    { "name": "Air-Flow pískování", "price": "Doplňte cenu" },
+    { "name": "Ordinační bělení zubů", "price": "Doplňte cenu" }
+  ],
+  "pricingNote": "Ceny jsou orientační a mohou se lišit dle rozsahu ošetření. Přesnou cenu sdělíme individuálně po prohlídce.",
+  "faqLabel": "FAQ",
+  "faqHeading": "Časté dotazy.",
+  "faq": [
+    { "q": "Jak často mám chodit na hygienu?", "a": "Doporučená frekvence je zpravidla dvakrát ročně, u některých pacientů častěji. Ideální interval vám doporučíme podle stavu vašich dásní." },
+    { "q": "Bolí dentální hygiena?", "a": "Metoda GBT je velmi šetrná a pro většinu pacientů zcela bezbolestná. Pracujeme pomalu a s ohledem na citlivost." },
+    { "q": "Potřebuji na hygienu doporučení od zubaře?", "a": "Ne, na dentální hygienu se můžete objednat přímo. Stačí zavolat nebo napsat přes formulář." },
+    { "q": "Co když musím zrušit termín?", "a": "Termín lze bezplatně zrušit nejpozději 24 hodin předem. Stačí zavolat nebo napsat." }
+  ],
+  "contactLabel": "Kontakt",
+  "contactHeading": "Začněme *vaším* úsměvem.",
+  "footerLinks": [
+    { "label": "GDPR", "href": "#" },
+    { "label": "Právní informace", "href": "#" }
+  ],
+  "business": {
+    "name": "Pro Vaše zuby",
+    "monogram": "PVZ",
+    "tagline": "Zdravé dásně, zářivý úsměv",
+    "description": "Pro Vaše zuby — ordinace dentální hygieny Renaty Kubečkové. Profesionální dentální hygiena, pískování a bělení zubů."
+  },
+  "contact": {
+    "phone": "+420 000 000 000",
+    "email": "Doplňte e-mail",
+    "address": "Doplňte adresu",
+    "city": "Doplňte město",
+    "region": "Ordinace ve 2. patře budovy"
+  },
+  "philosophy": {
+    "label": "Ordinace",
+    "heading": "Prevence je *nejlepší* léčba.",
+    "paragraphs": [
+      "Pro Vaše zuby je ordinace dentální hygieny, kde se věnujeme prevenci a péči o zdraví vašich zubů a dásní.",
+      "Každou návštěvu přizpůsobíme vám — pracujeme šetrně, vysvětlíme každý krok a naučíme vás pečovat o úsměv i doma."
+    ],
+    "portrait": "./assets/portrait.svg",
+    "caption": "Renata Kubečková — dentální hygienistka",
+    "stats": [
+      { "value": "02", "label": "2. patro budovy" },
+      { "value": "GBT", "label": "Metoda hygieny" },
+      { "value": "01", "label": "Cíl: zdravý úsměv" }
+    ]
+  },
+  "footer": {
+    "copyright": "Pro Vaše zuby"
+  }
+}

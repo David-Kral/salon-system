@@ -1,0 +1,130 @@
+{
+  "template": "dentist",
+  "colors": {
+    "ink": "#0e0e0d",
+    "paper": "#ffffff",
+    "cream": "#f1ece3",
+    "fg": "#15140f",
+    "fgInv": "#f4f1ea",
+    "muted": "#8c857a",
+    "mutedInv": "#8f897e"
+  },
+  "hours": [
+    { "days": "Po – Čt", "hours": "08:00 — 17:00" },
+    { "days": "Pá", "hours": "08:00 — 13:00" }
+  ],
+  "social": {
+    "instagram": "https://instagram.com",
+    "facebook": "https://facebook.com"
+  },
+  "nav": [
+    { "label": "Studio", "href": "#about" },
+    { "label": "Služby", "href": "#services" },
+    { "label": "Ceník", "href": "#pricing" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Kontakt", "href": "#contact" }
+  ],
+  "cta": { "label": "Chci se objednat" },
+  "hero": {
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Chci se objednat",
+    "secondaryLabel": "Více o ordinaci",
+    "heading": "Zubní péče\ns lidským přístupem."
+  },
+  "trust": [
+    "Šetrné ošetření",
+    "Moderní vybavení",
+    "Guided Biofilm Therapy",
+    "Estetické výplně",
+    "Péče o celou rodinu"
+  ],
+  "servicesLabel": "Služby",
+  "servicesHeading": "Čtyři pilíře *naší* péče.",
+  "servicesIntro": "Každé ošetření začíná pečlivým vyšetřením a srozumitelným plánem léčby — víte přesně, co vás čeká, a kolik to bude stát.",
+  "services": [
+    {
+      "num": "01",
+      "title": "Estetická stomatologie & výplně",
+      "tag": "Přirozený vzhled úsměvu",
+      "detail": "Bílé kompozitní výplně a estetické dostavby, které vrátí zubu přirozený tvar i barvu.",
+      "image": "./assets/service-aesthetic.jpg"
+    },
+    {
+      "num": "02",
+      "title": "Dentální hygiena & prevence",
+      "tag": "Guided Biofilm Therapy",
+      "detail": "Šetrná profesionální hygiena metodou GBT a pravidelná prevence pro zdravé zuby i dásně.",
+      "image": "./assets/service-hygiene.jpg"
+    },
+    {
+      "num": "03",
+      "title": "Ošetření kořenových kanálků",
+      "tag": "Endodoncie",
+      "detail": "Precizní ošetření kořenových kanálků moderními postupy — záchrana vlastního zubu.",
+      "image": "./assets/service-endo.jpg"
+    },
+    {
+      "num": "04",
+      "title": "Protetika & náhrady zubů",
+      "tag": "Korunky a můstky",
+      "detail": "Korunky, můstky a náhrady zubů s přirozeným vzhledem a dlouhou životností.",
+      "image": "./assets/service-implant.jpg"
+    }
+  ],
+  "pricingLabel": "Ceník",
+  "pricingHeading": "Transparentní standard.",
+  "pricingIntro": "Orientační ceny nejčastějších úkonů. Závazný rozpočet dostanete vždy po vstupním vyšetření.",
+  "pricing": [
+    { "name": "Vstupní vyšetření & konzultace", "price": "Doplňte cenu" },
+    { "name": "Dentální hygiena (GBT)", "price": "Doplňte cenu" },
+    { "name": "Bílá výplň", "price": "Doplňte cenu" },
+    { "name": "Ošetření kořenových kanálků", "price": "Doplňte cenu" },
+    { "name": "Korunka", "price": "Doplňte cenu" }
+  ],
+  "pricingNote": "Ceny jsou orientační a mohou se lišit dle rozsahu ošetření. Přesný plán léčby a rozpočet sestavujeme individuálně po konzultaci.",
+  "faqLabel": "FAQ",
+  "faqHeading": "Časté dotazy.",
+  "faq": [
+    { "q": "Berete nové pacienty?", "a": "Kapacitu pro nové pacienty otevíráme průběžně. Ozvěte se nám telefonicky nebo přes formulář a domluvíme vstupní konzultaci." },
+    { "q": "Jak probíhá první návštěva?", "a": "První návštěva je komplexní vstupní vyšetření — projdeme stav chrupu, vaše přání a sestavíme individuální plán léčby." },
+    { "q": "Co když musím zrušit termín?", "a": "Termín lze bezplatně zrušit nejpozději 24 hodin předem. Stačí zavolat nebo napsat." },
+    { "q": "Pracujete s pojišťovnami?", "a": "Část výkonů je hrazena z veřejného zdravotního pojištění, nadstandardní výkony jsou hrazeny přímo. Vše dopředu vysvětlíme." }
+  ],
+  "contactLabel": "Kontakt",
+  "contactHeading": "Začněme *vaším* úsměvem.",
+  "footerLinks": [
+    { "label": "GDPR", "href": "#" },
+    { "label": "Právní informace", "href": "#" }
+  ],
+  "business": {
+    "name": "KR DENT",
+    "monogram": "KR",
+    "tagline": "Zubní péče s lidským přístupem",
+    "description": "KR DENT s.r.o. — zubní ordinace MDDr. Renáty Koláčkové. Komplexní stomatologická péče v příjemném prostředí."
+  },
+  "contact": {
+    "phone": "+420 000 000 000",
+    "email": "Doplňte e-mail",
+    "address": "Doplňte adresu",
+    "city": "Doplňte město",
+    "region": "Ordinace v přízemí budovy"
+  },
+  "philosophy": {
+    "label": "Ordinace",
+    "heading": "Zubní péče *bez* stresu.",
+    "paragraphs": [
+      "KR DENT je zubní ordinace, kde na prvním místě stojí pohodlí pacienta a poctivě odvedená práce.",
+      "Spojujeme moderní vybavení s klidným, lidským přístupem — každému pacientovi věnujeme dostatek času."
+    ],
+    "portrait": "./assets/portrait.svg",
+    "caption": "MDDr. Renáta Koláčková",
+    "stats": [
+      { "value": "01", "label": "Přízemí budovy" },
+      { "value": "GBT", "label": "Dentální hygiena" },
+      { "value": "01", "label": "Cíl: váš klid" }
+    ]
+  },
+  "footer": {
+    "copyright": "KR DENT s.r.o."
+  }
+}
