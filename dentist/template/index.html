@@ -165,17 +165,38 @@
 <script>
 /* ═══ DENTIST TEMPLATE (Luxury one-page) — Config Loader ═══ */
 (async function () {
+  const $loading = document.getElementById('loading-screen');
+  const showMsg = (title, detail) => {
+    $loading.innerHTML =
+      '<div style="color:#9a948a;font-family:sans-serif;text-align:center;padding:2rem;max-width:32rem">' +
+      '<p style="font-size:1.5rem;margin-bottom:1rem">⚠</p><p>' + title + '</p>' +
+      (detail ? '<p style="opacity:.5;margin-top:.5rem;font-size:.8rem">' + detail + '</p>' : '') + '</div>';
+  };
+  const loadJSON = async (url) => { const r = await fetch(url); if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); };
+
+  /* ── multi-tenant: ?studio=<slug> načte studia/<slug>.json (jméno kliniky + barva) ── */
+  const slug = new URLSearchParams(location.search).get('studio');
+  let brand = null;
+
   let cfg;
   try {
-    const res = await fetch('./config.json');
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    cfg = await res.json();
+    cfg = await loadJSON('./config.json');
   } catch (e) {
-    document.getElementById('loading-screen').innerHTML =
-      '<div style="color:#9a948a;font-family:sans-serif;text-align:center;padding:2rem">' +
-      '<p style="font-size:1.5rem;margin-bottom:1rem">⚠</p><p>config.json nenalezen nebo nečitelný</p>' +
-      '<p style="opacity:.5;margin-top:.5rem;font-size:.8rem">' + e.message + '</p></div>';
+    showMsg('config.json nenalezen nebo nečitelný', e.message);
     return;
+  }
+
+  if (slug) {
+    try {
+      const o = await loadJSON('./studia/' + encodeURIComponent(slug) + '.json');
+      cfg.business = cfg.business || {};
+      if (o.nazev || o.name)  cfg.business.name = o.nazev || o.name;
+      if (o.barva || o.color) brand = o.barva || o.color;
+      if (o.colors)           cfg.colors = Object.assign({}, cfg.colors, o.colors);
+    } catch (e) {
+      showMsg('Studio „' + slug + '" nenalezeno.', 'Zkontrolujte odkaz — chybí soubor studia/' + slug + '.json');
+      return;
+    }
   }
 
   /* colors → CSS vars */
@@ -183,6 +204,13 @@
   const map = { ink:'--ink', paper:'--paper', warm:'--warm', oak:'--oak', cream:'--cream',
     fg:'--fg', fgInv:'--fg-inv', muted:'--muted', mutedInv:'--muted-inv', border:'--border', borderInv:'--border-inv' };
   Object.keys(map).forEach(k => { if (col[k]) root.style.setProperty(map[k], col[k]); });
+
+  /* jedna značková barva z odkazu → accent (oak) + jemné teplé plochy */
+  if (brand) {
+    root.style.setProperty('--oak', brand);
+    root.style.setProperty('--warm',  'color-mix(in srgb, ' + brand + ' 12%, #ffffff)');
+    root.style.setProperty('--cream', 'color-mix(in srgb, ' + brand + ' 8%, #ffffff)');
+  }
 
   /* helpers */
   const $ = id => document.getElementById(id);

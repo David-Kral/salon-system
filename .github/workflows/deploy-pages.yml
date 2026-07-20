@@ -45,6 +45,8 @@ jobs:
           mkdir -p _site/stationery-haven
           cp -r stationery-haven/dist/. _site/stationery-haven/
           cp -r mm-studio-elegance _site/mm-studio-elegance
+          cp -r dentaline-web _site/dentaline-web
+          cp -r domident-web _site/domident-web
           # SPA fallback: deep-links / refresh on dynamic routes like
           # /salon-system/stationery-haven/products/:id (GitHub Pages serves /404.html)
           cp stationery-haven/dist/index.html _site/404.html
