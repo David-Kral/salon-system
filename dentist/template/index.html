@@ -232,7 +232,7 @@
     {label:'Ceník',href:'#pricing'},{label:'FAQ',href:'#faq'},{label:'Kontakt',href:'#contact'} ];
   $('nav-links').innerHTML = nav.map(n=>`<a href="${esc(n.href)}" class="nav-link link-draw" data-cursor>${esc(n.label)}</a>`).join('');
   $('mobile-menu').innerHTML = nav.map(n=>`<a href="${esc(n.href)}" class="nav-link">${esc(n.label)}</a>`).join('');
-  if (contact.phone){ $('nav-phone').textContent=contact.phone; $('nav-phone').href='tel:'+contact.phone.replace(/\s/g,''); }
+  if (contact.phone){ $('nav-phone').textContent=contact.phone; }
   else $('nav-phone').style.display='none';
 
   /* hero */
@@ -306,11 +306,11 @@
   setHead('contact-heading', cfg.contactHeading||'Začněme *vaším* úsměvem.');
   t('map-caption', contact.region||contact.city||'');
   const mi=$('map-iframe'); if(mi) mi.src = contact.mapEmbed ||
-    'https://www.openstreetmap.org/export/embed.html?bbox=15.7610%2C50.0210%2C15.8060%2C50.0470&layer=mapnik&marker=50.0343%2C15.7812';
+    'https://www.openstreetmap.org/export/embed.html?bbox=12.0900%2C48.5500%2C18.8700%2C51.0600&layer=mapnik';
   const info=[];
   if (contact.address||contact.city) info.push(`<div><p class="lbl">Adresa</p><p class="val">${esc(contact.address||'')}${contact.city?'<br>'+esc(contact.city):''}</p></div>`);
-  if (contact.phone) info.push(`<div><p class="lbl">Telefon</p><p class="val"><a href="tel:${esc(contact.phone.replace(/\s/g,''))}">${esc(contact.phone)}</a></p></div>`);
-  if (contact.email) info.push(`<div><p class="lbl">E-mail</p><p class="val"><a href="mailto:${esc(contact.email)}">${esc(contact.email)}</a></p></div>`);
+  if (contact.phone) info.push(`<div><p class="lbl">Telefon</p><p class="val">${esc(contact.phone)}</p></div>`);
+  if (contact.email) info.push(`<div><p class="lbl">E-mail</p><p class="val">${esc(contact.email)}</p></div>`);
   if (cfg.hours&&cfg.hours.length) info.push(`<div><p class="lbl">Ordinační hodiny</p><p class="val">${cfg.hours.map(h=>esc(h.days)+': '+esc(h.hours)).join('<br>')}</p></div>`);
   $('contact-info').innerHTML = info.join('');
 
@@ -332,7 +332,7 @@
   (cfg.footerLinks||[{label:'GDPR',href:'#'},{label:'Právní informace',href:'#'}]).forEach(l=>links.push(`<a href="${esc(l.href)}" data-cursor>${esc(l.label)}</a>`));
   $('footer-links').innerHTML = links.join('');
   const year=new Date().getFullYear();
-  const place=(contact.city||'').replace(/^\s*\d{3}\s?\d{2}\s*/,'').trim() || footer.copyright || b.name || '';
+  const place=b.name || footer.copyright || (contact.city||'').replace(/^\s*\d{3}\s?\d{2}\s*/,'').trim() || '';
   t('footer-copy', `© ${year} — ${place}`);
 
   /* loader */

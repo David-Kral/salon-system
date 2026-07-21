@@ -163,11 +163,11 @@
     "description": "Privátní zubní studio. Estetická stomatologie, mikroskopická endodoncie a péče v klidném, nadstandardním prostředí."
   },
   "contact": {
-    "phone": "+420 777 000 000",
-    "email": "studio@dentalstudio.cz",
-    "address": "Hronovická 2815",
-    "city": "530 02 Pardubice",
-    "region": "Pardubice · centrum"
+    "phone": "Telefon ordinace",
+    "email": "E-mail ordinace",
+    "address": "Adresa ordinace",
+    "city": "Vaše město",
+    "region": "Vaše město"
   },
   "philosophy": {
     "label": "Filozofie",
