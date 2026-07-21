@@ -1,0 +1,85 @@
+{
+  "nazev": "LFDENT Olomouc",
+  "barva": "#3498DB",
+  "business": {
+    "name": "LFDENT Olomouc",
+    "monogram": "LF",
+    "tagline": "Krásný úsměv.\nModerní péče.",
+    "description": "Rodinná stomatologická klinika v Olomouci s kompletní péčí o chrup a moderním online objednáváním."
+  },
+  "hero": {
+    "image": "./assets/hero-interior.jpg",
+    "ctaLabel": "Objednat se online",
+    "secondaryLabel": "Prohlédnout ceník",
+    "heading": "Úsměv,\nkterý *vám* sluší."
+  },
+  "trust": [
+    "Online rezervace",
+    "Digitální plánování",
+    "Rodinná péče",
+    "Moderní technologie",
+    "Bez čekání na telefonu"
+  ],
+  "servicesLabel": "Naše služby",
+  "servicesHeading": "Péče, na kterou se *spolehnete*.",
+  "servicesIntro": "Od prevence po estetiku — a nově i s možností objednat se online, kdykoliv se vám to hodí.",
+  "services": [
+    {
+      "num": "01",
+      "title": "Online rezervace",
+      "tag": "Novinka",
+      "image": "./assets/service.svg",
+      "detail": "Vyberte si volný termín přímo na webu, bez telefonování. Potvrzení dostanete e-mailem během chvilky."
+    },
+    {
+      "num": "02",
+      "title": "Dentální hygiena",
+      "tag": "Prevence",
+      "image": "./assets/service-hygiene.jpg",
+      "detail": "Profesionální čištění a péče o dásně, která předchází problémům dřív, než vzniknou."
+    },
+    {
+      "num": "03",
+      "title": "Bělení a estetika",
+      "tag": "Krásný úsměv",
+      "image": "./assets/service-aesthetic.jpg",
+      "detail": "Bělení, fazety a estetické výplně — úsměv, za který se nebudete stydět."
+    },
+    {
+      "num": "04",
+      "title": "Implantologie",
+      "tag": "Náhrada zubů",
+      "image": "./assets/service-implant.jpg",
+      "detail": "Trvalá náhrada chybějících zubů s přirozeným vzhledem, plánovaná do detailu."
+    },
+    {
+      "num": "05",
+      "title": "Endodoncie",
+      "tag": "Ošetření kanálků",
+      "image": "./assets/service-endo.jpg",
+      "detail": "Šetrné ošetření kořenových kanálků se snahou zachránit vlastní zub."
+    }
+  ],
+  "pricingLabel": "Ceník",
+  "pricingHeading": "Transparentní ceny.",
+  "pricingIntro": "Orientační ceny nejžádanějších výkonů. Přesný rozpočet dostanete po vstupní konzultaci.",
+  "pricing": [
+    { "name": "Vstupní vyšetření", "price": "od 500 Kč" },
+    { "name": "Dentální hygiena", "price": "od 1 500 Kč" },
+    { "name": "Bělení zubů", "price": "od 6 000 Kč" },
+    { "name": "Kompozitní výplň", "price": "od 1 200 Kč" },
+    { "name": "Zubní implantát", "price": "od 25 000 Kč" },
+    { "name": "Ošetření kořenového kanálku", "price": "od 3 000 Kč" }
+  ],
+  "pricingNote": "Ceny jsou orientační — konečná cena se odvíjí od rozsahu ošetření a je vždy domluvena předem.",
+  "faqLabel": "FAQ",
+  "faqHeading": "Časté dotazy.",
+  "faq": [
+    { "q": "Musím kvůli objednání volat?", "a": "Ne. Nově se můžete objednat i online přímo na webu — vyberete si termín, který vám vyhovuje, a potvrzení přijde e-mailem." },
+    { "q": "Berete nové pacienty?", "a": "Ano, rádi přivítáme nové pacienty. Stačí se objednat přes web nebo nám zavolat." },
+    { "q": "Pracujete s pojišťovnami?", "a": "Ano, spolupracujeme s většinou zdravotních pojišťoven. Konkrétní pokrytí vám rádi upřesníme." },
+    { "q": "Co když musím zrušit termín?", "a": "Termín lze zrušit nejpozději 24 hodin předem, stačí napsat nebo zavolat." }
+  ],
+  "contactLabel": "Kontakt",
+  "contactHeading": "Objednejte se *ještě dnes*."
+}

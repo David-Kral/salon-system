@@ -193,6 +193,11 @@
       if (o.nazev || o.name)  cfg.business.name = o.nazev || o.name;
       if (o.barva || o.color) brand = o.barva || o.color;
       if (o.colors)           cfg.colors = Object.assign({}, cfg.colors, o.colors);
+      if (o.business)         cfg.business = Object.assign({}, cfg.business, o.business);
+      /* volitelné plné přepsání dalšího obsahu (services, pricing, faq, hero, trust, contact, hours…) —
+         cokoli navíc ve studiu se prostě prolije přes výchozí config.json */
+      const RESERVED = new Set(['nazev','name','barva','color','colors','business']);
+      Object.keys(o).forEach(k => { if (!RESERVED.has(k)) cfg[k] = o[k]; });
     } catch (e) {
       showMsg('Studio „' + slug + '" nenalezeno.', 'Zkontrolujte odkaz — chybí soubor studia/' + slug + '.json');
       return;
