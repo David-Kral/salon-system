@@ -1,17 +1,17 @@
 {
-  "nazev": "LFDENT Olomouc",
-  "barva": "#3498DB",
+  "nazev": "Krásný úsměv",
+  "barva": "#B8935B",
   "business": {
-    "name": "LFDENT Olomouc",
-    "monogram": "LF",
-    "tagline": "Krásný úsměv.\nModerní péče.",
+    "name": "Krásný úsměv",
+    "monogram": "KÚ",
+    "tagline": "Váš krásný úsměv.\nModerní péče.",
     "description": "Rodinná stomatologická klinika v Olomouci s kompletní péčí o chrup a moderním online objednáváním."
   },
   "hero": {
     "image": "./assets/hero-interior.jpg",
     "ctaLabel": "Objednat se online",
     "secondaryLabel": "Prohlédnout ceník",
-    "heading": "Úsměv,\nkterý *vám* sluší."
+    "heading": "Váš krásný\n*úsměv*."
   },
   "trust": [
     "Online rezervace",
@@ -41,7 +41,7 @@
     {
       "num": "03",
       "title": "Bělení a estetika",
-      "tag": "Krásný úsměv",
+      "tag": "Estetika",
       "image": "./assets/service-aesthetic.jpg",
       "detail": "Bělení, fazety a estetické výplně — úsměv, za který se nebudete stydět."
     },
