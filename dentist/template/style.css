@@ -220,6 +220,18 @@ details.acc-item > .acc-body { animation: accIn 0.5s ease; }
 .field input::placeholder, .field textarea::placeholder { font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.78rem; color: var(--muted-inv); }
 .field textarea { resize: vertical; min-height: 3.5rem; }
 .field--full { grid-column: 1 / -1; }
+
+/* rezervace: popisky + select/date ve stejném minimalistickém jazyce */
+.field-label { font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.78rem; color: var(--muted-inv); margin-bottom: 0.15rem; }
+.field select { background: transparent; border: none; border-bottom: 1px solid var(--border-inv); border-radius: 0; color: var(--fg-inv); font-family: var(--font-sans); font-size: 1rem; padding: 0.75rem 1.5rem 0.75rem 0; transition: border-color 0.3s; cursor: pointer;
+  -webkit-appearance: none; appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%239a948a' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 0 center; background-size: 0.85rem; }
+.field select:focus { outline: none; border-bottom-color: var(--fg-inv); }
+.field select option { background: var(--ink); color: var(--fg-inv); }
+.field select:invalid, .field select option[value=""] { color: var(--muted-inv); }
+.field input[type="date"] { color-scheme: dark; }
+.field input[type="date"]::-webkit-calendar-picker-indicator { filter: invert(0.7); cursor: pointer; }
 .form-cta { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1.5rem; align-items: flex-start; }
 @media (min-width: 640px) { .form-cta { flex-direction: row; align-items: center; justify-content: space-between; } }
 .form-gdpr { font-size: 11px; line-height: 1.5; color: var(--muted-inv); max-width: 28rem; }

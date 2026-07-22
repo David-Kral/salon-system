@@ -80,6 +80,22 @@
     { "q": "Pracujete s pojišťovnami?", "a": "Ano, spolupracujeme s většinou zdravotních pojišťoven. Konkrétní pokrytí vám rádi upřesníme." },
     { "q": "Co když musím zrušit termín?", "a": "Termín lze zrušit nejpozději 24 hodin předem, stačí napsat nebo zavolat." }
   ],
-  "contactLabel": "Kontakt",
-  "contactHeading": "Objednejte se *ještě dnes*."
+  "contactLabel": "Rezervace",
+  "contactHeading": "Objednejte se *ještě dnes*.",
+  "booking": {
+    "options": [
+      "Vstupní vyšetření",
+      "Dentální hygiena",
+      "Bělení zubů",
+      "Estetická výplň / fazeta",
+      "Implantologie",
+      "Endodoncie (kořenové kanálky)",
+      "Nevím — potřebuji poradit"
+    ],
+    "times": [
+      "Ráno (7–10)",
+      "Dopoledne (10–12)",
+      "Odpoledne (12–17)"
+    ]
+  }
 }
