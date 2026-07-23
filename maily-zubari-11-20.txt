@@ -1,0 +1,288 @@
+========================================================================
+PERSONALIZOVANÉ E-MAILY — ZUBNÍ ORDINACE (řádky 11–20)
+========================================================================
+
+POZNÁMKY (přečti než pošleš):
+
+• KOMU: kromě Bistrodentu žádná z ordinací neměla v tabulce e-mail.
+  Doplň adresu na řádek "Komu:" u každého mailu.
+
+• Všechna tvrzení o webech jsou OVĚŘENÁ naživo (ne převzatá z tabulky —
+  ta byla u první desítky opakovaně chybná). Stav ke dni odeslání se ale
+  může změnit, u rozbitých webů si to před odesláním rychle ověř.
+
+• BARVA v ukázce: u webů, které fungují a mají identitu, jsem barvu volil
+  podle nich. U rozbitých/mrtvých webů žádná identita není, takže je tam
+  neutrální profesionální tón — klidně řekni a změním.
+
+• Podpis je všude doplněný (David Král / 777 122 178 / fitego.cz).
+
+
+########################################################################
+1) MUDr. Zdena Sýkorová   —   web: tylovka.cz (funguje, zastaralý)
+########################################################################
+Komu: __________________________
+Předmět: Návrh moderního webu pro ordinaci MUDr. Sýkorové
+
+Dobrý den,
+
+díval jsem se na web vaší ordinace a je sice funkční, ale designově
+působí dost zastarale a je velmi strohý — dnešní pacient hledající zubaře
+podle webu často soudí i kvalitu péče, i když to spolu přímo nesouvisí.
+
+Připravil jsem ukázku, jak by mohl vypadat moderní, přehledný web přímo
+pro vaši ordinaci — s vaším jménem v hlavičce a možností objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=zdena-sykorova
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+2) Dentální hygiena Louny   —   web: hygiena-dentalni.cz (funguje, starší WordPress)
+########################################################################
+Komu: __________________________
+Předmět: Návrh moderního webu pro Dentální hygienu Louny
+
+Dobrý den,
+
+díval jsem se na web vaší ordinace a všiml jsem si, že běží na starší
+verzi WordPressu a působí už poněkud zastarale. Na dnešní poměry — hlavně
+na mobilu, kam chodí většina návštěvníků — by to šlo posunout výrazně dál.
+
+Připravil jsem ukázku moderního, svižnějšího webu přímo pro vás, s možností
+objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=hygiena-louny
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+3) MUDr. Lukáš Milič   —   web: milic.cz (POZOR: vrací chybu 500)
+########################################################################
+Komu: __________________________
+Předmět: Váš web momentálně nefunguje — návrh řešení
+
+Dobrý den,
+
+chtěl jsem se podívat na web vaší ordinace (milic.cz), ale místo obsahu
+se mi zobrazila chyba serveru (HTTP 500) — stránka se vůbec nenačte. To
+znamená, že pacient, který vás takto vyhledá, se k vaší ordinaci online
+nedostane.
+
+Připravil jsem ukázku, jak by mohl vypadat nový, spolehlivě fungující web
+přímo pro vaši ordinaci, s možností objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=lukas-milic
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+4) Zubní ordinace   —   web: zubni-ordinace.eu (POZOR: nedostupný)
+########################################################################
+Komu: __________________________
+Předmět: Váš web je nedostupný — návrh řešení
+
+(Poznámka pro tebe: u tohoto záznamu v tabulce chybí konkrétní jméno
+ordinace i lékaře — před odesláním doplň oslovení, jinak mail působí
+neosobně. Zvaž, jestli má smysl ho vůbec kontaktovat.)
+
+Dobrý den,
+
+zkoušel jsem se podívat na web vaší ordinace, ale adresa je momentálně
+zcela nedostupná — server neodpovídá a nenačte se žádný obsah. Pacient,
+který vás vyhledá online, tak u vás bohužel narazí na prázdno.
+
+Připravil jsem ukázku, jak by mohl vypadat nový, funkční web přímo pro
+vaši ordinaci:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=zubni-ordinace
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+5) Zubní hygiena Děčín   —   web: zubnihygienadecin.cz (POZOR: doména neodpovídá)
+########################################################################
+Komu: __________________________
+Předmět: Váš web je nedostupný — návrh řešení
+
+Dobrý den,
+
+zkoušel jsem najít web vaší ordinace, ale doména zubnihygienadecin.cz
+momentálně vůbec neodpovídá — pacient, který vás hledá online, se k vám
+tudíž nedostane.
+
+Připravil jsem ukázku, jak by mohl vypadat nový, spolehlivě fungující web
+přímo pro vaši ordinaci, s možností objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=hygiena-decin
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+6) Dentální hygiena Poděbrady   —   web: hygienistkapdy.cz (POZOR: doména neodpovídá)
+########################################################################
+Komu: __________________________
+Předmět: Váš web je nedostupný — návrh řešení
+
+Dobrý den,
+
+zkoušel jsem najít web vaší ordinace, ale doména hygienistkapdy.cz
+momentálně neodpovídá a nenačte žádný obsah. Pacient, který vás hledá
+online, u vás bohužel narazí na nedostupnou stránku.
+
+Připravil jsem ukázku, jak by mohl vypadat nový, funkční web přímo pro
+vaši ordinaci, s možností objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=hygiena-podebrady
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+7) MUDr. René Štajner   —   web: stomatologiestajner.webmium.com (POZOR: chyba 404)
+########################################################################
+Komu: __________________________
+Předmět: Váš web vrací chybu 404 — návrh řešení
+
+Dobrý den,
+
+chtěl jsem se podívat na web vaší ordinace, ale adresa
+stomatologiestajner.webmium.com vrací chybu 404 — stránka fakticky
+neexistuje a nenabízí žádné informace. Pacient, který vás online vyhledá,
+se tak o vaší ordinaci nic nedozví.
+
+Připravil jsem ukázku, jak by mohl vypadat nový, prémiově působící web
+přímo pro vaši ordinaci:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=rene-stajner
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+8) Bistrodent   —   web: bistrodent.cz (funguje, ale jen holý text)   ✅ MÁ E-MAIL
+########################################################################
+Komu: ordinace@bistrodent.cz
+Předmět: Návrh moderního webu pro Bistrodent
+
+Dobrý den,
+
+díval jsem se na web vaší ordinace a všiml jsem si, že je to v podstatě
+jen jedna holá textová stránka bez jakéhokoli designu — a stále na ní visí
+i oznámení o rekonstrukci ulice z dubna 2025. Pro tak zavedenou rodinnou
+ordinaci je to škoda; moderní web by vám slušel mnohem víc.
+
+Připravil jsem ukázku, jak by mohl vypadat čistý, moderní web přímo pro
+Bistrodent — s přehledem služeb, ceníkem i online objednáním termínu:
+
+https://david-kral.github.io/salon-system/dentist/template/?studio=bistrodent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+9) MUDr. Ladislava Vranová   —   nemá vlastní web (jen profil na ZnámýLékař)
+########################################################################
+Komu: __________________________
+Předmět: Vlastní web pro vaši ordinaci — návrh
+
+Dobrý den,
+
+hledal jsem web vaší ordinace a našel jsem jen váš profil na portálu
+ZnámýLékař — vlastní webovou prezentaci zřejmě nemáte. Vlastní web přitom
+působí důvěryhodněji, máte ho plně pod kontrolou a pacient se u vás může
+rovnou objednat, aniž byste platili provize portálu.
+
+Připravil jsem ukázku, jak by mohl vypadat web přímo pro vaši ordinaci,
+s možností objednat se online:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=ladislava-vranova
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+########################################################################
+10) Dr.Dent Zlín   —   web: drdentzlin.cz (POZOR: výchozí WordPress "Hello world")
+########################################################################
+Komu: __________________________
+Předmět: Váš web ukazuje jen "Hello world" — návrh řešení
+
+Dobrý den,
+
+díval jsem se na web vaší kliniky (drdentzlin.cz) a všiml jsem si, že na
+něm zatím běží jen výchozí, nenastavená instalace WordPressu — na úvodní
+stránce se pacientovi zobrazí ukázkový příspěvek "Hello world! Welcome to
+WordPress". Pro zavedené stomatologické centrum s celým týmem lékařů je to
+velká škoda promarněné příležitosti.
+
+Připravil jsem ukázku, jak by mohl vypadat hotový, prémiově působící web
+přímo pro Dr.Dent — s možností objednat se online:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=drdent-zlin
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
