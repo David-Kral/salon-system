@@ -1,0 +1,259 @@
+MAILY ZUBAŘI — dávka 31-42 (9 leadů, řazeno dle skóre)
+========================================================
+
+Pozn.: e-maily jsou doplněné tam, kde je má sheet vyplněné (ProEste, JTB
+Dental, Holice, Švec, JSmile, Perioimplants, Janda). U ORTHOZLIN a
+WistDental je "Komu:" prázdné — e-mail se v sheetu nenašel, doplň si ho
+sám, až ho dohledáš. Odkazy na ukázky začnou fungovat po pushnutí
+salon-system a doběhnutí GitHub Actions.
+
+Podpis je u všech stejný (David Král / 777 122 178 / fitego.cz).
+
+
+─────────────────────────────────────────────────────────
+1. ProEste - Dentální centrum
+─────────────────────────────────────────────────────────
+Komu: info@proeste.cz
+Předmět: Návrh přehlednějšího webu pro ProEste
+
+Dobrý den,
+
+díval jsem se na web proeste.cz a všiml jsem si jedné věci, která by
+mohla pacienty mást: u MDDr. Jakuba Osadníka je uvedena promoce až
+v roce 2026, což bez dalšího vysvětlení může působit nejasně ohledně
+jeho aktuální kvalifikace a zkušeností.
+
+Připravil jsem ukázku, jak by mohl vypadat přehlednější web pro ProEste,
+kde by prezentace lékařů byla jasnější a důvěryhodnější:
+
+https://david-kral.github.io/salon-system/ukazka-1/?studio=proeste-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+2. MUDr. Jarmila Blažková — zubní ordinace (JTB Dental)
+─────────────────────────────────────────────────────────
+Komu: info@jtbdental.cz
+Předmět: Návrh webu s online rezervací pro vaši ordinaci
+
+Dobrý den,
+
+díval jsem se na jtbdental.cz a všiml jsem si, že v kontaktní sekci jsou
+uvedené dvě různé e-mailové adresy — pro pacienta to může být matoucí,
+na kterou vlastně psát.
+
+Připravil jsem ukázku webu s jedním jasným kontaktním místem a rovnou
+i s možností objednat se online, bez nutnosti telefonovat nebo řešit,
+na který e-mail napsat:
+
+https://david-kral.github.io/salon-system/ukazka-3/?studio=jtb-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+3. Stomatologická ordinace Holice
+─────────────────────────────────────────────────────────
+Komu: recepce@stomaholice.cz
+Předmět: Návrh prémiové varianty webu pro vaši ordinaci
+
+Dobrý den,
+
+váš web stomaholice.cz patří mezi ty lépe zpracované, na které jsem
+v poslední době narazil — moderní a přehledný. Všiml jsem si ale, že má
+zablokované přibližování stránky (user-scalable vypnuté), což může
+znepříjemnit prohlížení na mobilu, hlavně starším pacientům.
+
+Když je základ tak kvalitní, napadlo mě připravit rovnou prémiovou,
+o něco luxusnější variantu webu pro vaši ordinaci — v tmavší, sytější
+poloze:
+
+https://david-kral.github.io/salon-system/ukazka-2/?studio=holice-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+4. Zubní ordinace Švec s.r.o.
+─────────────────────────────────────────────────────────
+Komu: ordinace@zubnisvec.cz
+Předmět: Návrh přehlednějšího webu pro vaši ordinaci
+
+Dobrý den,
+
+díval jsem se na zubnisvec.cz a všiml jsem si, že důležitá informace
+o tom, že aktuálně nepřijímáte nové pacienty, splývá jako běžný řádek
+textu mezi jmény lékařů — snadno ji přehlédne i člověk, který kvůli ní
+na web přišel. Web je taky vizuálně dost strohý: kromě malých portrétů
+týmu na něm žádné fotky ordinace nejsou.
+
+Připravil jsem ukázku přehlednějšího webu pro vaši ordinaci, kde by
+tahle informace byla jasně vidět hned na první pohled a web by
+zároveň lépe reprezentoval vaši praxi navenek:
+
+https://david-kral.github.io/salon-system/ukazka-1/?studio=svec-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+5. JSmile stomatologie s.r.o.
+─────────────────────────────────────────────────────────
+Komu: jsmilestomatologie@gmail.com
+Předmět: Návrh prémiové varianty webu pro JSmile
+
+Dobrý den,
+
+váš web jsmile.cz je zpracovaný moderně a kvalitně — vlastní řešení,
+rychlé a přehledné. Jediné, co mi na něm přijde trochu škoda, je barevná
+paleta, která je hodně neutrální a béžová, bez výraznějšího brandového
+akcentu.
+
+Napadlo mě proto připravit ukázku prémiové varianty webu pro JSmile
+s výraznějším, sebevědomějším barevným laděním:
+
+https://david-kral.github.io/salon-system/ukazka-2/?studio=jsmile-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+6. Perioimplants (Collegium Dentalis)
+─────────────────────────────────────────────────────────
+Komu: recepce@collegiumdentalis.cz
+Předmět: Návrh prémiové varianty webu pro Perioimplants
+
+Dobrý den,
+
+díval jsem se na perioimplants.cz — je to kvalitně a moderně navržený
+web, jen jsem si všiml technického detailu na pozadí: stránka načítá
+dvě různé verze jQuery současně, což ji zbytečně zpomaluje.
+
+Když je základ takhle dobrý, připravil jsem rovnou ukázku prémiové,
+odlehčené varianty webu pro Perioimplants, v tmavší a sebevědomější
+poloze, jak sluší specializované implantologické praxi:
+
+https://david-kral.github.io/salon-system/ukazka-2/?studio=perioimplants
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+7. MUDr. Přemysl Janda
+─────────────────────────────────────────────────────────
+Komu: Premysl.Janda@seznam.cz
+Předmět: Návrh webu s online rezervací pro vaši ordinaci
+
+Dobrý den,
+
+váš web zubarjanda.cz je celkově moderní a aktuální — všiml jsem si jen,
+že jediná cesta, jak se u vás objednat, je obyčejný kontaktní formulář
+(jméno, e-mail, telefon, zpráva) nebo telefon. Pacient tedy nemůže rovnou
+říct, kdy se mu to hodí, a objednání se protáhne na několik zpráv sem
+a tam.
+
+Připravil jsem ukázku, jak by mohl vypadat doladěný web s vaším jménem
+v hlavičce a rovnou i s rezervací, kde si pacient vybere zákrok, termín
+a preferovaný čas:
+
+https://david-kral.github.io/salon-system/ukazka-3/?studio=janda-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+8. ORTHOZLIN s.r.o.
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh moderního webu pro ORTHOZLIN
+
+Dobrý den,
+
+díval jsem se na web ortodonciezlin.cz a všiml jsem si drobnosti, která
+vás možná stojí pacienty: v titulku stránky — tedy v tom, co se ukazuje
+jako nadpis ve výsledcích Googlu a v záložce prohlížeče — je překlep,
+„Ortodonice Zlín" místo „Ortodoncie Zlín". Je to na všech podstránkách.
+Zároveň na webu není žádný objednávkový formulář, takže se pacient může
+ozvat jen telefonem.
+
+Připravil jsem ukázku moderního webu pro ORTHOZLIN, kde je i online
+rezervace termínu:
+
+https://david-kral.github.io/salon-system/ukazka-1/?studio=orthozlin
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+9. WistDental, s.r.o.
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh moderního webu pro WistDental
+
+Dobrý den,
+
+díval jsem se na web wistdental.cz a všiml jsem si, že má špatně
+nastavené kódování znaků — veškerá diakritika se na stránce zobrazuje
+jako pokažené znaky, což na nového pacienta nepůsobí důvěryhodně.
+
+Připravil jsem ukázku moderního webu pro WistDental, kde je tenhle
+problém samozřejmě vyřešený:
+
+https://david-kral.github.io/salon-system/ukazka-1/?studio=wistdental
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz

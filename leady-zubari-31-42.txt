@@ -1,0 +1,106 @@
+LEADY ZUBAŘI — dalších 9 (řádky 31-42 z Google Sheetu, řazeno dle skóre)
+=========================================================================
+
+Pozn.: řádek 26 (CIBU-MED / MUDr. František Cibulka) je praktický lékař,
+ne zubař — z výběru vyřazen (stejně jako v předchozí dávce). Řádek 33
+(Galaxy Dent) byl už osloven v úplně první dávce (batch 1) — vynechán,
+aby nedošlo k duplicitnímu oslovení. Doplněno řádky 41 a 42.
+
+Ukázkové weby jsou nasazené přes existující rozcestník (stejný princip
+jako u předchozích dávek — ukazka-1/ukazka-2/ukazka-3 + ?studio=<slug>).
+Odkaz načte `ukazka-N/studia/<slug>.json` a přepíše jméno ordinace
+(hlavička, patička, titulek stránky) + značkovou barvu — zubař tedy vidí
+web pojmenovaný po sobě, ne po cizí klinice. Odkazy budou funkční hned
+po pushnutí salon-system na GitHub.
+
+POZOR: neposílat odkazy přes staré názvy složek (dentaline-web,
+domident-web, dentist/template) — prozradily by v URL jméno jiné kliniky.
+Vždy jen ukazka-1/2/3.
+
+Volba návrhu: u webů, které jsou už dnes kvalitně/moderně zpracované
+(jen s jednou dílčí vadou), je nasazený prémiový Návrh 2 = ukazka-2
+(tmavší, luxusnější poloha). U webů, kde jde spíš o chybějící online
+rezervaci / osobní prezentaci jednotlivého lékaře, je nasazený Návrh 3 =
+ukazka-3 (teplý akcent, ceník, FAQ, rezervace). U zjevně zastaralých /
+rozbitých webů je nasazený standardní Návrh 1 = ukazka-1.
+
+
+1. ProEste - Dentální centrum
+   Web:      https://www.proeste.cz/
+   Problém:  Informace o MDDr. Jakubu Osadníkovi (uveden jako zubní lékař
+             s promocí až v roce 2026) může pacienty mást ohledně jeho
+             aktuální kvalifikace.
+   Návrh:    Návrh 1 / ukazka-1 (standard)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-1/?studio=proeste-dent
+
+
+2. MUDr. Jarmila Blažková — zubní ordinace (JTB Dental)
+   Web:      https://jtbdental.cz/
+   Problém:  V kontaktní sekci jsou uvedené dvě různé e-mailové adresy,
+             což může pacienty mást a rozmělňovat komunikaci.
+   Návrh:    Návrh 3 / ukazka-3 (osobní prezentace + online rezervace)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-3/?studio=jtb-dent
+
+
+3. Stomatologická ordinace Holice
+   Web:      http://www.stomaholice.cz/
+   Problém:  Meta viewport blokuje přiblížení stránky (user-scalable=0),
+             což snižuje přístupnost — jinak jde o moderní, kvalitně
+             zpracovaný web s malým prostorem pro redesign.
+   Návrh:    Návrh 2 / ukazka-2 (prémiový)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-2/?studio=holice-dent
+
+
+4. Zubní ordinace Švec s.r.o.
+   Web:      https://www.zubnisvec.cz/
+   Problém:  Wix web nijak nezvýrazňuje informaci „Momentálně
+             nepřijímáme nové pacienty" — splývá s běžným textem mezi
+             jmény lékařů. Vizuálně strohé, jen malé portréty týmu,
+             žádná fotka ordinace. (ověřeno v prohlížeči)
+   Návrh:    Návrh 1 / ukazka-1 (standard)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-1/?studio=svec-dent
+
+
+5. JSmile stomatologie s.r.o.
+   Web:      http://jsmile.cz/
+   Problém:  Barevná paleta je velmi neutrální/béžová bez výrazného
+             brandového akcentu — jinak jde o kvalitně zpracovaný
+             moderní web.
+   Návrh:    Návrh 2 / ukazka-2 (prémiový)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-2/?studio=jsmile-dent
+
+
+6. Perioimplants (Collegium Dentalis)
+   Web:      http://www.perioimplants.cz/
+   Problém:  Web načítá dvě různé verze jQuery současně (zbytečné
+             zpomalení) — jinak jde o kvalitně a moderně navržený web.
+   Návrh:    Návrh 2 / ukazka-2 (prémiový)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-2/?studio=perioimplants
+
+
+7. MUDr. Přemysl Janda
+   Web:      http://www.zubarjanda.cz/
+   Problém:  Jediná cesta k objednání je obecný kontaktní formulář
+             (jméno/e-mail/telefon/zpráva) nebo telefon — žádný výběr
+             termínu. Jinak moderní a aktuální web (WP, 2025).
+             (ověřeno v prohlížeči — hero obrázek TAM JE)
+   Návrh:    Návrh 3 / ukazka-3 (osobní prezentace + online rezervace)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-3/?studio=janda-dent
+
+
+8. ORTHOZLIN s.r.o.
+   Web:      http://www.ortodonciezlin.cz/
+   Problém:  Překlep v <title> na všech podstránkách: „Ortodonice Zlín"
+             místo „Ortodoncie Zlín" — je to nadpis ve výsledcích
+             Googlu. Navíc na webu není žádný objednávkový formulář.
+             (ověřeno — web JE responzivní, viewport device-width)
+   Návrh:    Návrh 1 / ukazka-1 (standard)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-1/?studio=orthozlin
+
+
+9. WistDental, s.r.o.
+   Web:      http://www.wistdental.cz/
+   Problém:  Web má chybně nastavené kódování znaků — veškerá diakritika
+             se zobrazuje jako pokažené znaky.
+   Návrh:    Návrh 1 / ukazka-1 (standard)
+   Ukázka:   https://david-kral.github.io/salon-system/ukazka-1/?studio=wistdental

@@ -42,6 +42,18 @@ ty by v URL prozradily jmeno jine kliniky). Pridat noveho zubare = jeden JSON
 `dentist/template` zustavaji na Pages beze zmen jen kvuli starym odkazum — needituj
 je dal, edituj rovnou `ukazka-1/2/3`.
 
+**POZOR — base path je zapecenej v buildu.** `ukazka-1/` a `ukazka-2/` jsou *hotove
+buildy* (React/Vite), takze maji absolutni cesty `/salon-system/<slozka>/` primo
+v JS bundlech (`assets/*.js`): router basepath, `fetch` na `studia/<slug>.json`
+i URL obrazku. Pri kopirovani/prejmenovani slozky **nestaci prepsat `index.html`** —
+je nutne prepsat i vsechny vyskyty v `assets/*.js`, jinak SPA nenamatchuje routu
+a stranka zustane prazdna. Kontrola:
+`grep -ro "/salon-system/[a-z0-9/-]*" ukazka-N | sort -u` — vse musi ukazovat na
+`ukazka-N`. (`ukazka-3/` je plain HTML s relativnimi cestami, tam problem neni.)
+
+Pred rozeslanim odkazu vzdy over, ze se web opravdu prebrandoval — v titulku,
+hlavicce i paticce ma byt jmeno ordinace a nikde nesmi zbyt `Dentaline`/`DomiDent`.
+
 ## Klicova fakta
 
 - Barvy: `src/styles.css` -> `:root` (oklch). Meni se `--primary`, `--accent`, `--ring`.
