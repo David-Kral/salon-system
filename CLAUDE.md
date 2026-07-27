@@ -21,6 +21,27 @@ prevod na klientsky staticky SPA, nasazeni na Pages) je v:
 - Nove studio z libovolne Lovable slozky:
   `node skills/lovable-to-salon/scripts/new-studio.mjs --from <cesta> <nazev-studia>`
 
+## Personalizovane ukazky pro zubare (?studio=<slug>)
+
+V korenu repa jsou tri **nasazene demo weby** (multi-tenant), na ktere se posilaji
+osloveni zubari personalizovanym odkazem `?studio=<slug>` — ten jen prepise jmeno
+ordinace + znackovou barvu z `studia/<slug>.json`, zbytek webu je stejny. Nejsou to
+sablony pro `nova-studio.mjs` (ty jsou v `IdeaProjects/`, viz `SABLONY.md`) — tohle
+jsou uz **zive weby na Pages**, kod se meni primo v teto slozce a pushne.
+
+| Slozka      | Byvaly nazev (zachovan kvuli uz rozeslanym odkazum) | Co to je                          |
+|-------------|------------------------------------------------------|-----------------------------------|
+| `ukazka-1/` | `dentaline-web`                                       | Dentaline (React/Vite SPA)        |
+| `ukazka-2/` | `domident-web`                                        | Domident (React/Vite SPA)         |
+| `ukazka-3/` | `dentist/template`                                    | Univerzalni HTML sablona (`dentist/template/`) |
+
+Nove odkazy pro zubare se posilaji **jen pres `ukazka-1/2/3`** (ne pres stare nazvy —
+ty by v URL prozradily jmeno jine kliniky). Pridat noveho zubare = jeden JSON
+`ukazka-N/studia/<slug>.json` = `{ "nazev": "...", "barva": "#hex" }`, viz
+`ukazka-N/studia/README.md` v kazde slozce. `dentaline-web`, `domident-web` a
+`dentist/template` zustavaji na Pages beze zmen jen kvuli starym odkazum — needituj
+je dal, edituj rovnou `ukazka-1/2/3`.
+
 ## Klicova fakta
 
 - Barvy: `src/styles.css` -> `:root` (oklch). Meni se `--primary`, `--accent`, `--ring`.
