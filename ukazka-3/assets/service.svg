@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ošetření">
+  <rect width="800" height="600" fill="#efe9df"/>
+  <rect x="60" y="60" width="680" height="480" fill="none" stroke="#d9c7a8" stroke-width="2"/>
+  <path d="M400 200c-34-20-64-15-83 4-22 22-27 58-22 96 5 32 11 57 17 85 7 27 12 54 26 54 14 0 17-19 20-38 3-20 7-41 16-41h6c9 0 13 21 16 41 3 19 6 38 20 38 14 0 19-27 26-54 6-28 13-53 17-85 5-38 0-74-22-96-19-19-49-24-83-4Z" fill="#cdb99a"/>
+  <text x="400" y="540" font-family="'Syne',sans-serif" font-size="22" letter-spacing="4" fill="#8c857a" text-anchor="middle">FOTO OŠETŘENÍ — PLACEHOLDER</text>
+</svg>
