@@ -42,6 +42,41 @@ ty by v URL prozradily jmeno jine kliniky). Pridat noveho zubare = jeden JSON
 `dentist/template` zustavaji na Pages beze zmen jen kvuli starym odkazum — needituj
 je dal, edituj rovnou `ukazka-1/2/3`.
 
+### Vlastni stranka pro kazdou ordinaci: `ordinace/<slug>/`
+
+Odkazy `ukazka-N/?studio=<slug>` mely vadu: jmeno ordinace doplnil az JavaScript,
+takze staticky `<title>` (a tim i **nahled odkazu** v mailu/WhatsAppu) hlasil
+`Dentaline` / `DomiDent`, a OG tagy chybely uplne.
+
+Proto ma dnes kazda ordinace vlastni stranku `ordinace/<slug>/` — jmeno je uz
+ve statickem HTML (title, description, og:*), v URL neni zadny `?studio=`:
+
+```
+https://david-kral.github.io/salon-system/ordinace/<slug>/
+```
+
+Generuje se z `ukazka-*/studia/*.json`, **nic se nekopiruje** — stranky odkazuji
+absolutne do `ukazka-N/assets/`, takze 44 ordinaci = 360 kB.
+
+```bash
+node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.py
+```
+
+- `patch-bundly.mjs` — idempotentne opravi hotove buildy: basepath routeru se bere
+  z `location.pathname` (jinak router na jine ceste nenamatchuje routu a stranka
+  je prazdna) a slug se cte z `window.__STUDIO__`, `?studio=` zustava fallback.
+  Taky prepise relativni `"./assets/` v `ukazka-3/config.json` a `studia/*.json`
+  na absolutni — jinak se vyhodnoti proti adrese stranky a obrazky jsou 404.
+- `gen-ordinace.mjs` — vygeneruje `ordinace/<slug>/index.html` + `manifest.json`.
+- `gen-leady.py` — z manifestu poskláda `LEADY-VSECHNY.md` (seznam vsech 40 leadu).
+
+**Stare odkazy `ukazka-N/?studio=<slug>` funguji dal** — uz rozeslane maily se
+nerozbily. Pro nove oslovovani pouzivej `ordinace/<slug>/`.
+
+Kdyz pridas nove studio: pridej JSON do `ukazka-N/studia/` a pust ty tri prikazy.
+Nova slozka v korenu repa se **musi** pridat do `cp -r` seznamu ve
+`.github/workflows/deploy-pages.yml`, jinak ji Pages nepublikuji (404).
+
 **POZOR — base path je zapecenej v buildu.** `ukazka-1/` a `ukazka-2/` jsou *hotove
 buildy* (React/Vite), takze maji absolutni cesty `/salon-system/<slozka>/` primo
 v JS bundlech (`assets/*.js`): router basepath, `fetch` na `studia/<slug>.json`

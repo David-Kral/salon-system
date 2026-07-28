@@ -1,0 +1,228 @@
+MAILY ZUBAŘI — top 10 (od řádku 17, řazeno dle hodnocení)
+==========================================================
+
+Pozn.: e-mail v tabulce má zatím vyplněný jen Bistrodent — u ostatních je
+"Komu:" prázdné, doplň si adresu, až ji dohledáš. Odkazy na ukázky začnou
+fungovat po pushnutí salon-system a doběhnutí GitHub Actions.
+
+Podpis je u všech stejný (David Král / 777 122 178 / fitego.cz).
+
+
+─────────────────────────────────────────────────────────
+1. MUDr. René Štajner
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh moderního webu pro vaši ordinaci
+
+Dobrý den,
+
+procházel jsem weby zubních ordinací a všiml jsem si, že vaše doména stomatologiestajner.webmium.com aktuálně vrací chybu 404 — stránka se fakticky nenačte a nový pacient se tak o vaší ordinaci online nedozví vůbec nic.
+
+Připravil jsem ukázku, jak by mohl vypadat moderní web přímo pro vaši ordinaci, s vaším jménem v hlavičce:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=stajner-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+2. Bistrodent spol. s r.o.
+─────────────────────────────────────────────────────────
+Komu: ordinace@bistrodent.cz
+Předmět: Návrh moderního webu pro Bistrodent
+
+Dobrý den,
+
+díval jsem se na web bistrodent.cz a všiml jsem si, že se zobrazuje jako holý text bez jakéhokoli designu (chybí styly) a je na něm staré upozornění z dubna 2025 — na nového pacienta to bohužel nepůsobí příliš důvěryhodně.
+
+Připravil jsem ukázku, jak by mohl vypadat moderní web pro Bistrodent:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=bistrodent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+3. MUDr. Ladislava Vranová
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh vlastního webu s online objednáním
+
+Dobrý den,
+
+hledal jsem web vaší ordinace a našel jsem jen profil na znamylekar.cz — chybí vlastní web s online objednáním a přehledem služeb i cen, takže si pacient musí kontakt složitě dohledávat.
+
+Připravil jsem ukázku, jak by mohl vypadat samostatný web přímo pro vaši ordinaci:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=vranova-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+4. Dr.Dent — MUDr. Petr Drbal a tým (Zlín)
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh moderního webu pro Dr.Dent
+
+Dobrý den,
+
+díval jsem se na drdentzlin.cz a všiml jsem si, že web je zatím jen výchozí neupravená instalace WordPressu — je na něm dokonce ukázkový příspěvek „Hello world!". Pacient, který vás najde, tak narazí na prázdnou šablonu místo prezentace ordinace.
+
+Připravil jsem ukázku hotového moderního webu pro Dr.Dent:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=drdent-zlin
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+5. MUDr. Iva Klimešová (Olomouc)
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh vlastního webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem web vaší ordinace a všiml jsem si, že doména olomouc-zubni.cz nevede na vlastní web — návštěvník skončí jen na obecném katalogovém profilu bez identity vaší praxe.
+
+Připravil jsem ukázku, jak by mohl vypadat váš vlastní web s vaším jménem v hlavičce:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=klimesova-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+6. MUDr. Michael Chmiel
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh přehledného webu pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní web, jen obecný katalogový profil. Vím, že nové pacienty teď nepřijímáte, takže nepíšu kvůli jejich shánění — spíš mě napadlo, že i stávající pacienti ocení přehledné místo s ordinačními hodinami, kontakty a základními informacemi.
+
+Připravil jsem nezávazně ukázku, jak by takový web mohl vypadat:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=chmiel-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+7. MUDr. Karla Odstrčilová — Zubní ambulance
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh vlastního webu pro vaši ambulanci
+
+Dobrý den,
+
+hledal jsem web vaší ambulance a našel jsem jen obecný katalogový profil bez vlastní identity praxe.
+
+Připravil jsem ukázku, jak by mohl vypadat váš vlastní web s vaším jménem:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=odstrcilova-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+8. MUDr. Světlana Ulman & MUDr. Štěpánka Šíblová
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh přehledného webu pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace má online jen obecný katalogový profil. Vím, že nové pacienty (ani na hygienu) aktuálně nepřijímáte, takže nepíšu kvůli náboru — jen mě napadlo, že přehledný vlastní web usnadní orientaci i vašim stávajícím pacientům.
+
+Připravil jsem nezávaznou ukázku, jak by mohl vypadat:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=ulman-siblova-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+9. MUDr. Alexandra Reli
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh modernějšího webu pro vaši ordinaci
+
+Dobrý den,
+
+díval jsem se na váš web na stomatolog.cz/reli — je to statická stránka z roku 2021 s tabulkovým layoutem, která dnes působí zastarale. Vím, že z kapacitních důvodů nepřijímáte nové pacienty, takže nepíšu kvůli náboru — spíš by modernější web lépe reprezentoval vaši praxi navenek.
+
+Připravil jsem nezávaznou ukázku, jak by mohl vypadat:
+
+https://david-kral.github.io/salon-system/dentaline-web/?studio=reli-dent
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+10. Dentista Zlín — MDDr. Martin Mráz
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh webu s online rezervací pro Dentista Zlín
+
+Dobrý den,
+
+díval jsem se na dentistazlin.cz a všiml jsem si, že se na stránce několikrát opakují stejné navigační a kontaktní prvky a chybí integrované online objednání termínu.
+
+Připravil jsem ukázku přehlednějšího webu s online rezervací:
+
+https://david-kral.github.io/salon-system/domident-web/?studio=dentista-zlin
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz

@@ -1,0 +1,86 @@
+LEADY ZUBAŘI — dalších 10 (řazeno dle potenciálu, navazuje na leady 1-16)
+====================================================================
+
+Pozn.: řádek 21 (MDDr. Dominika Benešová) je z výběru vyřazen — ordinace
+k 31.8.2026 definitivně končí provoz, redesign webu je pro ni bezpředmětný.
+Nahrazen leadem č. 27 (Alexandra Reli). Stejně tak řádek 26 (CIBU-MED /
+MUDr. František Cibulka) je ve skutečnosti praktický lékař, ne zubař —
+nahrazen leadem č. 29 (Dentista Zlín).
+
+Ukázkové weby jsou nasazené přes existující rozcestník (stejný princip
+jako u předchozích 10 — dentaline-web/domident-web + ?studio=<slug>).
+Odkazy budou funkční hned po pushnutí salon-system na GitHub.
+
+
+1. MUDr. René Štajner
+   Web:      http://stomatologiestajner.webmium.com/
+   Problém:  Doména nefunguje — Webmium builder vrací chybu 404. Web
+             fakticky neexistuje, nenabízí žádné informace.
+   Ukázka:   https://david-kral.github.io/salon-system/dentaline-web/?studio=stajner-dent
+
+
+2. Bistrodent spol. s r.o.
+   Web:      http://www.bistrodent.cz/
+   E-mail:   ordinace@bistrodent.cz
+   Problém:  Holé HTML bez CSS stylů. Stránka nemá žádný vizuální design
+             a obsahuje zastaralé upozornění z dubna 2025.
+   Ukázka:   https://david-kral.github.io/salon-system/domident-web/?studio=bistrodent
+
+
+3. MUDr. Ladislava Vranová (Olomouc)
+   Web:      https://www.znamylekar.cz/ladislava-vranova/zubar/olomouc
+   Problém:  Chybí aktivní online rezervační kalendář a podrobný ceník —
+             pacienti se musí doptávat přímo, web nevede ke konverzi.
+   Ukázka:   https://david-kral.github.io/salon-system/dentaline-web/?studio=vranova-dent
+
+
+4. Dr.Dent (MUDr. Petr Drbal, MUDr. Jana Drbalová, MDDr. Jana Koziolová, Martin Vladař) — Zlín
+   Web:      http://drdentzlin.cz/
+   Problém:  Web je stále jen výchozí nenastavená instalace WordPressu
+             s ukázkovým příspěvkem "Hello world!".
+   Ukázka:   https://david-kral.github.io/salon-system/domident-web/?studio=drdent-zlin
+
+
+5. MUDr. Iva Klimešová (Olomouc)
+   Web:      http://www.olomouc-zubni.cz/
+   Problém:  Odkazovaná doména nefunguje jako vlastní web — návštěvník
+             skončí jen na obecném katalogovém profilu bez identity praxe.
+   Ukázka:   https://david-kral.github.io/salon-system/dentaline-web/?studio=klimesova-dent
+
+
+6. MUDr. Michael Chmiel
+   Web:      http://mudr-michael-chmiel.katalog-stomatologu.cz/
+   Problém:  Nemá vlastní web, jen obecný katalogový profil; aktuálně
+             navíc nepřijímá nové pacienty.
+   Ukázka:   https://david-kral.github.io/salon-system/domident-web/?studio=chmiel-dent
+
+
+7. MUDr. Karla Odstrčilová — Zubní ambulance
+   Web:      http://mudr-karla-odstrcilova.katalog-stomatologu.cz/
+   Problém:  Web je opět jen generický katalogový profil bez vlastní
+             identity praxe.
+   Ukázka:   https://david-kral.github.io/salon-system/dentaline-web/?studio=odstrcilova-dent
+
+
+8. MUDr. Světlana Ulman, MUDr. Štěpánka Šíblová — Zubní ordinace
+   Web:      http://mudr-svetlana-ulman.katalog-stomatologu.cz/
+   Problém:  Generický katalogový profil; navíc text uvádí, že nové
+             pacienty (ani na hygienu) nepřijímají.
+   Ukázka:   https://david-kral.github.io/salon-system/domident-web/?studio=ulman-siblova-dent
+
+
+9. Zubní lékař MUDr. Alexandra Reli
+   Web:      http://www.stomatolog.cz/reli/
+   Problém:  Statický XHTML web z roku 2021 (tabulkový layout). Ordinace
+             uvádí, že z kapacitních důvodů nepřijímá nové pacienty —
+             web tak nevede k žádné konverzi, ale existující pacienty
+             a pověst praxe by mohl reprezentovat mnohem lépe.
+   Ukázka:   https://david-kral.github.io/salon-system/dentaline-web/?studio=reli-dent
+
+
+10. Dentista Zlín — MDDr. Martin Mráz
+    Web:      https://dentistazlin.cz/
+    Problém:  Opakující se navigační prvky a kontaktní informace na
+              několika místech stránky, chybí integrovaný online
+              rezervační systém.
+    Ukázka:   https://david-kral.github.io/salon-system/domident-web/?studio=dentista-zlin

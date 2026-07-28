@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html lang="cs">
 <head>
+  <script>window.__STUDIO__="lfdent-olomouc";</script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" id="meta-desc" content="">
-  <title id="page-title">Loading…</title>
-  <link rel="stylesheet" href="./style.css">
+  <meta name="description" id="meta-desc" content="Krásný úsměv — moderní zubní péče, přehledný ceník a objednání termínu online.">
+  <title id="page-title">Krásný úsměv — zubní ordinace</title>
+  <link rel="stylesheet" href="/salon-system/ukazka-3/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Krásný úsměv" />
+  <meta property="og:title" content="Krásný úsměv — zubní ordinace" />
+  <meta property="og:description" content="Krásný úsměv — moderní zubní péče, přehledný ceník a objednání termínu online." />
+  <meta property="og:url" content="/salon-system/ordinace/lfdent-olomouc/" />
+  <meta property="og:image" content="/salon-system/ukazka-3/assets/hero-interior.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Krásný úsměv — zubní ordinace" />
+  <meta name="twitter:description" content="Krásný úsměv — moderní zubní péče, přehledný ceník a objednání termínu online." />
 </head>
 <body>
 
@@ -192,7 +202,7 @@
 
   let cfg;
   try {
-    cfg = await loadJSON('./config.json');
+    cfg = await loadJSON('/salon-system/ukazka-3/config.json');
   } catch (e) {
     showMsg('config.json nenalezen nebo nečitelný', e.message);
     return;
@@ -200,7 +210,7 @@
 
   if (slug) {
     try {
-      const o = await loadJSON('./studia/' + encodeURIComponent(slug) + '.json');
+      const o = await loadJSON('/salon-system/ukazka-3/studia/' + encodeURIComponent(slug) + '.json');
       cfg.business = cfg.business || {};
       if (o.nazev || o.name)  cfg.business.name = o.nazev || o.name;
       if (o.barva || o.color) brand = o.barva || o.color;
@@ -257,7 +267,7 @@
   setHead('hero-heading', hero.heading || b.tagline || '');
   t('hero-cta-label', hero.ctaLabel || (cfg.cta&&cfg.cta.label) || 'Chci se objednat');
   if (hero.secondaryLabel) t('hero-secondary', hero.secondaryLabel); else $('hero-secondary').style.display='none';
-  const himg=$('hero-img'); himg.src=hero.image||'./assets/hero.png'; himg.alt='Interiér '+(b.name||'');
+  const himg=$('hero-img'); himg.src=hero.image||'/salon-system/ukazka-3/assets/hero.png'; himg.alt='Interiér '+(b.name||'');
   t('hero-bl', hero.bottomLeft || contact.region || contact.city || '');
   t('hero-br', hero.bottomRight || '↓  Objednejte se');
 
@@ -273,7 +283,7 @@
   t('about-kicker','01 — '+(ph.label||'Studio'));
   setHead('about-heading', ph.heading||'');
   $('about-text').innerHTML = (ph.paragraphs||[]).map(p=>`<p>${esc(p)}</p>`).join('');
-  const por=$('about-portrait'); por.src=ph.portrait||'./assets/portrait.svg'; por.alt=ph.caption||(b.name||'');
+  const por=$('about-portrait'); por.src=ph.portrait||'/salon-system/ukazka-3/assets/portrait.svg'; por.alt=ph.caption||(b.name||'');
   t('about-caption', ph.caption||'');
   $('about-stats').innerHTML = (ph.stats||[]).map(s=>`<div class="about-stat"><span class="num">${esc(s.value)}</span><span class="lbl">${esc(s.label)}</span></div>`).join('');
   if (!(ph.stats||[]).length) $('about-stats').style.display='none';
@@ -293,7 +303,7 @@
       </summary>
       <div class="acc-body">
         <div class="grid12">
-          <div class="col-12 md-col-5"><img class="acc-img" src="${esc(s.image||'./assets/service.svg')}" alt="${esc(s.title)}" loading="lazy"></div>
+          <div class="col-12 md-col-5"><img class="acc-img" src="${esc(s.image||'/salon-system/ukazka-3/assets/service.svg')}" alt="${esc(s.title)}" loading="lazy"></div>
           <div class="col-12 md-col-5 md-start-7"><p class="acc-detail">${esc(s.detail||s.desc||'')}</p></div>
         </div>
       </div>

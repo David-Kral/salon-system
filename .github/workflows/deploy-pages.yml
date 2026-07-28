@@ -50,6 +50,8 @@ jobs:
           cp -r ukazka-1 _site/ukazka-1
           cp -r ukazka-2 _site/ukazka-2
           cp -r ukazka-3 _site/ukazka-3
+          # vlastni stranka pro kazdou ordinaci (generuje gen-ordinace.mjs)
+          cp -r ordinace _site/ordinace
           # SPA fallback: deep-links / refresh on dynamic routes like
           # /salon-system/stationery-haven/products/:id (GitHub Pages serves /404.html)
           cp stationery-haven/dist/index.html _site/404.html

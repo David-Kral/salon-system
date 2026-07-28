@@ -8,7 +8,7 @@
     "description": "Rodinná stomatologická klinika v Olomouci s kompletní péčí o chrup a moderním online objednáváním."
   },
   "hero": {
-    "image": "./assets/hero-interior.jpg",
+    "image": "/salon-system/ukazka-3/assets/hero-interior.jpg",
     "ctaLabel": "Objednat se online",
     "secondaryLabel": "Prohlédnout ceník",
     "heading": "Váš krásný\n*úsměv*."
@@ -28,35 +28,35 @@
       "num": "01",
       "title": "Online rezervace",
       "tag": "Novinka",
-      "image": "./assets/service.svg",
+      "image": "/salon-system/ukazka-3/assets/service.svg",
       "detail": "Vyberte si volný termín přímo na webu, bez telefonování. Potvrzení dostanete e-mailem během chvilky."
     },
     {
       "num": "02",
       "title": "Dentální hygiena",
       "tag": "Prevence",
-      "image": "./assets/service-hygiene.jpg",
+      "image": "/salon-system/ukazka-3/assets/service-hygiene.jpg",
       "detail": "Profesionální čištění a péče o dásně, která předchází problémům dřív, než vzniknou."
     },
     {
       "num": "03",
       "title": "Bělení a estetika",
       "tag": "Estetika",
-      "image": "./assets/service-aesthetic.jpg",
+      "image": "/salon-system/ukazka-3/assets/service-aesthetic.jpg",
       "detail": "Bělení, fazety a estetické výplně — úsměv, za který se nebudete stydět."
     },
     {
       "num": "04",
       "title": "Implantologie",
       "tag": "Náhrada zubů",
-      "image": "./assets/service-implant.jpg",
+      "image": "/salon-system/ukazka-3/assets/service-implant.jpg",
       "detail": "Trvalá náhrada chybějících zubů s přirozeným vzhledem, plánovaná do detailu."
     },
     {
       "num": "05",
       "title": "Endodoncie",
       "tag": "Ošetření kanálků",
-      "image": "./assets/service-endo.jpg",
+      "image": "/salon-system/ukazka-3/assets/service-endo.jpg",
       "detail": "Šetrné ošetření kořenových kanálků se snahou zachránit vlastní zub."
     }
   ],

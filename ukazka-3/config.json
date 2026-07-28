@@ -49,7 +49,7 @@
     "label": "Chci se objednat"
   },
   "hero": {
-    "image": "./assets/hero.png",
+    "image": "/salon-system/ukazka-3/assets/hero.png",
     "ctaLabel": "Chci se objednat",
     "secondaryLabel": "Více o studiu",
     "heading": "Precizní estetika.\nNekompromisní péče."
@@ -176,7 +176,7 @@
       "Spojujeme nejmodernější techniku s lidským přístupem. Vše se u nás odehrává v klidném tempu — každý pacient je pro nás jediný.",
       "Naše studio jsme navrhli do detailu — architekturou počínaje, tichem konče. Vše tu dýchá péčí o vaše pohodlí i zdraví."
     ],
-    "portrait": "./assets/portrait.svg",
+    "portrait": "/salon-system/ukazka-3/assets/portrait.svg",
     "caption": "MUDr. Jméno Příjmení, MBA — zakladatel/ka",
     "stats": [
       {

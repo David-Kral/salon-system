@@ -1,0 +1,141 @@
+MAILY ZUBAŘI — dávka 43-47 (5 leadů, doplnění do celkových 40)
+====================================================================
+
+Pozn.: u čtyř z pěti nebyl e-mail dohledatelný, "Komu:" je prázdné —
+doplň si adresu, až ji sženeš (typicky přes telefon do ordinace nebo
+přes zprávu na kontaktním formuláři katalogového profilu). U MUDr.
+Grmely je e-mail k dispozici přímo. Podpis je u všech stejný.
+
+
+─────────────────────────────────────────────────────────
+1. MUDr. Beata Prucková
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Vlastní web pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem informace o vaší ordinaci a všiml jsem si, že nemáte vlastní
+webovou stránku — jen profily v katalogách jako Firmy.cz nebo ZnámýLékař.
+To je škoda, protože takový profil neukáže nic o vás osobně ani o tom,
+jak ordinace vypadá, a novému pacientovi tak chybí důvod vybrat si právě
+vás před konkurencí o dvě ulice dál.
+
+Připravil jsem ukázku, jak by mohl vypadat jednoduchý, přehledný web
+přímo pro vaši ordinaci, s vaším jménem v hlavičce:
+
+https://david-kral.github.io/salon-system/ordinace/pruckova-dent/
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+2. MUDr. Jiří Grmela
+─────────────────────────────────────────────────────────
+Komu: jiri.grmela@seznam.cz
+Předmět: Návrh vlastního webu místo katalogových profilů
+
+Dobrý den,
+
+díval jsem se, kde všude vás pacient najde na internetu, a vyšlo mi,
+že nikde nemáte vlastní web — jen roztroušené profily v katalozích typu
+Firmy.cz nebo RegistrLékařů.cz. Každý vypadá trochu jinak a žádný z nich
+nepůsobí jako vaše skutečná vizitka.
+
+Zkusil jsem proto připravit ukázku jednotného webu jen pro vaši
+ordinaci, kam by se všechny tyto informace vešly na jedno místo:
+
+https://david-kral.github.io/salon-system/ordinace/grmela-dent/
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+3. ZUBOSANA s.r.o. (MUDr. Miroslav Kuča)
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Chybí vám vlastní web pro ZUBOSANA
+
+Dobrý den,
+
+všiml jsem si, že ZUBOSANA nemá vlastní webovou stránku — o ordinaci se
+dá dnes dozvědět jen ze záznamů v lékařských katalozích. Chybí tam i
+nejzákladnější věc, po které pacienti čím dál víc sahají: možnost se
+objednat online bez telefonování v ordinačních hodinách.
+
+Připravil jsem ukázku, jak by mohl vypadat vlastní web pro ZUBOSANA,
+včetně nápadu na online rezervaci termínu:
+
+https://david-kral.github.io/salon-system/ordinace/kuca-dent/
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+4. Stomatologie Hanos s.r.o. (MDDr. Radomír Hanos)
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Návrh vlastního webu pro Stomatologii Hanos
+
+Dobrý den,
+
+hledal jsem web vaší ordinace a našel jsem jen automaticky vygenerovaný
+profil na katalog-stomatologu.cz — bez fotek, bez ceníku, bez ničeho,
+co by ukázalo, čím je vaše ordinace jiná než ostatní v okolí.
+
+Připravil jsem ukázku, jak by mohl vypadat skutečný vlastní web pro
+Stomatologii Hanos, s vaším jménem v hlavičce místo generického profilu:
+
+https://david-kral.github.io/salon-system/ordinace/hanos-dent/
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+─────────────────────────────────────────────────────────
+5. REGION BEST DENTAL s.r.o. (MUDr. Pavla Bradáčová)
+─────────────────────────────────────────────────────────
+Komu:
+Předmět: Vlastní web pro REGION BEST DENTAL
+
+Dobrý den,
+
+všiml jsem si, že REGION BEST DENTAL má vlastní jméno i identitu, ale
+chybí jí vlastní web — na internetu jde dohledat jen pár záznamů
+v lékařských katalozích, které nepůsobí jako důvěryhodná vizitka firmy.
+
+Zkusil jsem připravit ukázku, jak by mohl vypadat vlastní web pro
+REGION BEST DENTAL, s vaším názvem v hlavičce:
+
+https://david-kral.github.io/salon-system/ordinace/bradacova-dent/
+
+Je to jen ukázka zdarma, žádný závazek — pokud by se vám líbila, rád
+probereme detaily a případné úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz

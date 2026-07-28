@@ -1,0 +1,58 @@
+LEADY ZUBAŘI — dávka 43-47 (5 leadů, doplnění do celkových 40)
+====================================================================
+
+Pozn.: navazuje na předchozí dávky (1-42, viz leady-zubari-17-26.txt,
+leady-zubari-31-42.txt, maily-zubari-11-20.txt, e-maily-zubari.docx).
+Všichni níže byli ověřeni naživo (Google Search) — u žádného z nich
+nebyl dohledán vlastní web, jen profily v katalogách/registrech lékařů
+(Firmy.cz, ZnamýLékař, NávštěvaLékaře, RegistrLékařů.cz apod.). Adresy
+z Google Sheetu byly u této pětice prázdné, e-maily nebyly v tabulce
+vyplněné — dohledány/chybí dle poznámky u každého leadu.
+
+Ukázky jsou nasazené přes rozcestník salon-system, slugy jsou nové
+JSON soubory v ukazka-1/2/3/studia/. Odkazy budou funkční po pushnutí
+a doběhnutí GitHub Actions.
+
+
+1. MUDr. Beata Prucková (Olomouc)
+   Web:      žádný vlastní — jen profily na Firmy.cz, ZnamýLékař, NávštěvaLékaře
+   E-mail:   nedohledán, doplň si
+   Problém:  Ordinace nemá vlastní webovou prezentaci, noví pacienti ji
+             najdou jen v obecných katalogových profilech bez fotek,
+             ceníku a bez možnosti se online objednat.
+   Ukázka:   https://david-kral.github.io/salon-system/ordinace/pruckova-dent/
+
+
+2. MUDr. Jiří Grmela (Olomouc)
+   Web:      žádný vlastní — jen katalogové profily (Firmy.cz, RegistrLékařů.cz, Doktor.cz)
+   E-mail:   jiri.grmela@seznam.cz
+   Problém:  Stejná situace — žádný vlastní web, jen rozházené profily
+             v lékařských katalogách. Pacient se nedozví nic navíc o
+             ordinaci samotné.
+   Ukázka:   https://david-kral.github.io/salon-system/ordinace/grmela-dent/
+
+
+3. ZUBOSANA s.r.o. — MUDr. Miroslav Kuča (Olomouc)
+   Web:      žádný vlastní — jen katalogové profily (RegistrLékařů.cz, ZnamýLékař, Doktor.cz)
+   E-mail:   nedohledán, doplň si
+   Problém:  Ordinace ZUBOSANA nemá vlastní web, jen záznamy v katalogách
+             lékařů. Chybí i základní online rezervace termínu.
+   Ukázka:   https://david-kral.github.io/salon-system/ordinace/kuca-dent/
+
+
+4. Stomatologie Hanos s.r.o. — MDDr. Radomír Hanos (Olomouc)
+   Web:      jen generický profil na katalog-stomatologu.cz (automaticky
+             generovaná stránka, ne vlastní web)
+   E-mail:   nedohledán, doplň si
+   Problém:  Vlastní identitu ordinace nahrazuje jen strojově vygenerovaný
+             profil na katalog-stomatologu.cz — bez fotek, bez ceníku,
+             bez osobního tónu.
+   Ukázka:   https://david-kral.github.io/salon-system/ordinace/hanos-dent/
+
+
+5. REGION BEST DENTAL s.r.o. — MUDr. Pavla Bradáčová (Olomouc)
+   Web:      žádný vlastní — jen katalogové profily (ZnamýLékař, RegistrLékařů.cz, KatalogLékařů.cz)
+   E-mail:   nedohledán, doplň si
+   Problém:  Firma nemá vlastní web, i když má vlastní obchodní jméno —
+             o ordinaci se pacient dozví jen z lékařských katalogů.
+   Ukázka:   https://david-kral.github.io/salon-system/ordinace/bradacova-dent/
