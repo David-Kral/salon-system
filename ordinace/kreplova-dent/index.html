@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <script>window.__STUDIO__="kreplova-dent";</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" id="meta-desc" content="MUDr. Renata Kreplová — moderní zubní péče, přehledný ceník a objednání termínu online.">
+  <title id="page-title">MUDr. Renata Kreplová — zubní ordinace</title>
+  <link rel="stylesheet" href="/salon-system/ukazka-3/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="MUDr. Renata Kreplová" />
+  <meta property="og:title" content="MUDr. Renata Kreplová — zubní ordinace" />
+  <meta property="og:description" content="MUDr. Renata Kreplová — moderní zubní péče, přehledný ceník a objednání termínu online." />
+  <meta property="og:url" content="/salon-system/ordinace/kreplova-dent/" />
+  <meta property="og:image" content="/salon-system/ukazka-3/assets/hero-interior.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="MUDr. Renata Kreplová — zubní ordinace" />
+  <meta name="twitter:description" content="MUDr. Renata Kreplová — moderní zubní péče, přehledný ceník a objednání termínu online." />
+</head>
+<body>
+
+<div id="loading-screen"><div class="loader"></div></div>
+<div class="cursor" id="cursor" aria-hidden="true"></div>
+
+<!-- ═══ NAV ═══ -->
+<nav id="site-nav">
+  <a href="#home" class="nav-logo" data-cursor>
+    <span class="logo-mark" aria-hidden="true">
+      <svg viewBox="0 0 32 36" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M16 3.5c-5.5 0-10 1.8-11 7.2-1 5.6 1 10.4 3 16 1 2.8 1.8 5.3 3.6 5.3 2 0 2.3-4.4 3.2-7.3.5-1.6 2.7-1.6 3.4 0 .9 2.9 1.2 7.3 3.2 7.3 1.8 0 2.6-2.5 3.6-5.3 2-5.6 4-10.4 3-16-1-5.4-5.5-7.2-11-7.2Z"/></svg>
+    </span>
+    <span class="logo-name" id="nav-logo-name">…</span>
+  </a>
+  <div class="nav-links" id="nav-links"></div>
+  <a href="#contact" class="nav-phone link-draw" id="nav-phone" data-cursor></a>
+  <button class="mobile-toggle" id="mobile-toggle" aria-label="Otevřít menu"><span></span><span></span><span></span></button>
+</nav>
+<div class="mobile-menu" id="mobile-menu"></div>
+
+<!-- ═══ HERO ═══ -->
+<header id="home" class="hero">
+  <div class="hero-bg"><img id="hero-img" class="hero-zoom" src="" alt=""></div>
+  <div class="hero-body">
+    <div class="container">
+      <h1 id="hero-heading"></h1>
+      <div class="hero-actions">
+        <a href="#contact" class="btn btn--solid" id="hero-cta" data-cursor>
+          <span id="hero-cta-label">Chci se objednat</span>
+          <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+        </a>
+        <a href="#services" class="btn btn--light" id="hero-secondary" data-cursor>Více o studiu</a>
+      </div>
+    </div>
+  </div>
+  <div class="hero-bottom">
+    <div class="container">
+      <div class="hero-bottom-inner">
+        <span id="hero-bl"></span>
+        <span id="hero-br"></span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ═══ MARQUEE ═══ -->
+<div class="marquee"><div class="marquee-track" id="marquee-track"></div></div>
+
+<!-- ═══ 01 — STUDIO ═══ -->
+<section id="about" class="section">
+  <div class="container grid12">
+    <div class="col-12 md-col-5">
+      <div class="about-portrait-wrap reveal">
+        <img class="about-portrait" id="about-portrait" src="" alt="">
+        <p class="about-caption" id="about-caption"></p>
+      </div>
+    </div>
+    <div class="col-12 md-col-7 md-pl-12 reveal">
+      <span class="kicker" id="about-kicker">01 — Studio</span>
+      <h2 class="about-h" id="about-heading"></h2>
+      <div class="about-text" id="about-text"></div>
+      <div class="about-stats" id="about-stats"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 02 — SLUŽBY ═══ -->
+<section id="services" class="section section--warm">
+  <div class="container">
+    <div class="sec-head reveal">
+      <div>
+        <span class="kicker" id="services-kicker">02 — Služby</span>
+        <h2 id="services-heading"></h2>
+      </div>
+      <p class="intro" id="services-intro"></p>
+    </div>
+    <div class="acc" id="services-acc"></div>
+  </div>
+</section>
+
+<!-- ═══ 03 — CENÍK ═══ -->
+<section id="pricing" class="section">
+  <div class="container grid12">
+    <div class="col-12 md-col-4 price-left reveal">
+      <span class="kicker" id="pricing-kicker">03 — Ceník</span>
+      <h2 id="pricing-heading"></h2>
+      <p class="intro" id="pricing-intro"></p>
+    </div>
+    <div class="col-12 md-col-8 reveal">
+      <div class="price-list" id="price-list"></div>
+      <p class="price-note" id="price-note"></p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 04 — FAQ ═══ -->
+<section id="faq" class="section section--oak">
+  <div class="container grid12">
+    <div class="col-12 md-col-4 faq-left reveal">
+      <span class="kicker" id="faq-kicker">04 — FAQ</span>
+      <h2 id="faq-heading"></h2>
+    </div>
+    <div class="col-12 md-col-8 reveal">
+      <div class="faq-acc" id="faq-acc"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ 05 — KONTAKT ═══ -->
+<section id="contact" class="section section--dark">
+  <div class="container">
+    <span class="kicker" id="contact-kicker">05 — Kontakt</span>
+    <h2 class="contact-h" id="contact-heading"></h2>
+    <div class="grid12">
+      <div class="col-12 md-col-5 reveal">
+        <div class="contact-map">
+          <iframe id="map-iframe" title="Mapa" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <span class="map-caption" id="map-caption"></span>
+        </div>
+        <div class="contact-info" id="contact-info"></div>
+      </div>
+      <div class="col-12 md-col-7 md-pl-12 reveal">
+        <form class="form" id="contact-form" novalidate>
+          <div class="form-grid">
+            <div class="field"><input id="f-name" name="name" type="text" placeholder="Jméno" required></div>
+            <div class="field"><input id="f-phone" name="phone" type="tel" placeholder="Telefon"></div>
+            <div class="field field--full"><input id="f-email" name="email" type="email" placeholder="E-mail"></div>
+            <div class="field field--full">
+              <label class="field-label" for="f-service">Zákrok</label>
+              <select id="f-service" name="service" required></select>
+            </div>
+            <div class="field">
+              <label class="field-label" for="f-date">Preferovaný termín</label>
+              <input id="f-date" name="date" type="date">
+            </div>
+            <div class="field">
+              <label class="field-label" for="f-time">Preferovaný čas</label>
+              <select id="f-time" name="time"></select>
+            </div>
+            <div class="field field--full"><textarea id="f-msg" name="message" rows="3" placeholder="Poznámka (volitelné)"></textarea></div>
+          </div>
+          <div class="form-cta">
+            <span class="form-gdpr">Odesláním souhlasíte se zpracováním osobních údajů dle GDPR.</span>
+            <button type="submit" class="btn btn--light" data-cursor>Odeslat rezervaci</button>
+          </div>
+          <p class="form-status" id="form-status" style="display:none"></p>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FOOTER ═══ -->
+<footer id="site-footer">
+  <div class="footer-inner">
+    <a href="#home" class="nav-logo footer-logo" data-cursor>
+      <span class="logo-mark" aria-hidden="true">
+        <svg viewBox="0 0 32 36" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M16 3.5c-5.5 0-10 1.8-11 7.2-1 5.6 1 10.4 3 16 1 2.8 1.8 5.3 3.6 5.3 2 0 2.3-4.4 3.2-7.3.5-1.6 2.7-1.6 3.4 0 .9 2.9 1.2 7.3 3.2 7.3 1.8 0 2.6-2.5 3.6-5.3 2-5.6 4-10.4 3-16-1-5.4-5.5-7.2-11-7.2Z"/></svg>
+      </span>
+      <span class="logo-name" id="footer-logo-name"></span>
+    </a>
+    <nav class="footer-links" id="footer-links"></nav>
+    <span class="footer-copy" id="footer-copy"></span>
+  </div>
+</footer>
+
+<script>
+/* ═══ DENTIST TEMPLATE (Luxury one-page) — Config Loader ═══ */
+(async function () {
+  const $loading = document.getElementById('loading-screen');
+  const showMsg = (title, detail) => {
+    $loading.innerHTML =
+      '<div style="color:#9a948a;font-family:sans-serif;text-align:center;padding:2rem;max-width:32rem">' +
+      '<p style="font-size:1.5rem;margin-bottom:1rem">⚠</p><p>' + title + '</p>' +
+      (detail ? '<p style="opacity:.5;margin-top:.5rem;font-size:.8rem">' + detail + '</p>' : '') + '</div>';
+  };
+  const loadJSON = async (url) => { const r = await fetch(url); if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); };
+
+  /* ── multi-tenant: ?studio=<slug> načte studia/<slug>.json (jméno kliniky + barva) ── */
+  const slug = window.__STUDIO__ || new URLSearchParams(location.search).get('studio');
+  let brand = null;
+
+  let cfg;
+  try {
+    cfg = await loadJSON('/salon-system/ukazka-3/config.json');
+  } catch (e) {
+    showMsg('config.json nenalezen nebo nečitelný', e.message);
+    return;
+  }
+
+  if (slug) {
+    try {
+      const o = await loadJSON('/salon-system/ukazka-3/studia/' + encodeURIComponent(slug) + '.json');
+      cfg.business = cfg.business || {};
+      if (o.nazev || o.name)  cfg.business.name = o.nazev || o.name;
+      if (o.barva || o.color) brand = o.barva || o.color;
+      if (o.colors)           cfg.colors = Object.assign({}, cfg.colors, o.colors);
+      if (o.business)         cfg.business = Object.assign({}, cfg.business, o.business);
+      /* volitelné plné přepsání dalšího obsahu (services, pricing, faq, hero, trust, contact, hours…) —
+         cokoli navíc ve studiu se prostě prolije přes výchozí config.json */
+      const RESERVED = new Set(['nazev','name','barva','color','colors','business']);
+      Object.keys(o).forEach(k => { if (!RESERVED.has(k)) cfg[k] = o[k]; });
+    } catch (e) {
+      showMsg('Studio „' + slug + '" nenalezeno.', 'Zkontrolujte odkaz — chybí soubor studia/' + slug + '.json');
+      return;
+    }
+  }
+
+  /* colors → CSS vars */
+  const col = cfg.colors || {}, root = document.documentElement;
+  const map = { ink:'--ink', paper:'--paper', warm:'--warm', oak:'--oak', cream:'--cream',
+    fg:'--fg', fgInv:'--fg-inv', muted:'--muted', mutedInv:'--muted-inv', border:'--border', borderInv:'--border-inv' };
+  Object.keys(map).forEach(k => { if (col[k]) root.style.setProperty(map[k], col[k]); });
+
+  /* jedna značková barva z odkazu → accent (oak) + jemné teplé plochy */
+  if (brand) {
+    root.style.setProperty('--oak', brand);
+    root.style.setProperty('--warm',  'color-mix(in srgb, ' + brand + ' 12%, #ffffff)');
+    root.style.setProperty('--cream', 'color-mix(in srgb, ' + brand + ' 8%, #ffffff)');
+  }
+
+  /* helpers */
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const head = s => esc(s||'').replace(/\*(.+?)\*/g,'<em>$1</em>').replace(/\n/g,'<br>');
+  const setHead = (id,s) => { const el=$(id); if(el) el.innerHTML=head(s); };
+  const t = (id,v) => { const el=$(id); if(el&&v!=null) el.textContent=v; };
+
+  const b=cfg.business||{}, contact=cfg.contact||{}, footer=cfg.footer||{};
+
+  /* meta + logos */
+  document.title = b.name || 'Zubní studio';
+  if ($('meta-desc')) $('meta-desc').content = b.description || '';
+  t('nav-logo-name', b.name||''); t('footer-logo-name', b.name||'');
+
+  /* nav */
+  const nav = cfg.nav || [
+    {label:'Studio',href:'#about'},{label:'Služby',href:'#services'},
+    {label:'Ceník',href:'#pricing'},{label:'FAQ',href:'#faq'},{label:'Kontakt',href:'#contact'} ];
+  $('nav-links').innerHTML = nav.map(n=>`<a href="${esc(n.href)}" class="nav-link link-draw" data-cursor>${esc(n.label)}</a>`).join('');
+  $('mobile-menu').innerHTML = nav.map(n=>`<a href="${esc(n.href)}" class="nav-link">${esc(n.label)}</a>`).join('');
+  if (contact.phone){ $('nav-phone').textContent=contact.phone; }
+  else $('nav-phone').style.display='none';
+
+  /* hero */
+  const hero=cfg.hero||{};
+  setHead('hero-heading', hero.heading || b.tagline || '');
+  t('hero-cta-label', hero.ctaLabel || (cfg.cta&&cfg.cta.label) || 'Chci se objednat');
+  if (hero.secondaryLabel) t('hero-secondary', hero.secondaryLabel); else $('hero-secondary').style.display='none';
+  const himg=$('hero-img'); himg.src=hero.image||'/salon-system/ukazka-3/assets/hero.png'; himg.alt='Interiér '+(b.name||'');
+  t('hero-bl', hero.bottomLeft || contact.region || contact.city || '');
+  t('hero-br', hero.bottomRight || '↓  Objednejte se');
+
+  /* marquee (from trust) */
+  const trust=cfg.trust||[];
+  if (trust.length){
+    const one = trust.map(x=>`<span class="marquee-item">${esc(x)}</span><span class="marquee-item marquee-sep">✦</span>`).join('');
+    $('marquee-track').innerHTML = `<span>${one}</span><span>${one}</span>`;
+  } else { document.querySelector('.marquee').style.display='none'; }
+
+  /* about */
+  const ph=cfg.philosophy||{};
+  t('about-kicker','01 — '+(ph.label||'Studio'));
+  setHead('about-heading', ph.heading||'');
+  $('about-text').innerHTML = (ph.paragraphs||[]).map(p=>`<p>${esc(p)}</p>`).join('');
+  const por=$('about-portrait'); por.src=ph.portrait||'/salon-system/ukazka-3/assets/portrait.svg'; por.alt=ph.caption||(b.name||'');
+  t('about-caption', ph.caption||'');
+  $('about-stats').innerHTML = (ph.stats||[]).map(s=>`<div class="about-stat"><span class="num">${esc(s.value)}</span><span class="lbl">${esc(s.label)}</span></div>`).join('');
+  if (!(ph.stats||[]).length) $('about-stats').style.display='none';
+
+  /* services — details accordion with image */
+  t('services-kicker','02 — '+(cfg.servicesLabel||'Služby'));
+  setHead('services-heading', cfg.servicesHeading||'Naše služby.');
+  t('services-intro', cfg.servicesIntro||'');
+  const services=cfg.services||[];
+  $('services-acc').innerHTML = services.map((s,i)=>`
+    <details class="acc-item">
+      <summary class="acc-sum" data-cursor>
+        <span class="acc-num">${esc(s.num||String(i+1).padStart(2,'0'))}</span>
+        <span class="acc-title">${esc(s.title)}</span>
+        <span class="acc-tag">${esc(s.tag||'')}</span>
+        <span class="acc-plus"></span>
+      </summary>
+      <div class="acc-body">
+        <div class="grid12">
+          <div class="col-12 md-col-5"><img class="acc-img" src="${esc(s.image||'/salon-system/ukazka-3/assets/service.svg')}" alt="${esc(s.title)}" loading="lazy"></div>
+          <div class="col-12 md-col-5 md-start-7"><p class="acc-detail">${esc(s.detail||s.desc||'')}</p></div>
+        </div>
+      </div>
+    </details>`).join('');
+
+  /* pricing */
+  t('pricing-kicker','03 — '+(cfg.pricingLabel||'Ceník'));
+  setHead('pricing-heading', cfg.pricingHeading||'Ceník.');
+  t('pricing-intro', cfg.pricingIntro||'');
+  $('price-list').innerHTML = (cfg.pricing||[]).map(p=>`<div class="price-row"><span class="price-name">${esc(p.name)}</span><span class="price-val">${esc(p.price)}</span></div>`).join('');
+  if (cfg.pricingNote) t('price-note', cfg.pricingNote); else $('price-note').style.display='none';
+
+  /* faq */
+  t('faq-kicker','04 — '+(cfg.faqLabel||'FAQ'));
+  setHead('faq-heading', cfg.faqHeading||'Časté dotazy.');
+  $('faq-acc').innerHTML = (cfg.faq||[]).map(f=>`
+    <details class="faq-item">
+      <summary class="faq-sum" data-cursor>
+        <span class="faq-q">${esc(f.q)}</span>
+        <span class="acc-plus"></span>
+      </summary>
+      <div class="faq-a">${esc(f.a)}</div>
+    </details>`).join('');
+
+  /* contact */
+  t('contact-kicker','05 — '+(cfg.contactLabel||'Kontakt'));
+  setHead('contact-heading', cfg.contactHeading||'Začněme *vaším* úsměvem.');
+  t('map-caption', contact.region||contact.city||'');
+  const mi=$('map-iframe'); if(mi) mi.src = contact.mapEmbed ||
+    'https://www.openstreetmap.org/export/embed.html?bbox=12.0900%2C48.5500%2C18.8700%2C51.0600&layer=mapnik';
+  const info=[];
+  if (contact.address||contact.city) info.push(`<div><p class="lbl">Adresa</p><p class="val">${esc(contact.address||'')}${contact.city?'<br>'+esc(contact.city):''}</p></div>`);
+  if (contact.phone) info.push(`<div><p class="lbl">Telefon</p><p class="val">${esc(contact.phone)}</p></div>`);
+  if (contact.email) info.push(`<div><p class="lbl">E-mail</p><p class="val">${esc(contact.email)}</p></div>`);
+  if (cfg.hours&&cfg.hours.length) info.push(`<div><p class="lbl">Ordinační hodiny</p><p class="val">${cfg.hours.map(h=>esc(h.days)+': '+esc(h.hours)).join('<br>')}</p></div>`);
+  $('contact-info').innerHTML = info.join('');
+
+  /* rezervační pole — nabídka zákroků se bere z konfigurace studia */
+  const booking = cfg.booking || {};
+  const fillSelect = (id, opts, placeholder) => {
+    const el = $(id); if (!el) return;
+    el.innerHTML = `<option value="" disabled selected>${esc(placeholder)}</option>` +
+      (opts||[]).map(o => `<option value="${esc(o)}">${esc(o)}</option>`).join('');
+  };
+  fillSelect('f-service', booking.options || (cfg.services||[]).map(s => s.title), 'Vyberte zákrok');
+  fillSelect('f-time', booking.times || ['Ráno (8–11)','Poledne (11–14)','Odpoledne (14–17)'], 'Vyberte čas');
+  const fdate=$('f-date'); if (fdate) fdate.min = new Date().toISOString().slice(0,10);
+
+  /* form → mailto */
+  const form=$('contact-form');
+  form.addEventListener('submit', e=>{
+    e.preventDefault();
+    const el=form.elements, v=n=>((el[n]&&el[n].value)||'').trim();
+    const st=$('form-status'); st.style.display='block';
+
+    const to=contact.email||'';
+    const looksLikeMail=/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(to);
+    if (!looksLikeMail) {
+      st.textContent='Děkujeme! Toto je ukázkový formulář — v ostré verzi dorazí rezervace přímo do ordinace.';
+      return;
+    }
+    const lines=[
+      `Jméno: ${v('name')}`, `Telefon: ${v('phone')}`, `E-mail: ${v('email')}`,
+      `Zákrok: ${v('service')}`, `Preferovaný termín: ${v('date')}`, `Preferovaný čas: ${v('time')}`,
+      '', v('message')
+    ];
+    st.textContent='Děkujeme. Otevíráme váš e-mailový klient…';
+    window.location.href=`mailto:${to}?subject=${encodeURIComponent('Rezervace termínu — '+(b.name||''))}&body=${encodeURIComponent(lines.join('\n'))}`;
+  });
+
+  /* footer */
+  const social=cfg.social||{};
+  const links=[];
+  if (social.instagram) links.push(`<a href="${esc(social.instagram)}" target="_blank" rel="noreferrer" data-cursor>Instagram</a>`);
+  if (social.facebook)  links.push(`<a href="${esc(social.facebook)}" target="_blank" rel="noreferrer" data-cursor>Facebook</a>`);
+  (cfg.footerLinks||[{label:'GDPR',href:'#'},{label:'Právní informace',href:'#'}]).forEach(l=>links.push(`<a href="${esc(l.href)}" data-cursor>${esc(l.label)}</a>`));
+  $('footer-links').innerHTML = links.join('');
+  const year=new Date().getFullYear();
+  const place=b.name || footer.copyright || (contact.city||'').replace(/^\s*\d{3}\s?\d{2}\s*/,'').trim() || '';
+  t('footer-copy', `© ${year} — ${place}`);
+
+  /* loader */
+  const loader=$('loading-screen'); loader.classList.add('fade-out'); setTimeout(()=>loader.remove(),600);
+
+  /* reveal */
+  const io=new IntersectionObserver(es=>es.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('is-visible'); io.unobserve(e.target);} }),{threshold:0.12});
+  document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+  /* nav scroll state */
+  const navEl=$('site-nav');
+  const onScroll=()=>navEl.classList.toggle('scrolled', window.scrollY>40);
+  window.addEventListener('scroll',onScroll,{passive:true}); onScroll();
+
+  /* mobile menu */
+  const tog=$('mobile-toggle'), mm=$('mobile-menu');
+  tog.addEventListener('click',()=>{ const o=mm.classList.toggle('open'); tog.classList.toggle('open',o); });
+  mm.addEventListener('click',e=>{ if(e.target.tagName==='A'){ mm.classList.remove('open'); tog.classList.remove('open'); } });
+
+  /* smooth scroll */
+  document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{
+    const tgt=document.querySelector(a.getAttribute('href'));
+    if(tgt){ e.preventDefault(); tgt.scrollIntoView({behavior:'smooth'}); }
+  }));
+
+  /* custom cursor */
+  const cur=$('cursor');
+  if (window.matchMedia('(hover: hover) and (pointer: fine)').matches){
+    window.addEventListener('mousemove',e=>{ cur.style.left=e.clientX+'px'; cur.style.top=e.clientY+'px'; },{passive:true});
+    const bind=()=>document.querySelectorAll('[data-cursor]').forEach(el=>{
+      el.addEventListener('mouseenter',()=>cur.classList.add('grow'));
+      el.addEventListener('mouseleave',()=>cur.classList.remove('grow'));
+    });
+    bind();
+  } else { cur.style.display='none'; }
+})();
+</script>
+</body>
+</html>
