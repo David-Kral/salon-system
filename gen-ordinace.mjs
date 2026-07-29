@@ -48,7 +48,7 @@ const esc = (s) =>
 /** Přípona "— zubní ordinace" se přidá jen tehdy, když už jméno samo
  *  neříká, že jde o zubaře (jinak vznikne "Zubní ordinace X — zubní ordinace"). */
 function smartTitle(name) {
-  return /zub|stomatolog|dent/i.test(name) ? name : `${name} — zubní ordinace`;
+  return /zub|stomatolog|dent|ortodonc|hygien/i.test(name) ? name : `${name} — zubní ordinace`;
 }
 
 /** Z původního index.html vytáhne odkazy na fonty/CSS/JS, ať se generátor
