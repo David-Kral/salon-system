@@ -870,7 +870,7 @@ fitego.cz
 
 ======================================================================
 32. DENTAL STUDIO H20
-   https://david-kral.github.io/salon-system/ordinace/h20-dent/
+   https://david-kral.github.io/salon-system/ordinace/dental-studio-h20/
 ======================================================================
 
 Komu: dentalstudioh20@seznam.cz
@@ -882,7 +882,7 @@ když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vá
 
 Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „DENTAL STUDIO H20“, včetně titulku v prohlížeči:
 
-https://david-kral.github.io/salon-system/ordinace/h20-dent/
+https://david-kral.github.io/salon-system/ordinace/dental-studio-h20/
 
 Je v tom i rezervační formulář. Pacient uvede, zda je nový nebo stávající, vybere si termín a denní dobu a doplní jméno, telefon, e-mail a poznámku. Vy dostanete hotovou žádost, ne jen prozvonění.
 
@@ -926,7 +926,7 @@ fitego.cz
 
 ======================================================================
 34. SV dent Šumperk
-   https://david-kral.github.io/salon-system/ordinace/sumperk-dent/
+   https://david-kral.github.io/salon-system/ordinace/sv-dent-sumperk/
 ======================================================================
 
 Komu: svitilova@ld.spk.cz
@@ -938,7 +938,7 @@ prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vl
 
 Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „SV dent Šumperk“, ať vidíte reálný dojem, ne prázdnou šablonu:
 
-https://david-kral.github.io/salon-system/ordinace/sumperk-dent/
+https://david-kral.github.io/salon-system/ordinace/sv-dent-sumperk/
 
 Web umí i online objednání termínu. Pacient si zvolí, jestli přichází poprvé, kdy mu to vyhovuje (včetně ráno / poledne / odpoledne) a nechá kontakt s poznámkou — cílem je, aby vám během ošetření nezvonil telefon.
 
@@ -1009,20 +1009,20 @@ fitego.cz
 
 
 ======================================================================
-37. M
-   https://david-kral.github.io/salon-system/ordinace/ordinace-dent/
+37. M - Smile
+   https://david-kral.github.io/salon-system/ordinace/m-smile/
 ======================================================================
 
 Komu: zdenkahatonova@seznam.cz
-Predmet: Připravil jsem návrh webu — M
+Predmet: Připravil jsem návrh webu — M - Smile
 
 Dobrý den,
 
 zkoušel jsem si najít web vaší ordinace a skončil jsem na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
 
-Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „M“ a má sekce, které u zubní ordinace čekám — péči, ceník, ordinační hodiny:
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „M - Smile“ a má sekce, které u zubní ordinace čekám — péči, ceník, ordinační hodiny:
 
-https://david-kral.github.io/salon-system/ordinace/ordinace-dent/
+https://david-kral.github.io/salon-system/ordinace/m-smile/
 
 Kromě webu bych přidal i objednávkový formulář se specifikací podle vás: jaké údaje od pacienta chcete, jaké termíny nabízet a jak rozlišit nového a stávajícího pacienta. V ukázce je funkční, můžete si ho projít.
 
@@ -1234,7 +1234,7 @@ fitego.cz
 
 ======================================================================
 45. KRAUSOVÁ Dental
-   https://david-kral.github.io/salon-system/ordinace/dental/
+   https://david-kral.github.io/salon-system/ordinace/krausova-dental/
 ======================================================================
 
 Komu: 222x222@seznam.cz
@@ -1247,7 +1247,7 @@ zkoušel jsem si najít web vaší ordinace a skončil jsem na obecných profile
 
 Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „KRAUSOVÁ Dental“ a má sekce, které u zubní ordinace čekám — péči, ceník, ordinační hodiny:
 
-https://david-kral.github.io/salon-system/ordinace/dental/
+https://david-kral.github.io/salon-system/ordinace/krausova-dental/
 
 Kromě webu bych přidal i objednávkový formulář se specifikací podle vás: jaké údaje od pacienta chcete, jaké termíny nabízet a jak rozlišit nového a stávajícího pacienta. V ukázce je funkční, můžete si ho projít.
 
@@ -1328,7 +1328,7 @@ fitego.cz
 
 ======================================================================
 49. SOFRONIESKI MS
-   https://david-kral.github.io/salon-system/ordinace/ms-dent/
+   https://david-kral.github.io/salon-system/ordinace/sofronieski-dent/
 ======================================================================
 
 Komu: sofronieski@centrum.cz
@@ -1340,7 +1340,7 @@ hledal jsem na internetu vaši ordinaci a našel jsem hlavně záznamy v kataloz
 
 Připravil jsem proto ukázku, jak by web mohl vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „SOFRONIESKI MS“:
 
-https://david-kral.github.io/salon-system/ordinace/ms-dent/
+https://david-kral.github.io/salon-system/ordinace/sofronieski-dent/
 
 Není to jen vizitka. Je v tom i objednávkový formulář: pacient řekne, jestli je nový nebo stávající, vybere preferovaný termín a část dne (ráno, poledne, odpoledne) a nechá jméno, telefon, e-mail a případnou poznámku. Vám přijde žádost se všemi údaji pohromadě.
 
@@ -1356,7 +1356,7 @@ fitego.cz
 
 ======================================================================
 50. Dostal dent
-   https://david-kral.github.io/salon-system/ordinace/dent/
+   https://david-kral.github.io/salon-system/ordinace/dostal-dent/
 ======================================================================
 
 Komu: dostaldent.sro@seznam.cz
@@ -1368,7 +1368,7 @@ prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vl
 
 Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „Dostal dent“, ať vidíte reálný dojem, ne prázdnou šablonu:
 
-https://david-kral.github.io/salon-system/ordinace/dent/
+https://david-kral.github.io/salon-system/ordinace/dostal-dent/
 
 Web umí i online objednání termínu. Pacient si zvolí, jestli přichází poprvé, kdy mu to vyhovuje (včetně ráno / poledne / odpoledne) a nechá kontakt s poznámkou — cílem je, aby vám během ošetření nezvonil telefon.
 

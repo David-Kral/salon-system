@@ -249,7 +249,7 @@
   },
   {
     "poradi": 32,
-    "slug": "h20-dent",
+    "slug": "dental-studio-h20",
     "nazev": "DENTAL STUDIO H20",
     "puvodni": "DENTAL STUDIO H20 s.r.o.",
     "email": "dentalstudioh20@seznam.cz",
@@ -265,7 +265,7 @@
   },
   {
     "poradi": 34,
-    "slug": "sumperk-dent",
+    "slug": "sv-dent-sumperk",
     "nazev": "SV dent Šumperk",
     "puvodni": "SV dent Šumperk s.r.o.",
     "email": "svitilova@ld.spk.cz",
@@ -289,9 +289,9 @@
   },
   {
     "poradi": 37,
-    "slug": "ordinace-dent",
-    "nazev": "M",
-    "puvodni": "M",
+    "slug": "m-smile",
+    "nazev": "M - Smile",
+    "puvodni": "M - Smile s.r.o.",
     "email": "zdenkahatonova@seznam.cz",
     "sablona": "ukazka-1"
   },
@@ -353,7 +353,7 @@
   },
   {
     "poradi": 45,
-    "slug": "dental",
+    "slug": "krausova-dental",
     "nazev": "KRAUSOVÁ Dental",
     "puvodni": "KRAUSOVÁ Dental s.r.o.",
     "email": "222x222@seznam.cz",
@@ -385,7 +385,7 @@
   },
   {
     "poradi": 49,
-    "slug": "ms-dent",
+    "slug": "sofronieski-dent",
     "nazev": "SOFRONIESKI MS",
     "puvodni": "SOFRONIESKI MS s.r.o.",
     "email": "sofronieski@centrum.cz",
@@ -393,7 +393,7 @@
   },
   {
     "poradi": 50,
-    "slug": "dent",
+    "slug": "dostal-dent",
     "nazev": "Dostal dent",
     "puvodni": "Dostal dent s.r.o.",
     "email": "dostaldent.sro@seznam.cz",

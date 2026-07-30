@@ -39,6 +39,16 @@ OVERRIDE_SLUG = {
     "MUDr. Ivana Grygarová s.r.o.": "grygarova-dent",
     "MUDr. Milena Čamková s.r.o.": "camkova-dent",
     "MDDr. Vladimír Leškovský s.r.o.": "leskovsky-dent",
+    # posledni slovo nazvu by dalo nicnerikajici slug (dent / dental / ms ...)
+    "Dostal dent s.r.o.": "dostal-dent",
+    "KRAUSOVÁ Dental s.r.o.": "krausova-dental",
+    "SOFRONIESKI MS s.r.o.": "sofronieski-dent",
+    "SV dent Šumperk s.r.o.": "sv-dent-sumperk",
+    "DENTAL STUDIO H20 s.r.o.": "dental-studio-h20",
+    "Aludentia s.r.o.": "aludentia",
+    "JOSENIKA s.r.o.": "josenika-dent",
+    "ECHTDENT s.r.o.": "echtdent",
+    "SANODENT s.r.o.": "sanodent",
 }
 
 # Zobrazovane jmeno: pryc pravni forma a upresneni adresy v zavorce
@@ -47,9 +57,8 @@ LEGAL = r",?\s*\b(s\.?\s?r\.?\s?o\.?|sro\.?|a\.?s\.?)\b\.?"
 
 def display_name(raw):
     s = re.sub(r"\s*\([^)]*\)\s*$", "", raw).strip()
-    s = re.sub(LEGAL, "", s, flags=re.I).strip(" ,.-")
-    s = re.sub(r"\s*-\s*", " – ", s) if s.startswith("M ") else s
-    return s
+    s = re.sub(LEGAL, "", s, flags=re.I).strip(" ,.")
+    return s.strip(" -–")
 
 
 def deacc(s):
@@ -68,15 +77,29 @@ def auto_slug(name):
 PALETTE_1 = ["#2F6F8F", "#3C7A5E", "#8A5A3C", "#6B5B95", "#2E7D6B", "#8C4A52",
              "#455F8A", "#7C4F8C", "#3C6B7D", "#A2694E", "#4A7C59", "#7A4E6E"]
 
+# E-mail je vzdy na konci radku; jmeno je vsechno pred nim. Nedelime na
+# kazde pomlcce — nazev ji muze obsahovat ("M - Smile s.r.o.").
+LINE = re.compile(r"^(?P<name>.*?)\s*[–—-]\s*(?P<email>[^\s@]+@[^\s@]+\.[^\s@]+)\s*$")
+
 rows = []
 for ln in open(SRC, encoding="utf-8"):
     ln = ln.strip()
     if not ln:
         continue
-    parts = re.split(r"\s+[–-]\s+", ln)
-    if len(parts) < 2:
+    m = LINE.match(ln)
+    if not m:
         raise SystemExit(f"nerozparsovano: {ln!r}")
-    rows.append((parts[0].strip(), parts[-1].strip()))
+    name = m.group("name").strip()
+    if len(name) < 3:
+        raise SystemExit(f"podezrele kratke jmeno {name!r} z radku {ln!r}")
+    rows.append((name, m.group("email").strip()))
+
+# uklid po predchozim behu, aby po zmene slugu nezustaly osirele studia
+if os.path.exists("davka-b.json"):
+    for c in json.load(open("davka-b.json", encoding="utf-8")):
+        p = os.path.join(c["sablona"], "studia", f"{c['slug']}.json")
+        if os.path.exists(p):
+            os.remove(p)
 
 # slugy uz obsazene
 taken = set()

@@ -84,28 +84,22 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/cudlinova-dent/"
   },
   {
-    "slug": "dent",
-    "nazev": "Dostal dent",
-    "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/dent/"
-  },
-  {
     "slug": "dent-klinika",
     "nazev": "DENT — zubní klinika",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/dent-klinika/"
   },
   {
-    "slug": "dental",
-    "nazev": "KRAUSOVÁ Dental",
-    "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/dental/"
-  },
-  {
     "slug": "dental-sphere",
     "nazev": "Dental Sphere",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/dental-sphere/"
+  },
+  {
+    "slug": "dental-studio-h20",
+    "nazev": "DENTAL STUDIO H20",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dental-studio-h20/"
   },
   {
     "slug": "dentalni-hygiena-havirov",
@@ -124,6 +118,12 @@
     "nazev": "Dentista Zlín",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/dentista-zlin/"
+  },
+  {
+    "slug": "dostal-dent",
+    "nazev": "Dostal dent",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dostal-dent/"
   },
   {
     "slug": "doubravska-dent",
@@ -190,12 +190,6 @@
     "nazev": "MUDr. Ivana Grygarová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/grygarova-dent/"
-  },
-  {
-    "slug": "h20-dent",
-    "nazev": "DENTAL STUDIO H20",
-    "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/h20-dent/"
   },
   {
     "slug": "hamrlikova-dent",
@@ -396,6 +390,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/kratka-dent/"
   },
   {
+    "slug": "krausova-dental",
+    "nazev": "KRAUSOVÁ Dental",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/krausova-dental/"
+  },
+  {
     "slug": "kreplova-dent",
     "nazev": "MUDr. Renata Kreplová",
     "sablona": "ukazka-2",
@@ -468,6 +468,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/lukas-milic/"
   },
   {
+    "slug": "m-smile",
+    "nazev": "M - Smile",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/m-smile/"
+  },
+  {
     "slug": "markova-dent",
     "nazev": "MUDr. Božena Marková",
     "sablona": "ukazka-1",
@@ -508,12 +514,6 @@
     "nazev": "MUDr. Andělin Mrozovský",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/mrozovsky-dent/"
-  },
-  {
-    "slug": "ms-dent",
-    "nazev": "SOFRONIESKI MS",
-    "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/ms-dent/"
   },
   {
     "slug": "mz-dent",
@@ -574,12 +574,6 @@
     "nazev": "Zubní ambulance MUDr. Karla Odstrčilová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/odstrcilova-dent/"
-  },
-  {
-    "slug": "ordinace-dent",
-    "nazev": "M",
-    "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/ordinace-dent/"
   },
   {
     "slug": "orthozlin",
@@ -702,6 +696,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/slovakova-dent/"
   },
   {
+    "slug": "sofronieski-dent",
+    "nazev": "SOFRONIESKI MS",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/sofronieski-dent/"
+  },
+  {
     "slug": "spurna-dent",
     "nazev": "MUDr. Naděžda Spurná",
     "sablona": "ukazka-2",
@@ -732,10 +732,10 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/strakosova-dent/"
   },
   {
-    "slug": "sumperk-dent",
+    "slug": "sv-dent-sumperk",
     "nazev": "SV dent Šumperk",
     "sablona": "ukazka-1",
-    "url": "https://david-kral.github.io/salon-system/ordinace/sumperk-dent/"
+    "url": "https://david-kral.github.io/salon-system/ordinace/sv-dent-sumperk/"
   },
   {
     "slug": "svec-dent",
