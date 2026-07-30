@@ -29,14 +29,17 @@ const ROOT = import.meta.dirname;
 const BASE = "/salon-system";
 const OUT_DIR = path.join(ROOT, "ordinace");
 
-/** Když stejný slug existuje ve víc šablonách, tady je rozhodnuto, která
- *  se použije — musí odpovídat šabloně, se kterou už byl lead oslovený. */
-const OVERRIDE = {
-  bistrodent: "ukazka-2", // mail šel na domident-web
-  "lfdent-olomouc": "ukazka-3", // mail šel na dentist/template
-  "petr-seda": "ukazka-3",
-  "usmev-jana": "ukazka-3",
-};
+/** Když stejný slug existuje ve víc šablonách, vybere se první šablona
+ *  z tohoto pořadí.
+ *
+ *  `ukazka-3` je záměrně poslední — uživateli nesedí, takže se pro stránky
+ *  v `ordinace/` nemá použít vůbec. Složka `ukazka-3/` i její `studia/*.json`
+ *  ale zůstávají nasazené, protože na ně míří UŽ ROZESLANÉ odkazy
+ *  `ukazka-3/?studio=<slug>` a ty se nesmí rozbít.
+ *
+ *  `ukazka-1` (světle modrá s fotkou přes celou obrazovku) se pro nové leady
+ *  nevolí, ale u starších rozeslaných zůstává, aby se jim odkaz nezměnil. */
+const PRIORITA = ["ukazka-2", "ukazka-1", "ukazka-3"];
 
 const esc = (s) =>
   String(s)
@@ -198,9 +201,8 @@ const manifest = [];
 const dupes = [];
 
 for (const [slug, tpls] of [...found].sort(([a], [b]) => a.localeCompare(b))) {
-  let tpl = tpls[0];
+  const tpl = PRIORITA.find((t) => tpls.includes(t)) ?? tpls[0];
   if (tpls.length > 1) {
-    tpl = OVERRIDE[slug] && tpls.includes(OVERRIDE[slug]) ? OVERRIDE[slug] : tpls[0];
     dupes.push(`${slug}: ${tpls.join(", ")} -> ${tpl}`);
   }
 

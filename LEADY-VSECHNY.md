@@ -43,29 +43,29 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 | 15 | Zubní hygiena Děčín | Návrh 1 | — | https://david-kral.github.io/salon-system/ordinace/hygiena-decin/ |
 | 16 | Dentální hygiena Poděbrady | Návrh 1 | — | https://david-kral.github.io/salon-system/ordinace/hygiena-podebrady/ |
 | 17 | BHL dent | Návrh 1 | info@bhl-dent.cz | https://david-kral.github.io/salon-system/ordinace/bhl-dent/ |
-| 18 | LIBENTO | Návrh 3 (rezervace) | recepce@libento.cz | https://david-kral.github.io/salon-system/ordinace/libento/ |
+| 18 | LIBENTO | Návrh 2 (prémiový) | recepce@libento.cz | https://david-kral.github.io/salon-system/ordinace/libento/ |
 | 19 | Galaxy Dent | Návrh 2 (prémiový) | galaxydent.sro@gmail.com | https://david-kral.github.io/salon-system/ordinace/galaxy-dent/ |
-| 20 | Krásný úsměv | Návrh 3 (rezervace) | info@vaskrasnyusmev.cz | https://david-kral.github.io/salon-system/ordinace/lfdent-olomouc/ |
-| 21 | Centrum zubní medicíny | Návrh 3 (rezervace) | info@dentaldesign.cz | https://david-kral.github.io/salon-system/ordinace/centrum-zubni-mediciny/ |
+| 20 | Krásný úsměv | Návrh 2 (prémiový) | info@vaskrasnyusmev.cz | https://david-kral.github.io/salon-system/ordinace/lfdent-olomouc/ |
+| 21 | Centrum zubní medicíny | Návrh 2 (prémiový) | info@dentaldesign.cz | https://david-kral.github.io/salon-system/ordinace/centrum-zubni-mediciny/ |
 | 22 | Stomatochirurgické centrum Olomouc | Návrh 1 | recepce@stomchircentrum.cz | https://david-kral.github.io/salon-system/ordinace/stomchir-olomouc/ |
 | 23 | DENT — zubní klinika | Návrh 1 | info@kamenicekstoma.cz | https://david-kral.github.io/salon-system/ordinace/dent-klinika/ |
 | 24 | Dental Sphere | Návrh 1 | recepce@dentalsphere.cz | https://david-kral.github.io/salon-system/ordinace/dental-sphere/ |
 | 25 | MUDr. Jiří Procházka | Návrh 1 | mddr.prochazka@gmail.com | https://david-kral.github.io/salon-system/ordinace/jiri-prochazka/ |
 | 26 | ART-MEDICA | Návrh 1 | objednani.artmedica@centrum.cz | https://david-kral.github.io/salon-system/ordinace/art-medica/ |
 | 27 | ProEste - Dentální centrum | Návrh 1 | info@proeste.cz | https://david-kral.github.io/salon-system/ordinace/proeste-dent/ |
-| 28 | MUDr. Jarmila Blažková | Návrh 3 (rezervace) | info@jtbdental.cz | https://david-kral.github.io/salon-system/ordinace/jtb-dent/ |
+| 28 | MUDr. Jarmila Blažková | Návrh 2 (prémiový) | info@jtbdental.cz | https://david-kral.github.io/salon-system/ordinace/jtb-dent/ |
 | 29 | Stomatologická ordinace Holice | Návrh 2 (prémiový) | recepce@stomaholice.cz | https://david-kral.github.io/salon-system/ordinace/holice-dent/ |
 | 30 | Zubní ordinace Švec | Návrh 1 | ordinace@zubnisvec.cz | https://david-kral.github.io/salon-system/ordinace/svec-dent/ |
 | 31 | JSmile stomatologie | Návrh 2 (prémiový) | jsmilestomatologie@gmail.com | https://david-kral.github.io/salon-system/ordinace/jsmile-dent/ |
 | 32 | Perioimplants | Návrh 2 (prémiový) | recepce@collegiumdentalis.cz | https://david-kral.github.io/salon-system/ordinace/perioimplants/ |
-| 33 | MUDr. Přemysl Janda | Návrh 3 (rezervace) | Premysl.Janda@seznam.cz | https://david-kral.github.io/salon-system/ordinace/janda-dent/ |
+| 33 | MUDr. Přemysl Janda | Návrh 2 (prémiový) | Premysl.Janda@seznam.cz | https://david-kral.github.io/salon-system/ordinace/janda-dent/ |
 | 34 | ORTHOZLIN | Návrh 1 | — | https://david-kral.github.io/salon-system/ordinace/orthozlin/ |
 | 35 | WistDental | Návrh 1 | — | https://david-kral.github.io/salon-system/ordinace/wistdental/ |
 | 36 | Zubní ordinace MUDr. Beata Prucková | Návrh 1 | — | https://david-kral.github.io/salon-system/ordinace/pruckova-dent/ |
 | 37 | MUDr. Jiří Grmela | Návrh 1 | jiri.grmela@seznam.cz | https://david-kral.github.io/salon-system/ordinace/grmela-dent/ |
 | 38 | ZUBOSANA — MUDr. Miroslav Kuča | Návrh 2 (prémiový) | — | https://david-kral.github.io/salon-system/ordinace/kuca-dent/ |
 | 39 | REGION BEST DENTAL — MUDr. Pavla Bradáčová | Návrh 2 (prémiový) | — | https://david-kral.github.io/salon-system/ordinace/bradacova-dent/ |
-| 40 | Stomatologie Hanos | Návrh 3 (rezervace) | — | https://david-kral.github.io/salon-system/ordinace/hanos-dent/ |
+| 40 | Stomatologie Hanos | Návrh 2 (prémiový) | — | https://david-kral.github.io/salon-system/ordinace/hanos-dent/ |
 
 **E-mail znám u 19 ze 40**, u zbylých 21 je potřeba dohledat.
 
@@ -214,7 +214,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** libento.cz
 - **Problém:** Nefunkční obrázkový slider na úvodní ploše.
 - **E-mail:** recepce@libento.cz
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/libento/
 
 ### 19. Galaxy Dent
@@ -230,7 +230,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** vaskrasnyusmev.cz
 - **Problém:** Úvodní stránka váží přes 3 MB — pomalé na mobilu.
 - **E-mail:** info@vaskrasnyusmev.cz
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/lfdent-olomouc/
 
 ### 21. Centrum zubní medicíny
@@ -238,7 +238,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** dentaldesign.cz
 - **Problém:** Přesměrovává na caiaclinic.cz, zubař je až podstránka.
 - **E-mail:** info@dentaldesign.cz
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/centrum-zubni-mediciny/
 
 ### 22. Stomatochirurgické centrum Olomouc
@@ -294,7 +294,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** jtbdental.cz
 - **Problém:** Dvě různé e-mailové adresy v kontaktní sekci.
 - **E-mail:** info@jtbdental.cz
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/jtb-dent/
 
 ### 29. Stomatologická ordinace Holice
@@ -334,7 +334,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** zubarjanda.cz
 - **Problém:** Objednání jen obecným formulářem, žádný výběr termínu.
 - **E-mail:** Premysl.Janda@seznam.cz
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/janda-dent/
 
 ### 34. ORTHOZLIN
@@ -390,7 +390,7 @@ Regenerace: `node patch-bundly.mjs && node gen-ordinace.mjs && python gen-leady.
 - **Web dnes:** katalog-stomatologu.cz
 - **Problém:** Jen strojově generovaný profil, bez fotek a ceníku.
 - **E-mail:** _nedohledán_
-- **Šablona:** Návrh 3 (rezervace) (`ukazka-3`)
+- **Šablona:** Návrh 2 (prémiový) (`ukazka-2`)
 - **Ukázka:** https://david-kral.github.io/salon-system/ordinace/hanos-dent/
 
 ---
