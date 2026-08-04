@@ -3,3 +3,13 @@ dist/
 *.log
 .DS_Store
 .claude/
+
+# Osobni udaje leadu (e-mailove adresy) — repo je verejne, tyhle soubory
+# do nej nepatri. Zustavaji lokalne, generuji se skripty gen-*.py.
+vstup-davka-b.txt
+davka-b.json
+MAILY-DAVKA-B.txt
+MAILY-DAVKA-B.html
+maily-html/davka-b/
+sheet.csv
+sheet2.csv

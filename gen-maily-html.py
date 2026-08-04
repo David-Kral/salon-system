@@ -3,35 +3,41 @@
 Text se NEPISE znovu — parsuje se z MAILY-195-242.txt a MAILY-DAVKA-B.txt,
 takze zneni je slovo za slovem stejne jako v textove verzi.
 
-Vystup: pro kazdou davku jedna HTML stranka s nahledem vsech mailu.
-U kazdeho je tlacitko "Kopirovat HTML" (vlozi se do Roundcube pres
-zobrazeni zdrojoveho kodu) a soucasne se da oznacit a zkopirovat
-vyrenderovana verze.
+Vystup:
+  * maily-html/davka-a/NN-slug.html a maily-html/davka-b/NN-slug.html —
+    kazdy mail jako samostatny hotovy soubor (otevrit, Ctrl+A, Ctrl+C,
+    vlozit do Roundcube v HTML rezimu),
+  * MAILY-DAVKA-A.html a MAILY-DAVKA-B.html — prehled vsech mailu
+    s tlacitkem "Kopirovat HTML" a odkazem na samostatny soubor.
 
-Design tokeny odectene z fitego.cz (svetle tema):
-  pozadi #FFFFFF, text #0A2842, plochy #F1F5F9, ramecky #E1E7EF,
-  tlumeny text #667B99, tlacitko pill 9999px / 10px 24px / weight 600,
-  fonty: Plus Jakarta Sans (nadpisy) + Inter (text)
+Paleta je zamerne cistě neutralni cernobila (zadny modry podton):
+  #FFFFFF / text #111111 / plochy #F5F5F5 / ramecky #E5E5E5 /
+  tlumeny text #6B6B6B. Tlacitko pill 9999px, weight 600.
+  Fonty: Plus Jakarta Sans + Inter (jako fitego.cz).
+
+Vsechny odstavce jsou na stred (na prani uzivatele).
 
 Emailova specifika:
   * tabulkovy layout + inline styly (klienti ignoruji <style>)
   * bulletproof tlacitko vcetne VML fallbacku pro Outlook (jinak by
     prisel o zakulaceni i vysku)
   * skryty preheader — ridi text, ktery se ukaze v nahledu schranky
-  * odstavce vlevo (centrovany dlouhy text se spatne cte), nadpis,
-    tlacitko a paticka na stred
 
 Spusteni:  python gen-maily-html.py
 """
 
 import html as H
 import json
+import os
 import re
 
-INK = "#0A2842"
-MUTED = "#667B99"
-SURFACE = "#F1F5F9"
-BORDER = "#E1E7EF"
+# Cistě neutralni cernobila paleta — zadny modry podton.
+# (fitego.cz ma --foreground hsl(208 73% 15%) = #0A2842, coz je tmava navy;
+#  na vyslovne prani je tu misto ni neutralni cerna a sede.)
+INK = "#111111"
+MUTED = "#6B6B6B"
+SURFACE = "#F5F5F5"
+BORDER = "#E5E5E5"
 WHITE = "#FFFFFF"
 FONT = ("'Plus Jakarta Sans','Inter',-apple-system,BlinkMacSystemFont,"
         "'Segoe UI',Roboto,Helvetica,Arial,sans-serif")
@@ -125,7 +131,7 @@ def email_html(m):
         if kind == "p":
             body.append(
                 f'<p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;'
-                f'line-height:25px;color:{INK};text-align:left;">{H.escape(val)}</p>')
+                f'line-height:25px;color:{INK};text-align:center;">{H.escape(val)}</p>')
         else:
             label = "Zobrazit ukázku" if not first_url_done else "Zobrazit druhou pobočku"
             body.append(f'<div style="margin:26px 0 28px 0;">{button(val, label)}</div>')
@@ -159,7 +165,7 @@ def email_html(m):
     </td></tr>
 
     <tr><td style="padding:26px 34px 0 34px;">
-      <p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;line-height:25px;color:{INK};text-align:left;">Dobrý den,</p>
+      <p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;line-height:25px;color:{INK};text-align:center;">Dobrý den,</p>
       {''.join(body)}
     </td></tr>
 
@@ -189,7 +195,7 @@ def email_html(m):
 </html>"""
 
 
-def page(mails, title, note_lines, out):
+def page(mails, title, note_lines, out, folder):
     """Prehledova stranka: nahled + zdrojak ke zkopirovani."""
     cards = []
     for m in mails:
@@ -201,6 +207,7 @@ def page(mails, title, note_lines, out):
 </section>""")
             continue
         src = email_html(m)
+        fn = f"{m['num']:02d}-{slug_of(m)}.html"
         cards.append(f"""
 <section class="card">
   <h2>{m['num']}. {H.escape(m['nazev'])}{f' <span class="flag">{H.escape(m["flags"])}</span>' if m['flags'] else ''}</h2>
@@ -210,7 +217,7 @@ def page(mails, title, note_lines, out):
   </div>
   <div class="actions">
     <button onclick="copySrc(this)">Kopírovat HTML</button>
-    <span class="hint">→ v Roundcube přepni na HTML a vlož přes „zdrojový kód“</span>
+    <a class="filelink" href="{folder}/{fn}" target="_blank">Otevřít samostatně →</a>
   </div>
   <textarea class="src" readonly>{H.escape(src)}</textarea>
   <div class="preview">{src.split('<body', 1)[1].split('>', 1)[1].rsplit('</body>', 1)[0]}</div>
@@ -248,6 +255,8 @@ def page(mails, title, note_lines, out):
    border:0;border-radius:999px;padding:10px 22px;cursor:pointer}}
  .actions button.ok{{background:#15803d}}
  .hint{{font-size:12px;color:var(--muted)}}
+ .filelink{{font:600 13px 'Plus Jakarta Sans',Inter,sans-serif;color:var(--ink);text-decoration:none;border:1px solid var(--border);border-radius:999px;padding:9px 18px}}
+ .filelink:hover{{background:var(--surface)}}
  .src{{display:none}}
  .preview{{margin-top:16px;border:1px solid var(--border);border-radius:12px;overflow:hidden}}
  @media(max-width:640px){{.card{{margin:18px 10px}}}}
@@ -277,8 +286,37 @@ function copySrc(btn){{
     return doc
 
 
+def slug_of(m):
+    for kind, val in m["items"]:
+        if kind == "url":
+            mm = re.search(r"/ordinace/([a-z0-9-]+)/", val)
+            if mm:
+                return mm.group(1)
+    return f"mail-{m['num']:02d}"
+
+
+def write_singles(mails, folder):
+    """Kazdy mail jako samostatny .html — otevrit, Ctrl+A, Ctrl+C, vlozit."""
+    os.makedirs(folder, exist_ok=True)
+    for f in os.listdir(folder):
+        if f.endswith(".html"):
+            os.remove(os.path.join(folder, f))
+    written = []
+    for m in mails:
+        if m["covered"]:
+            continue
+        fn = f"{m['num']:02d}-{slug_of(m)}.html"
+        with open(os.path.join(folder, fn), "w", encoding="utf-8") as fh:
+            fh.write(email_html(m))
+        written.append(fn)
+    return written
+
+
 A = parse("MAILY-195-242.txt")
 B = parse("MAILY-DAVKA-B.txt")
+
+files_a = write_singles(A, os.path.join("maily-html", "davka-a"))
+files_b = write_singles(B, os.path.join("maily-html", "davka-b"))
 
 page(A, "Maily — dávka A (ordinace bez webu, řádky 195–242)", [
     "<strong>46 mailů.</strong> Adresáta si vyplňte sám — v tabulce u těchto řádků e-maily nejsou.",
@@ -286,7 +324,7 @@ page(A, "Maily — dávka A (ordinace bez webu, řádky 195–242)", [
     "<strong>ř. 195 a ř. 204</strong> mají vlastní web — jejich text je psaný na redesign.",
     "Odstavce jsou zarovnané vlevo záměrně: vycentrovaný dlouhý text se čte špatně. "
     "Nadpis, tlačítko a podpis jsou na střed.",
-], "MAILY-DAVKA-A.html")
+], "MAILY-DAVKA-A.html", "maily-html/davka-a")
 
 page(B, "Maily — dávka B (51 ordinací, šablona Dentaline)", [
     "<strong>47 mailů k odeslání</strong> z 51 — čtyři adresy se opakují (dvě pobočky, jeden mail), "
@@ -294,7 +332,7 @@ page(B, "Maily — dávka B (51 ordinací, šablona Dentaline)", [
     "<code>mkolc@cebtrum.cz</code> — doména vypadá jako překlep, nejspíš <code>centrum.cz</code>.",
     "<code>222x222@seznam.cz</code> — ověřte, že je správná.",
     "Kolčavová a MŽ (2×) už jsou v dávce A — pošlete jen jednu verzi.",
-], "MAILY-DAVKA-B.html")
+], "MAILY-DAVKA-B.html", "maily-html/davka-b")
 
 # ── kontroly ───────────────────────────────────────────────────────────
 problems = []
