@@ -7,6 +7,11 @@ nerozsypou a netreba nic prerovnavat.
 Adresata si vyplnte v mailovem klientovi; v tabulce u techto radku
 zadne e-maily nejsou.
 
+Predmety jsou zamerne KRATKE a BEZ jmena adresata — na mobilu
+se zobrazi jen ~40 znaku, takze dlouhe '— MUDr. Jmeno Prijmeni'
+se utne a sezere misto pro to podstatne. Jmeno je v prvni casti
+tela, ktera se zobrazuje v nahledu schranky.
+
 Texty 1-11 jsou obsahove stejne jako drive (uz jste je prosel).
 Od 12. dal je navic odstavec o rezervacnim formulari.
 
@@ -25,7 +30,8 @@ Havirov) vlastni web MAJI, maji proto text na redesign.
    radek 195
 ======================================================================
 
-Predmet: Návrh webu pro vaši ordinaci — MUDr. Andělin Mrozovský
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -50,7 +56,8 @@ fitego.cz
    radek 196
 ======================================================================
 
-Predmet: Ukázka webu na míru — MUDr. Dagmar Cichá-Norková
+PREDMET ↓
+Ukázka webu na míru
 
 Dobrý den,
 
@@ -75,7 +82,8 @@ fitego.cz
    radek 197
 ======================================================================
 
-Predmet: Web pro vaši ordinaci — MUDr. Ladislava Michnová
+PREDMET ↓
+Web pro vaši ordinaci
 
 Dobrý den,
 
@@ -100,7 +108,8 @@ fitego.cz
    radek 198
 ======================================================================
 
-Predmet: Připravil jsem návrh webu — MUDr. Josef Kloda
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -125,7 +134,8 @@ fitego.cz
    radek 199
 ======================================================================
 
-Predmet: Vlastní web místo katalogového profilu — MUDr. Barbora Cudlínová
+PREDMET ↓
+Vlastní web místo katalogového profilu
 
 Dobrý den,
 
@@ -150,7 +160,8 @@ fitego.cz
    radek 200
 ======================================================================
 
-Predmet: Návrh webové stránky — MUDr. Eva Mrázková
+PREDMET ↓
+Návrh webové stránky
 
 Dobrý den,
 
@@ -175,7 +186,8 @@ fitego.cz
    radek 201
 ======================================================================
 
-Predmet: Jak by mohl vypadat váš web — MUDr. Anna Matusiková
+PREDMET ↓
+Jak by mohl vypadat váš web
 
 Dobrý den,
 
@@ -200,7 +212,8 @@ fitego.cz
    radek 202
 ======================================================================
 
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MUDr. Marcela Pokorná
+PREDMET ↓
+Ukázka webu zdarma
 
 Dobrý den,
 
@@ -225,7 +238,8 @@ fitego.cz
    radek 203
 ======================================================================
 
-Predmet: Web, který si pacient najde — MUDr. Vladimír Komár
+PREDMET ↓
+Web, který si pacient najde
 
 Dobrý den,
 
@@ -250,7 +264,8 @@ fitego.cz
    radek 204
 ======================================================================
 
-Predmet: Návrh prezentace ordinace — Dentální hygiena Havířov
+PREDMET ↓
+Návrh prezentace ordinace
 
 Dobrý den,
 
@@ -275,7 +290,8 @@ fitego.cz
    radek 205
 ======================================================================
 
-Predmet: Návrh webu pro vaši ordinaci — MUDr. Břetislav Baron
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
 
 Dobrý den,
 
@@ -300,7 +316,8 @@ fitego.cz
    radek 206
 ======================================================================
 
-Predmet: Ukázka webu na míru — Ta Denta
+PREDMET ↓
+Ukázka: moderní web ordinace — Ta Denta
 
 Dobrý den,
 
@@ -327,7 +344,8 @@ fitego.cz
    radek 208
 ======================================================================
 
-Predmet: Web pro vaši ordinaci — MUDr. Josef Vimmer
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -354,7 +372,8 @@ fitego.cz
    radek 209
 ======================================================================
 
-Predmet: Připravil jsem návrh webu — MUDr. Milan Semerád
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 
@@ -381,7 +400,8 @@ fitego.cz
    radek 210
 ======================================================================
 
-Predmet: Vlastní web místo katalogového profilu — MUDr. Ivana Bedečová
+PREDMET ↓
+Web ordinace: ukázka na míru
 
 Dobrý den,
 
@@ -408,7 +428,8 @@ fitego.cz
    radek 211
 ======================================================================
 
-Predmet: Návrh webové stránky — MUDr. Hana Nováková
+PREDMET ↓
+Jak by vás pacient našel online
 
 Dobrý den,
 
@@ -435,7 +456,8 @@ fitego.cz
    radek 212
 ======================================================================
 
-Predmet: Jak by mohl vypadat váš web — MUDr. Martin Slavík
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -462,7 +484,8 @@ fitego.cz
    radek 213
 ======================================================================
 
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MUDr. Dagmar Kováčová
+PREDMET ↓
+Ukázka webu na míru
 
 Dobrý den,
 
@@ -489,7 +512,8 @@ fitego.cz
    radek 214
 ======================================================================
 
-Predmet: Web, který si pacient najde — Zubní praxe MŽ
+PREDMET ↓
+Web pro vaši ordinaci — Zubní praxe MŽ
 
 Dobrý den,
 
@@ -516,7 +540,8 @@ fitego.cz
    radek 215
 ======================================================================
 
-Predmet: Návrh prezentace ordinace — MUDr. Marie Kolčavová
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -543,7 +568,8 @@ fitego.cz
    radek 216
 ======================================================================
 
-Predmet: Návrh webu pro vaši ordinaci — MUDr. Richard Fačevic
+PREDMET ↓
+Vlastní web místo katalogového profilu
 
 Dobrý den,
 
@@ -570,7 +596,8 @@ fitego.cz
    radek 217
 ======================================================================
 
-Predmet: Ukázka webu na míru — MUDr. Marta Strakošová
+PREDMET ↓
+Návrh webové stránky
 
 Dobrý den,
 
@@ -597,7 +624,8 @@ fitego.cz
    radek 218
 ======================================================================
 
-Predmet: Web pro vaši ordinaci — Slavík Dental
+PREDMET ↓
+Jak by mohl vypadat váš web — Slavík Dental
 
 Dobrý den,
 
@@ -624,7 +652,8 @@ fitego.cz
    radek 220
 ======================================================================
 
-Predmet: Připravil jsem návrh webu — MUDr. Vladimíra Novotná — ortodoncie
+PREDMET ↓
+Ukázka webu zdarma
 
 Dobrý den,
 
@@ -651,7 +680,8 @@ fitego.cz
    radek 221
 ======================================================================
 
-Predmet: Vlastní web místo katalogového profilu — Běla Kutalová — Dental
+PREDMET ↓
+Web, který si pacient najde
 
 Dobrý den,
 
@@ -678,7 +708,8 @@ fitego.cz
    radek 222
 ======================================================================
 
-Predmet: Návrh webové stránky — MUDr. Zlatuše Kovářová
+PREDMET ↓
+Návrh prezentace ordinace
 
 Dobrý den,
 
@@ -705,7 +736,8 @@ fitego.cz
    radek 223
 ======================================================================
 
-Predmet: Jak by mohl vypadat váš web — MUDr. Zdeněk Linhart
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
 
 Dobrý den,
 
@@ -732,7 +764,8 @@ fitego.cz
    radek 224
 ======================================================================
 
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MUDr. Luděk Koleček
+PREDMET ↓
+Ukázka: moderní web ordinace
 
 Dobrý den,
 
@@ -759,7 +792,8 @@ fitego.cz
    radek 225
 ======================================================================
 
-Predmet: Web, který si pacient najde — MUDr. Zbyněk Navara
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -786,7 +820,8 @@ fitego.cz
    radek 226
 ======================================================================
 
-Predmet: Návrh prezentace ordinace — MUDr. Alice Tesařová
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 
@@ -813,7 +848,8 @@ fitego.cz
    radek 227
 ======================================================================
 
-Predmet: Návrh webu pro vaši ordinaci — MUDr. David Kotrys
+PREDMET ↓
+Web ordinace: ukázka na míru
 
 Dobrý den,
 
@@ -840,7 +876,8 @@ fitego.cz
    radek 228
 ======================================================================
 
-Predmet: Ukázka webu na míru — Praxident DK
+PREDMET ↓
+Jak by vás pacient našel online
 
 Dobrý den,
 
@@ -867,7 +904,8 @@ fitego.cz
    radek 229
 ======================================================================
 
-Predmet: Web pro vaši ordinaci — MUDr. Kateřina Tatarková
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -894,7 +932,8 @@ fitego.cz
    radek 230
 ======================================================================
 
-Predmet: Připravil jsem návrh webu — Tradent Stom
+PREDMET ↓
+Ukázka webu na míru — Tradent Stom
 
 Dobrý den,
 
@@ -921,7 +960,8 @@ fitego.cz
    radek 231
 ======================================================================
 
-Predmet: Vlastní web místo katalogového profilu — MUDr. Oldřich Hepnar
+PREDMET ↓
+Web pro vaši ordinaci
 
 Dobrý den,
 
@@ -948,7 +988,8 @@ fitego.cz
    radek 232
 ======================================================================
 
-Predmet: Návrh webové stránky — MUDr. Kozák
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -975,7 +1016,8 @@ fitego.cz
    radek 233
 ======================================================================
 
-Predmet: Jak by mohl vypadat váš web — MUDr. Milada Zlámalová
+PREDMET ↓
+Vlastní web místo katalogového profilu
 
 Dobrý den,
 
@@ -1002,7 +1044,8 @@ fitego.cz
    radek 234
 ======================================================================
 
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MUDr. Naděžda Spurná
+PREDMET ↓
+Návrh webové stránky
 
 Dobrý den,
 
@@ -1029,7 +1072,8 @@ fitego.cz
    radek 235
 ======================================================================
 
-Predmet: Web, který si pacient najde — Parosan Medical
+PREDMET ↓
+Jak by mohl vypadat váš web — Parosan Medical
 
 Dobrý den,
 
@@ -1056,7 +1100,8 @@ fitego.cz
    radek 236
 ======================================================================
 
-Predmet: Návrh prezentace ordinace — MUDr. Renata Kreplová
+PREDMET ↓
+Ukázka webu zdarma
 
 Dobrý den,
 
@@ -1083,7 +1128,8 @@ fitego.cz
    radek 237
 ======================================================================
 
-Predmet: Návrh webu pro vaši ordinaci — JaRo Dent
+PREDMET ↓
+Web, který si pacient najde — JaRo Dent
 
 Dobrý den,
 
@@ -1110,7 +1156,8 @@ fitego.cz
    radek 238
 ======================================================================
 
-Predmet: Ukázka webu na míru — Gem Dent
+PREDMET ↓
+Návrh prezentace ordinace — Gem Dent
 
 Dobrý den,
 
@@ -1137,7 +1184,8 @@ fitego.cz
    radek 239
 ======================================================================
 
-Predmet: Web pro vaši ordinaci — MUDr. František Matušinec
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
 
 Dobrý den,
 
@@ -1164,7 +1212,8 @@ fitego.cz
    radek 240
 ======================================================================
 
-Predmet: Připravil jsem návrh webu — MUDr. Helena Lošťáková
+PREDMET ↓
+Ukázka: moderní web ordinace
 
 Dobrý den,
 
@@ -1191,7 +1240,8 @@ fitego.cz
    radek 241
 ======================================================================
 
-Predmet: Vlastní web místo katalogového profilu — MUDr. Drahoslava Krátká
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -1218,7 +1268,8 @@ fitego.cz
    radek 242
 ======================================================================
 
-Predmet: Návrh webové stránky — MUDr. Hana Kolářová
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 

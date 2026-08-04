@@ -42,8 +42,11 @@ POZOR — PODEZRELE ADRESY, over pred odeslanim:
    https://david-kral.github.io/salon-system/ordinace/stanek-dent/
 ======================================================================
 
-Komu: stantom.zub@gmail.com
-Predmet: Návrh webu pro vaši ordinaci — MUDr. Staněk Dent
+KOMU ↓
+stantom.zub@gmail.com
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -70,8 +73,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/markova-dent/
 ======================================================================
 
-Komu: maxikma@seznam.cz
-Predmet: Ukázka webu na míru — MUDr. Božena Marková
+KOMU ↓
+maxikma@seznam.cz
+
+PREDMET ↓
+Ukázka webu na míru
 
 Dobrý den,
 
@@ -98,8 +104,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/homolova-dent/
 ======================================================================
 
-Komu: dr.homolova@seznam.cz
-Predmet: Web pro vaši ordinaci — MUDr. Irena Homolová
+KOMU ↓
+dr.homolova@seznam.cz
+
+PREDMET ↓
+Web pro vaši ordinaci
 
 Dobrý den,
 
@@ -126,8 +135,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/slovakova-dent/
 ======================================================================
 
-Komu: slovakovae@centrum.cz
-Predmet: Připravil jsem návrh webu — MUDr. Eva Slováková
+KOMU ↓
+slovakovae@centrum.cz
+
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -154,8 +166,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/zdvyhalova-tvrda-dent/
 ======================================================================
 
-Komu: mddr.lenkatvrda@seznam.cz
-Predmet: Vlastní web s online objednáním — MDDr. Lenka Zdvyhalová Tvrdá
+KOMU ↓
+mddr.lenkatvrda@seznam.cz
+
+PREDMET ↓
+Vlastní web s online objednáním
 
 Dobrý den,
 
@@ -182,8 +197,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/hamrlikova-dent/
 ======================================================================
 
-Komu: zubnilekarka3@gmail.com
-Predmet: Návrh webové stránky — MDDr. Gabriela Hamrlíková
+KOMU ↓
+zubnilekarka3@gmail.com
+
+PREDMET ↓
+Návrh webové stránky
 
 Dobrý den,
 
@@ -211,9 +229,12 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/kolcavova-dent-2/
 ======================================================================
 
-Komu: mkolc@cebtrum.cz
-      !! domena 'cebtrum.cz' vypada jako preklep — nejspis 'centrum.cz'
-Predmet: Jak by mohl vypadat váš web — MUDr. Marie Kolčavová
+!! POZOR: domena 'cebtrum.cz' vypada jako preklep — nejspis 'centrum.cz'
+KOMU ↓
+mkolc@cebtrum.cz
+
+PREDMET ↓
+Jak by mohl vypadat váš web
 
 Dobrý den,
 
@@ -240,8 +261,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/leskovsky-dent/
 ======================================================================
 
-Komu: leskovsky.vladimir@seznam.cz
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MDDr. Vladimír Leškovský
+KOMU ↓
+leskovsky.vladimir@seznam.cz
+
+PREDMET ↓
+Ukázka webu zdarma
 
 Dobrý den,
 
@@ -268,8 +292,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/vala-dent/
 ======================================================================
 
-Komu: vala.lubomir@iol.cz
-Predmet: Web, na kterém se pacient objedná sám — MUDr. Lubomír Vala
+KOMU ↓
+vala.lubomir@iol.cz
+
+PREDMET ↓
+Web, kde se pacient objedná sám
 
 Dobrý den,
 
@@ -296,8 +323,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/zaludova-dent/
 ======================================================================
 
-Komu: mudr.zaludova@seznam.cz
-Predmet: Návrh prezentace ordinace — MUDr. Lucie Žaludová
+KOMU ↓
+mudr.zaludova@seznam.cz
+
+PREDMET ↓
+Návrh prezentace ordinace
 
 Dobrý den,
 
@@ -324,8 +354,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/josenika-dent/
 ======================================================================
 
-Komu: josenika.ordinace@gmail.com
-Predmet: Web + online objednávání — JOSENIKA
+KOMU ↓
+josenika.ordinace@gmail.com
+
+PREDMET ↓
+Web + online objednávání
 
 Dobrý den,
 
@@ -353,8 +386,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/mz-jesenik/
 ======================================================================
 
-Komu: Michal.Zitnansky@Seznam.Cz
-Predmet: Návrh webu pro vaši ordinaci — Zubní praxe MŽ
+KOMU ↓
+Michal.Zitnansky@Seznam.Cz
+
+PREDMET ↓
+Ukázka: moderní web ordinace — Zubní praxe MŽ
 
 Dobrý den,
 
@@ -385,8 +421,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/doubravska-dent/
 ======================================================================
 
-Komu: doubravskar@seznam.cz
-Predmet: Ukázka webu na míru — MUDr. Renata Doubravská
+KOMU ↓
+doubravskar@seznam.cz
+
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 
@@ -413,8 +452,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/nemcova-dent/
 ======================================================================
 
-Komu: zubnilipova@seznam.cz
-Predmet: Web pro vaši ordinaci — MDDr. Dagmar Němcová
+KOMU ↓
+zubnilipova@seznam.cz
+
+PREDMET ↓
+Web ordinace: ukázka na míru
 
 Dobrý den,
 
@@ -441,8 +483,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/aludentia/
 ======================================================================
 
-Komu: info@aludentia.cz
-Predmet: Připravil jsem návrh webu — Aludentia
+KOMU ↓
+info@aludentia.cz
+
+PREDMET ↓
+Jak by vás pacient našel online — Aludentia
 
 Dobrý den,
 
@@ -469,8 +514,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/kuklova-dent/
 ======================================================================
 
-Komu: ivana.jilkova.spk@seznam.cz
-Predmet: Vlastní web s online objednáním — MUDr. Ivana Kuklová
+KOMU ↓
+ivana.jilkova.spk@seznam.cz
+
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -497,8 +545,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/brenovi-makris-brezinova/
 ======================================================================
 
-Komu: martinamakris@seznam.cz
-Predmet: Návrh webové stránky — Břeňovi a Makris
+KOMU ↓
+martinamakris@seznam.cz
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -529,8 +580,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/keprt-dent/
 ======================================================================
 
-Komu: mkeprt@tiscali.cz
-Predmet: Jak by mohl vypadat váš web — MUDr. Michal Keprt
+KOMU ↓
+mkeprt@tiscali.cz
+
+PREDMET ↓
+Ukázka webu na míru
 
 Dobrý den,
 
@@ -566,8 +620,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/klosova-dent/
 ======================================================================
 
-Komu: olinkav@seznam.cz
-Predmet: Web, na kterém se pacient objedná sám — MUDr. Olga Klosová
+KOMU ↓
+olinkav@seznam.cz
+
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -594,8 +651,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/horecka-dent/
 ======================================================================
 
-Komu: horecka.pav@seznam.cz
-Predmet: Návrh prezentace ordinace — MUDr. Pavlína Horecká
+KOMU ↓
+horecka.pav@seznam.cz
+
+PREDMET ↓
+Vlastní web s online objednáním
 
 Dobrý den,
 
@@ -622,8 +682,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/denti-belli/
 ======================================================================
 
-Komu: vlasta.bordovska@seznam.cz
-Predmet: Web + online objednávání — denti belli
+KOMU ↓
+vlasta.bordovska@seznam.cz
+
+PREDMET ↓
+Návrh webové stránky — denti belli
 
 Dobrý den,
 
@@ -650,8 +713,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/szostek-dent/
 ======================================================================
 
-Komu: jsz1@seznam.cz
-Predmet: Návrh webu pro vaši ordinaci — Jiří Szostek
+KOMU ↓
+jsz1@seznam.cz
+
+PREDMET ↓
+Jak by mohl vypadat váš web — Jiří Szostek
 
 Dobrý den,
 
@@ -678,8 +744,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/nikldent-oskava/
 ======================================================================
 
-Komu: nikldent@email.cz
-Predmet: Ukázka webu na míru — NIKLdent
+KOMU ↓
+nikldent@email.cz
+
+PREDMET ↓
+Ukázka webu zdarma — NIKLdent
 
 Dobrý den,
 
@@ -720,8 +789,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/emidental-sumperk/
 ======================================================================
 
-Komu: emidental@seznam.cz
-Predmet: Připravil jsem návrh webu — EMIDENTAL
+KOMU ↓
+emidental@seznam.cz
+
+PREDMET ↓
+Návrh prezentace ordinace — EMIDENTAL
 
 Dobrý den,
 
@@ -752,8 +824,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/lendelova-dent/
 ======================================================================
 
-Komu: mudr.lendelova@seznam.cz
-Predmet: Vlastní web s online objednáním — MUDr. Kristýna Lendelová
+KOMU ↓
+mudr.lendelova@seznam.cz
+
+PREDMET ↓
+Web + online objednávání
 
 Dobrý den,
 
@@ -789,8 +864,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/kovar-dent/
 ======================================================================
 
-Komu: jirikovar7@seznam.cz
-Predmet: Jak by mohl vypadat váš web — MUDr. Jiří Kovář
+KOMU ↓
+jirikovar7@seznam.cz
+
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 
@@ -817,8 +895,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/vaclavkova-dent/
 ======================================================================
 
-Komu: vaclavkova.mddr@gmail.com
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MDDr. Lucie Václavková, DiS
+KOMU ↓
+vaclavkova.mddr@gmail.com
+
+PREDMET ↓
+Web ordinace: ukázka na míru
 
 Dobrý den,
 
@@ -845,8 +926,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/sanodent/
 ======================================================================
 
-Komu: szostkovi@wo.cz
-Predmet: Web, na kterém se pacient objedná sám — SANODENT
+KOMU ↓
+szostkovi@wo.cz
+
+PREDMET ↓
+Jak by vás pacient našel online — SANODENT
 
 Dobrý den,
 
@@ -873,8 +957,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/dental-studio-h20/
 ======================================================================
 
-Komu: dentalstudioh20@seznam.cz
-Predmet: Návrh prezentace ordinace — DENTAL STUDIO H20
+KOMU ↓
+dentalstudioh20@seznam.cz
+
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -901,8 +988,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/skacel-dent/
 ======================================================================
 
-Komu: jsk.1@seznam.cz
-Predmet: Web + online objednávání — MUDr. Jiří Skácel
+KOMU ↓
+jsk.1@seznam.cz
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
 
 Dobrý den,
 
@@ -929,8 +1019,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/sv-dent-sumperk/
 ======================================================================
 
-Komu: svitilova@ld.spk.cz
-Predmet: Návrh webu pro vaši ordinaci — SV dent Šumperk
+KOMU ↓
+svitilova@ld.spk.cz
+
+PREDMET ↓
+Ukázka webu na míru — SV dent Šumperk
 
 Dobrý den,
 
@@ -957,8 +1050,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/grygarova-dent/
 ======================================================================
 
-Komu: vladimirgrygar@email.cz
-Predmet: Ukázka webu na míru — MUDr. Ivana Grygarová
+KOMU ↓
+vladimirgrygar@email.cz
+
+PREDMET ↓
+Web pro vaši ordinaci
 
 Dobrý den,
 
@@ -985,8 +1081,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/camkova-dent/
 ======================================================================
 
-Komu: mcamkova@seznam.cz
-Predmet: Web pro vaši ordinaci — MUDr. Milena Čamková
+KOMU ↓
+mcamkova@seznam.cz
+
+PREDMET ↓
+Připravil jsem návrh webu
 
 Dobrý den,
 
@@ -1013,8 +1112,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/m-smile/
 ======================================================================
 
-Komu: zdenkahatonova@seznam.cz
-Predmet: Připravil jsem návrh webu — M - Smile
+KOMU ↓
+zdenkahatonova@seznam.cz
+
+PREDMET ↓
+Vlastní web s online objednáním — M - Smile
 
 Dobrý den,
 
@@ -1041,8 +1143,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/echtdent/
 ======================================================================
 
-Komu: jiri.zahejsky@seznam.cz
-Predmet: Vlastní web s online objednáním — ECHTDENT
+KOMU ↓
+jiri.zahejsky@seznam.cz
+
+PREDMET ↓
+Návrh webové stránky — ECHTDENT
 
 Dobrý den,
 
@@ -1069,8 +1174,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/pavlu-dent/
 ======================================================================
 
-Komu: pavluvera@seznam.cz
-Predmet: Návrh webové stránky — MUDr. Michal Pavlů
+KOMU ↓
+pavluvera@seznam.cz
+
+PREDMET ↓
+Jak by mohl vypadat váš web
 
 Dobrý den,
 
@@ -1097,8 +1205,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/slavikova-praxe-dent/
 ======================================================================
 
-Komu: petraslavik@seznam.cz
-Predmet: Jak by mohl vypadat váš web — MUDr. P. Slavíková-zubní praxe
+KOMU ↓
+petraslavik@seznam.cz
+
+PREDMET ↓
+Ukázka webu zdarma
 
 Dobrý den,
 
@@ -1125,8 +1236,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/hosek-dent/
 ======================================================================
 
-Komu: hosekus@centrum.cz
-Predmet: Ukázka zdarma: web pro vaši ordinaci — MUDr. František Hošek
+KOMU ↓
+hosekus@centrum.cz
+
+PREDMET ↓
+Web, kde se pacient objedná sám
 
 Dobrý den,
 
@@ -1153,8 +1267,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/molnarova-dent/
 ======================================================================
 
-Komu: hana.stolc@gmail.com
-Predmet: Web, na kterém se pacient objedná sám — MDDr. Hana Molnárová
+KOMU ↓
+hana.stolc@gmail.com
+
+PREDMET ↓
+Návrh prezentace ordinace
 
 Dobrý den,
 
@@ -1181,8 +1298,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/kostelecka-dent/
 ======================================================================
 
-Komu: Hana.Kostelecka@seznam.cz
-Predmet: Návrh prezentace ordinace — MUDr. Hana Kostelecká
+KOMU ↓
+Hana.Kostelecka@seznam.cz
+
+PREDMET ↓
+Web + online objednávání
 
 Dobrý den,
 
@@ -1209,8 +1329,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/pospisilova-dent/
 ======================================================================
 
-Komu: pospisilova.monika@post.cz
-Predmet: Web + online objednávání — MDDr. Monika Pospíšilová
+KOMU ↓
+pospisilova.monika@post.cz
+
+PREDMET ↓
+Ukázka: moderní web ordinace
 
 Dobrý den,
 
@@ -1237,9 +1360,12 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/krausova-dental/
 ======================================================================
 
-Komu: 222x222@seznam.cz
-      !! adresa vypada nestandardne, over ze je spravna
-Predmet: Návrh webu pro vaši ordinaci — KRAUSOVÁ Dental
+!! POZOR: adresa vypada nestandardne, over ze je spravna
+KOMU ↓
+222x222@seznam.cz
+
+PREDMET ↓
+Návrh webu — bez závazku
 
 Dobrý den,
 
@@ -1266,8 +1392,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/jurecek-dent/
 ======================================================================
 
-Komu: jurecekzubar@seznam.cz
-Predmet: Ukázka webu na míru — MDDr. Zdeněk Jureček, DIS
+KOMU ↓
+jurecekzubar@seznam.cz
+
+PREDMET ↓
+Web ordinace: ukázka na míru
 
 Dobrý den,
 
@@ -1303,8 +1432,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/gabrielova-dent/
 ======================================================================
 
-Komu: gabrielova.pavlina@email.cz
-Predmet: Připravil jsem návrh webu — MUDr. Pavlína Gabrielová
+KOMU ↓
+gabrielova.pavlina@email.cz
+
+PREDMET ↓
+Vlastní web místo katalogu
 
 Dobrý den,
 
@@ -1331,8 +1463,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/sofronieski-dent/
 ======================================================================
 
-Komu: sofronieski@centrum.cz
-Predmet: Vlastní web s online objednáním — SOFRONIESKI MS
+KOMU ↓
+sofronieski@centrum.cz
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci — SOFRONIESKI MS
 
 Dobrý den,
 
@@ -1359,8 +1494,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/dostal-dent/
 ======================================================================
 
-Komu: dostaldent.sro@seznam.cz
-Predmet: Návrh webové stránky — Dostal dent
+KOMU ↓
+dostaldent.sro@seznam.cz
+
+PREDMET ↓
+Ukázka webu na míru — Dostal dent
 
 Dobrý den,
 
@@ -1387,8 +1525,11 @@ fitego.cz
    https://david-kral.github.io/salon-system/ordinace/skacelova-dent/
 ======================================================================
 
-Komu: pavla.skacelova@seznam.cz
-Predmet: Jak by mohl vypadat váš web — MUDr. Pavla Skácelová
+KOMU ↓
+pavla.skacelova@seznam.cz
+
+PREDMET ↓
+Web pro vaši ordinaci
 
 Dobrý den,
 

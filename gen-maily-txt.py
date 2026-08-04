@@ -62,6 +62,11 @@ lines.append("")
 lines.append("Adresata si vyplnte v mailovem klientovi; v tabulce u techto radku")
 lines.append("zadne e-maily nejsou.")
 lines.append("")
+lines.append("Predmety jsou zamerne KRATKE a BEZ jmena adresata — na mobilu")
+lines.append("se zobrazi jen ~40 znaku, takze dlouhe '— MUDr. Jmeno Prijmeni'")
+lines.append("se utne a sezere misto pro to podstatne. Jmeno je v prvni casti")
+lines.append("tela, ktera se zobrazuje v nahledu schranky.")
+lines.append("")
 lines.append("Texty 1-11 jsou obsahove stejne jako drive (uz jste je prosel).")
 lines.append("Od 12. dal je navic odstavec o rezervacnim formulari.")
 lines.append("")
@@ -80,7 +85,7 @@ for i, e in enumerate(BATCH):
     url = MAN[e["slug"]]["url"]
     redesign = e["slug"] in HAS_WEB
 
-    subject = mg.SUBJECTS[i % len(mg.SUBJECTS)].format(name=name)
+    subject = mg.subject_for(i, name)
     if redesign:
         opener = mg.OPENERS_REDESIGN[list(HAS_WEB).index(e["slug"]) % len(mg.OPENERS_REDESIGN)]
         opener = opener.format(web=HAS_WEB[e["slug"]])
@@ -97,7 +102,9 @@ for i, e in enumerate(BATCH):
     lines.append(f"   radek {e['radek']}")
     lines.append("=" * 70)
     lines.append("")
-    lines.append(f"Predmet: {subject}")
+    # predmet na vlastnim radku bez predpony — da se oznacit cely radek
+    lines.append("PREDMET ↓")
+    lines.append(subject)
     lines.append("")
     lines.append("Dobrý den,")
     lines.append("")
@@ -158,7 +165,7 @@ for k, body in enumerate(txt_bodies, start=1):
 
 # 3) kazdy mail musi mit predmet, odkaz, prilohu i podpis
 for k, body in enumerate(txt_bodies, start=1):
-    if "Predmet:" not in body:
+    if "PREDMET ↓" not in body:
         problems.append(f"mail {k}: chybi predmet")
     if "https://david-kral.github.io/salon-system/ordinace/" not in body:
         problems.append(f"mail {k}: chybi odkaz")

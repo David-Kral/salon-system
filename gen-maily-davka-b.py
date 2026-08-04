@@ -52,19 +52,37 @@ def branch_label(c):
     return m.group(1) if m else None
 
 
+# Predmety BEZ jmena adresata. Na mobilu se zobrazi ~40 znaku, takze dlouhe
+# "— MUDr. Jmeno Prijmeni" se utne a jen sezere misto pro tu cast, ktera neco
+# rika. Adresat sve jmeno zna; personalizace patri do prvni vety tela.
 SUBJECTS = [
-    "Návrh webu pro vaši ordinaci — {name}",
-    "Ukázka webu na míru — {name}",
-    "Web pro vaši ordinaci — {name}",
-    "Připravil jsem návrh webu — {name}",
-    "Vlastní web s online objednáním — {name}",
-    "Návrh webové stránky — {name}",
-    "Jak by mohl vypadat váš web — {name}",
-    "Ukázka zdarma: web pro vaši ordinaci — {name}",
-    "Web, na kterém se pacient objedná sám — {name}",
-    "Návrh prezentace ordinace — {name}",
-    "Web + online objednávání — {name}",
+    "Návrh webu pro vaši ordinaci",
+    "Ukázka webu na míru",
+    "Web pro vaši ordinaci",
+    "Připravil jsem návrh webu",
+    "Vlastní web s online objednáním",
+    "Návrh webové stránky",
+    "Jak by mohl vypadat váš web",
+    "Ukázka webu zdarma",
+    "Web, kde se pacient objedná sám",
+    "Návrh prezentace ordinace",
+    "Web + online objednávání",
+    "Ukázka: moderní web ordinace",
+    "Návrh webu — bez závazku",
+    "Web ordinace: ukázka na míru",
+    "Jak by vás pacient našel online",
+    "Vlastní web místo katalogu",
 ]
+
+
+# Vyjimka: kratky firemni nazev v predmetu funguje (je konkretni a neutne se).
+# Osobni jmena s titulem tam nepatri — jsou dlouha a ctou se jako mail merge.
+def subject_for(i, name):
+    base = SUBJECTS[i % len(SUBJECTS)]
+    if not re.match(r"^(MUDr|MDDr|MVDr|PhDr)\.", name) and len(name) <= 15:
+        if "—" not in base and "+" not in base and len(base) + len(name) + 3 <= 45:
+            return f"{base} — {name}"
+    return base
 
 OPENERS = [
     "hledal jsem na internetu vaši ordinaci a našel jsem hlavně záznamy v katalozích lékařů. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, mi chyběl.",
@@ -195,10 +213,15 @@ for i, c in enumerate(B):
         L.append("")
         continue
 
-    L.append(f"Komu: {em}")
+    # e-mail i predmet maji vlastni radek bez predpony, aby se dal oznacit
+    # cely radek a nesla ztratit prvni/posledni znak pri kopirovani
     if eml in SUSPECT:
-        L.append(f"      !! {SUSPECT[eml]}")
-    L.append(f"Predmet: {SUBJECTS[i % len(SUBJECTS)].format(name=name)}")
+        L.append(f"!! POZOR: {SUSPECT[eml]}")
+    L.append("KOMU ↓")
+    L.append(em)
+    L.append("")
+    L.append("PREDMET ↓")
+    L.append(subject_for(i, name))
     L.append("")
     L.append("Dobrý den,")
     L.append("")
@@ -256,7 +279,7 @@ for k, body in enumerate(bodies, start=1):
     if "NEPOSILAT" in body:
         continue
     sendable += 1
-    for need, label in [("Komu:", "adresat"), ("Predmet:", "predmet"),
+    for need, label in [("KOMU ↓", "adresat"), ("PREDMET ↓", "predmet"),
                         ("/ordinace/", "odkaz"), ("fitego.cz", "podpis")]:
         if need not in body:
             problems.append(f"mail {k}: chybi {label}")
@@ -272,5 +295,7 @@ for c in B:
 
 print(f"OK — MAILY-DAVKA-B.txt")
 print(f"   bloku: {len(bodies)} | k odeslani: {sendable} | pokryto jinym mailem: {len(bodies)-sendable}")
-print(f"   unikatnich predmetu: {len(set(re.findall(r'Predmet: (.+)', txt)))}")
+subs = re.findall(r"PREDMET ↓\n(.+)", txt)
+print(f"   predmetu: {len(subs)} | unikatnich: {len(set(subs))} | "
+      f"nejdelsi: {max(len(s) for s in subs)} znaku")
 print("   problemy: " + ("; ".join(problems) if problems else "zadne"))

@@ -11,6 +11,7 @@ Spusteni:  python gen-maily-195-242.py
 """
 
 import json
+import re
 
 MAN = {e["slug"]: e for e in json.load(open("ordinace/manifest.json", encoding="utf-8"))}
 BATCH = json.load(open("davka-195-242.json", encoding="utf-8"))
@@ -21,18 +22,37 @@ HAS_WEB = {
     "dentalni-hygiena-havirov": "dentalni-hygiena-havirov.webnode.cz",
 }
 
+# Predmety BEZ jmena adresata. Duvod: na mobilu se zobrazi ~40 znaku, takze
+# dlouhe "— MUDr. Jmeno Prijmeni" se utne a jen sezere misto pro tu cast,
+# ktera neco rika. Adresat sve jmeno zna; personalizace patri do prvni vety
+# tela, ktera se zobrazuje v nahledu.
 SUBJECTS = [
-    "Návrh webu pro vaši ordinaci — {name}",
-    "Ukázka webu na míru — {name}",
-    "Web pro vaši ordinaci — {name}",
-    "Připravil jsem návrh webu — {name}",
-    "Vlastní web místo katalogového profilu — {name}",
-    "Návrh webové stránky — {name}",
-    "Jak by mohl vypadat váš web — {name}",
-    "Ukázka zdarma: web pro vaši ordinaci — {name}",
-    "Web, který si pacient najde — {name}",
-    "Návrh prezentace ordinace — {name}",
+    "Návrh webu pro vaši ordinaci",
+    "Ukázka webu na míru",
+    "Web pro vaši ordinaci",
+    "Připravil jsem návrh webu",
+    "Vlastní web místo katalogového profilu",
+    "Návrh webové stránky",
+    "Jak by mohl vypadat váš web",
+    "Ukázka webu zdarma",
+    "Web, který si pacient najde",
+    "Návrh prezentace ordinace",
+    "Web pro vaši ordinaci — návrh zdarma",
+    "Ukázka: moderní web ordinace",
+    "Vlastní web místo katalogu",
+    "Návrh webu — bez závazku",
+    "Web ordinace: ukázka na míru",
+    "Jak by vás pacient našel online",
 ]
+
+# Vyjimka: kratky firemni nazev v predmetu funguje (je konkretni a neutne se).
+# Osobni jmena s titulem tam nepatri — jsou dlouha a ctou se jako mail merge.
+def subject_for(i, name):
+    base = SUBJECTS[i % len(SUBJECTS)]
+    if not re.match(r"^(MUDr|MDDr|MVDr|PhDr)\.", name) and len(name) <= 15:
+        if "—" not in base and len(base) + len(name) + 3 <= 45:
+            return f"{base} — {name}"
+    return base
 
 OPENERS = [
     "hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských\n"
@@ -167,7 +187,7 @@ for i, e in enumerate(BATCH):
     url = MAN[e["slug"]]["url"]
     redesign = e["slug"] in HAS_WEB
 
-    subject = SUBJECTS[i % len(SUBJECTS)].format(name=name)
+    subject = subject_for(i, name)
     if redesign:
         opener = OPENERS_REDESIGN[list(HAS_WEB).index(e["slug"]) % len(OPENERS_REDESIGN)]
         opener = opener.format(web=HAS_WEB[e["slug"]])
