@@ -15,7 +15,9 @@ Paleta je zamerne cistě neutralni cernobila (zadny modry podton):
   tlumeny text #6B6B6B. Tlacitko pill 9999px, weight 600.
   Fonty: Plus Jakarta Sans + Inter (jako fitego.cz).
 
-Vsechny odstavce jsou na stred (na prani uzivatele).
+Odstavce jsou zarovnane vlevo (cte se to lip). Na stred je wordmark,
+tlacitko a podpis. Surova URL pod tlacitkem se nezobrazuje — odkaz nese
+samo tlacitko.
 
 Emailova specifika:
   * tabulkovy layout + inline styly (klienti ignoruji <style>)
@@ -131,14 +133,11 @@ def email_html(m):
         if kind == "p":
             body.append(
                 f'<p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;'
-                f'line-height:25px;color:{INK};text-align:center;">{H.escape(val)}</p>')
+                f'line-height:25px;color:{INK};text-align:left;">{H.escape(val)}</p>')
         else:
             label = "Zobrazit ukázku" if not first_url_done else "Zobrazit druhou pobočku"
-            body.append(f'<div style="margin:26px 0 28px 0;">{button(val, label)}</div>')
-            body.append(
-                f'<p style="margin:0 0 18px 0;font-family:{FONT};font-size:12px;'
-                f'line-height:18px;color:{MUTED};text-align:center;">'
-                f'{H.escape(val)}</p>')
+            # jen tlacitko — surova URL pod nim se nezobrazuje (odkaz nese tlacitko)
+            body.append(f'<div style="margin:26px 0 30px 0;">{button(val, label)}</div>')
             first_url_done = True
 
     return f"""<!DOCTYPE html>
@@ -165,7 +164,7 @@ def email_html(m):
     </td></tr>
 
     <tr><td style="padding:26px 34px 0 34px;">
-      <p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;line-height:25px;color:{INK};text-align:center;">Dobrý den,</p>
+      <p style="margin:0 0 18px 0;font-family:{FONT};font-size:15px;line-height:25px;color:{INK};text-align:left;">Dobrý den,</p>
       {''.join(body)}
     </td></tr>
 
