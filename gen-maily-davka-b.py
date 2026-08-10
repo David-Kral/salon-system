@@ -32,7 +32,6 @@ OVERLAP = {  # slug v davce B -> slug v predchozi davce
     "mz-zulova": "mz-dent",
 }
 SUSPECT = {
-    "mkolc@cebtrum.cz": "domena 'cebtrum.cz' vypada jako preklep — nejspis 'centrum.cz'",
     "222x222@seznam.cz": "adresa vypada nestandardne, over ze je spravna",
 }
 
