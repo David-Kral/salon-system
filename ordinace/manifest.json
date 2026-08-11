@@ -6,6 +6,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/aludentia/"
   },
   {
+    "slug": "anirda-dent",
+    "nazev": "Dentální hygiena Anirda",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/anirda-dent/"
+  },
+  {
     "slug": "art-medica",
     "nazev": "ART-MEDICA",
     "sablona": "ukazka-1",
@@ -22,6 +28,12 @@
     "nazev": "MUDr. Ivana Bedečová",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/bedecova-dent/"
+  },
+  {
+    "slug": "berkova-dent",
+    "nazev": "MUDr. Jana Berková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/berkova-dent/"
   },
   {
     "slug": "bhl-dent",
@@ -54,10 +66,22 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/brenovi-makris-mikulasska/"
   },
   {
+    "slug": "busova-dent",
+    "nazev": "MDDr. Jana Bušová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/busova-dent/"
+  },
+  {
     "slug": "camkova-dent",
     "nazev": "MUDr. Milena Čamková",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/camkova-dent/"
+  },
+  {
+    "slug": "carvas-dent",
+    "nazev": "MUDr. Pavel Čarvaš",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/carvas-dent/"
   },
   {
     "slug": "centrum-zubni-mediciny",
@@ -84,6 +108,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/cudlinova-dent/"
   },
   {
+    "slug": "dent-company",
+    "nazev": "DENT company",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dent-company/"
+  },
+  {
     "slug": "dent-klinika",
     "nazev": "DENT — zubní klinika",
     "sablona": "ukazka-1",
@@ -108,6 +138,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/dentalni-hygiena-havirov/"
   },
   {
+    "slug": "dentave",
+    "nazev": "Dentave",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dentave/"
+  },
+  {
     "slug": "denti-belli",
     "nazev": "denti belli",
     "sablona": "ukazka-1",
@@ -118,6 +154,12 @@
     "nazev": "Dentista Zlín",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/dentista-zlin/"
+  },
+  {
+    "slug": "denttabo",
+    "nazev": "DentTabo",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/denttabo/"
   },
   {
     "slug": "dostal-dent",
@@ -132,10 +174,34 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/doubravska-dent/"
   },
   {
+    "slug": "drahos-dent",
+    "nazev": "MUDr. Vladimír Drahoš",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/drahos-dent/"
+  },
+  {
     "slug": "drdent-zlin",
     "nazev": "Dr.Dent Zlín",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/drdent-zlin/"
+  },
+  {
+    "slug": "dufkova-dent",
+    "nazev": "MUDr. Ludmila Dufková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dufkova-dent/"
+  },
+  {
+    "slug": "duraj-dent",
+    "nazev": "MUDr. Josef Duraj",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/duraj-dent/"
+  },
+  {
+    "slug": "dvorackova-dent",
+    "nazev": "MUDr. Miluše Dvořáčková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/dvorackova-dent/"
   },
   {
     "slug": "echtdent",
@@ -204,10 +270,46 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/hanos-dent/"
   },
   {
+    "slug": "harastova-dent",
+    "nazev": "MUDr. Anna Haraštová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/harastova-dent/"
+  },
+  {
+    "slug": "havlova-dent",
+    "nazev": "MUDr. Petra Havlová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/havlova-dent/"
+  },
+  {
+    "slug": "helios-dent",
+    "nazev": "HELIOS DENT",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/helios-dent/"
+  },
+  {
     "slug": "hepnar-dent",
     "nazev": "MUDr. Oldřich Hepnar",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/hepnar-dent/"
+  },
+  {
+    "slug": "hlasivcova-dent",
+    "nazev": "MUDr. Jana Hlasivcová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/hlasivcova-dent/"
+  },
+  {
+    "slug": "hlavackova-dent",
+    "nazev": "Zuzana Hlaváčková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/hlavackova-dent/"
+  },
+  {
+    "slug": "hola-dent",
+    "nazev": "Ludmila Holá",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/hola-dent/"
   },
   {
     "slug": "holice-dent",
@@ -222,6 +324,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/homolova-dent/"
   },
   {
+    "slug": "horakova-dent",
+    "nazev": "MUDr. Eva Horáková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/horakova-dent/"
+  },
+  {
     "slug": "horecka-dent",
     "nazev": "MUDr. Pavlína Horecká",
     "sablona": "ukazka-1",
@@ -232,6 +340,12 @@
     "nazev": "MUDr. František Hošek",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/hosek-dent/"
+  },
+  {
+    "slug": "houskova-dent",
+    "nazev": "MUDr. Eva Housková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/houskova-dent/"
   },
   {
     "slug": "hygiena-decin",
@@ -300,6 +414,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/keprt-dent/"
   },
   {
+    "slug": "kinclova-dent",
+    "nazev": "MUDr. Kinclová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kinclova-dent/"
+  },
+  {
     "slug": "klimesova-dent",
     "nazev": "Zubní ordinace MUDr. Iva Klimešová",
     "sablona": "ukazka-1",
@@ -316,6 +436,12 @@
     "nazev": "MUDr. Olga Klosová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/klosova-dent/"
+  },
+  {
+    "slug": "kolar-dent",
+    "nazev": "MUDr. Petr Kolář",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kolar-dent/"
   },
   {
     "slug": "kolarova-dent",
@@ -348,6 +474,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/komar-dent/"
   },
   {
+    "slug": "konecna-dent",
+    "nazev": "MDDr. Sylvie Konečná",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/konecna-dent/"
+  },
+  {
     "slug": "kostelecka-dent",
     "nazev": "MUDr. Hana Kostelecká",
     "sablona": "ukazka-1",
@@ -358,6 +490,12 @@
     "nazev": "MUDr. David Kotrys",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/kotrys-dent/"
+  },
+  {
+    "slug": "kottova-dent",
+    "nazev": "MUDr. Alena Kottová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kottova-dent/"
   },
   {
     "slug": "kovacova-dent",
@@ -402,16 +540,34 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/kreplova-dent/"
   },
   {
+    "slug": "kropikova-dent",
+    "nazev": "MUDr. Zuzana Kropíková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kropikova-dent/"
+  },
+  {
     "slug": "kuca-dent",
     "nazev": "ZUBOSANA — MUDr. Miroslav Kuča",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/kuca-dent/"
   },
   {
+    "slug": "kucharikova-dent",
+    "nazev": "MUDr. Marie Kuchaříková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kucharikova-dent/"
+  },
+  {
     "slug": "kuklova-dent",
     "nazev": "MUDr. Ivana Kuklová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/kuklova-dent/"
+  },
+  {
+    "slug": "kupkova-dent",
+    "nazev": "MUDr. Jarmila Kupková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/kupkova-dent/"
   },
   {
     "slug": "kutalova-dent",
@@ -424,6 +580,12 @@
     "nazev": "MUDr. Ladislava Vranová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/ladislava-vranova/"
+  },
+  {
+    "slug": "landa-dent",
+    "nazev": "Dr. Landa",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/landa-dent/"
   },
   {
     "slug": "lendelova-dent",
@@ -468,10 +630,22 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/lukas-milic/"
   },
   {
+    "slug": "luxury-dent",
+    "nazev": "Luxury Dent",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/luxury-dent/"
+  },
+  {
     "slug": "m-smile",
     "nazev": "M - Smile",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/m-smile/"
+  },
+  {
+    "slug": "marivadent",
+    "nazev": "MarivaDent",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/marivadent/"
   },
   {
     "slug": "markova-dent",
@@ -490,6 +664,12 @@
     "nazev": "MUDr. František Matušinec",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/matusinec-dent/"
+  },
+  {
+    "slug": "medico-dent",
+    "nazev": "Medico Dent",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/medico-dent/"
   },
   {
     "slug": "michnova-dent",
@@ -538,6 +718,12 @@
     "nazev": "MUDr. Zbyněk Navara",
     "sablona": "ukazka-2",
     "url": "https://david-kral.github.io/salon-system/ordinace/navara-dent/"
+  },
+  {
+    "slug": "necasova-dent",
+    "nazev": "MUDr. Lucie Nečasová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/necasova-dent/"
   },
   {
     "slug": "nemcova-dent",
@@ -618,6 +804,18 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/pospisilova-dent/"
   },
   {
+    "slug": "potucek-dent",
+    "nazev": "MDDr. Jiří Potůček",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/potucek-dent/"
+  },
+  {
+    "slug": "potuckova-dent",
+    "nazev": "MDDr. Dagmar Potůčková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/potuckova-dent/"
+  },
+  {
     "slug": "praxident-dk",
     "nazev": "Praxident DK",
     "sablona": "ukazka-2",
@@ -634,6 +832,12 @@
     "nazev": "Zubní ordinace MUDr. Beata Prucková",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/pruckova-dent/"
+  },
+  {
+    "slug": "rehorkova-dent",
+    "nazev": "MUDr. Martina Řehořková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/rehorkova-dent/"
   },
   {
     "slug": "reli-dent",
@@ -660,6 +864,24 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/semerad-dent/"
   },
   {
+    "slug": "sevcikova-dent",
+    "nazev": "MUDr. Bohdana Ševčíková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/sevcikova-dent/"
+  },
+  {
+    "slug": "simak-dent",
+    "nazev": "MUDr. Miroslav Šimák",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/simak-dent/"
+  },
+  {
+    "slug": "simkova-dent",
+    "nazev": "MUDr. Jitka Šimková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/simkova-dent/"
+  },
+  {
     "slug": "skacel-dent",
     "nazev": "MUDr. Jiří Skácel",
     "sablona": "ukazka-1",
@@ -670,6 +892,24 @@
     "nazev": "MUDr. Pavla Skácelová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/skacelova-dent/"
+  },
+  {
+    "slug": "skacelova-dent-2",
+    "nazev": "MUDr. Michaela Skácelová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/skacelova-dent-2/"
+  },
+  {
+    "slug": "slaba-magda-dent",
+    "nazev": "MUDr. Magda Slabá",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/slaba-magda-dent/"
+  },
+  {
+    "slug": "slaba-vlasta-dent",
+    "nazev": "MUDr. Vlasta Slabá",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/slaba-vlasta-dent/"
   },
   {
     "slug": "slavik-dent",
@@ -696,6 +936,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/slovakova-dent/"
   },
   {
+    "slug": "smid-dent",
+    "nazev": "MUDr. Karel Šmíd",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/smid-dent/"
+  },
+  {
     "slug": "sofronieski-dent",
     "nazev": "SOFRONIESKI MS",
     "sablona": "ukazka-1",
@@ -720,6 +966,12 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/stanek-dent/"
   },
   {
+    "slug": "stomamed",
+    "nazev": "Stomamed",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/stomamed/"
+  },
+  {
     "slug": "stomchir-olomouc",
     "nazev": "Stomatochirurgické centrum Olomouc",
     "sablona": "ukazka-1",
@@ -736,6 +988,12 @@
     "nazev": "SV dent Šumperk",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/sv-dent-sumperk/"
+  },
+  {
+    "slug": "svarcova-dent",
+    "nazev": "MUDr. Šárka Švarcová",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/svarcova-dent/"
   },
   {
     "slug": "svec-dent",
@@ -804,10 +1062,22 @@
     "url": "https://david-kral.github.io/salon-system/ordinace/vimmer-dent/"
   },
   {
+    "slug": "vobornik-dent",
+    "nazev": "MUDr. Josef Voborník",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/vobornik-dent/"
+  },
+  {
     "slug": "vranova-dent",
     "nazev": "Zubní ordinace MUDr. Ladislava Vranová",
     "sablona": "ukazka-1",
     "url": "https://david-kral.github.io/salon-system/ordinace/vranova-dent/"
+  },
+  {
+    "slug": "vutjanokova-dent",
+    "nazev": "MUDr. Renata Vutjanoková",
+    "sablona": "ukazka-1",
+    "url": "https://david-kral.github.io/salon-system/ordinace/vutjanokova-dent/"
   },
   {
     "slug": "wistdental",
