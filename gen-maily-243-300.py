@@ -186,23 +186,62 @@ CLOSERS = [
 
 SIGNATURE = ["S pozdravem,", "David Král", "777 122 178", "fitego.cz"]
 
+# Mail psany rucne — rotujici varianty by na nej nesedly. Dentalstyl je
+# klinika s hotovym webem (dentalstyl.cz), takze uhel je redesign
+# konkretniho webu, ne "nemate web".
+CUSTOM = {
+    "dufkova-dent": {
+        "subject": "Návrh nového webu — Dentalstyl",
+        "blocks": [
+            "prohlížel jsem si web Dentalstylu (dentalstyl.cz). Obsahově je poctivý —\n"
+            "tým, ceník, bělení BEYOND, ordinační hodiny i pojišťovny tam pacient najde.\n"
+            "Vzhled a chování na mobilu už ale odpovídají době, kdy web vznikal;\n"
+            "v patičce navíc svítí rok 2015 a mapa u kontaktů se vůbec nenačte —\n"
+            "místo ní je chybová hláška Google Maps.",
+
+            "Připravil jsem proto ukázku, jak by mohl web kliniky vypadat dnes. Není to\n"
+            "obecná šablona — v titulku i v hlavičce stojí „Dentalstyl“ a stránka počítá\n"
+            "s tím, že jste klinika s týmem, ne jeden lékař:",
+
+            "__URL__",
+
+            "Není to jen webovka. Součástí je i online objednání, které dnes řešíte\n"
+            "telefonem a e-mailem: pacient vybere, jestli je u vás nový nebo stávající,\n"
+            "zvolí termín, který mu vyhovuje, a nechá jméno, telefon, e-mail a poznámku.\n"
+            "Nový pacient se tím rovnou zaregistruje a vám přijde poptávka se vším,\n"
+            "co potřebujete vědět — dá se doplnit i výběr lékaře nebo zákroku.",
+
+            "V příloze posílám screenshot úvodní obrazovky, ať se nemusíte nikam\n"
+            "proklikávat.",
+
+            "Ukázka je zdarma a bez závazku. Kdyby se vám líbila, doladíme texty, fotky\n"
+            "i barvy podle vás — včetně přenesení celého obsahu ze současného webu.",
+        ],
+    },
+}
+
 unwrap = lambda s: re.sub(r"\s+", " ", s.replace("\n", " ")).strip()
 
 
 def parts(i, e):
-    """Vrati (predmet, uvod, stred, formular, priloha, zaver) pro i-ty mail."""
+    """Vrati (predmet, bloky). '__URL__' v blocich je misto pro odkaz."""
     name = e["nazev"]
+    if e["slug"] in CUSTOM:
+        c = CUSTOM[e["slug"]]
+        return c["subject"], list(c["blocks"])
     if e["slug"] in HAS_WEB:
         web, problem = HAS_WEB[e["slug"]]
         opener = OPENER_REDESIGN.format(web=web, problem=problem)
     else:
         opener = OPENERS[(i * 3) % len(OPENERS)]
-    return (subject_for(i, name),
-            opener,
-            MIDDLES[(i * 5) % len(MIDDLES)].format(name=name),
-            FORM[(i * 3) % len(FORM)],
-            ATTACH[(i * 7) % len(ATTACH)],
-            CLOSERS[(i * 11) % len(CLOSERS)])
+    return subject_for(i, name), [
+        opener,
+        MIDDLES[(i * 5) % len(MIDDLES)].format(name=name),
+        "__URL__",
+        FORM[(i * 3) % len(FORM)],
+        ATTACH[(i * 7) % len(ATTACH)],
+        CLOSERS[(i * 11) % len(CLOSERS)],
+    ]
 
 
 # ── .md verze ───────────────────────────────────────────────────────────
@@ -229,12 +268,13 @@ md.append("---")
 md.append("")
 
 for i, e in enumerate(BATCH):
-    subject, opener, middle, form, attach, closer = parts(i, e)
+    subject, blocks = parts(i, e)
     url = MAN[e["slug"]]["url"]
+    redesign = e["slug"] in HAS_WEB or e["slug"] in CUSTOM
     md.append(f"## {i + 1}. {e['nazev']}")
     md.append("")
     md.append(f"*řádek {e['radek']} · šablona `{e['sablona']}`"
-              + ("  · **web MÁ — text na redesign**" if e["slug"] in HAS_WEB else "") + "*")
+              + ("  · **web MÁ — text na redesign**" if redesign else "") + "*")
     md.append("")
     md.append("```")
     md.append("Komu:")
@@ -242,13 +282,8 @@ for i, e in enumerate(BATCH):
     md.append("")
     md.append("Dobrý den,")
     md.append("")
-    for block in (opener, middle):
-        md.append(block)
-        md.append("")
-    md.append(url)
-    md.append("")
-    for block in (form, attach, closer):
-        md.append(block)
+    for block in blocks:
+        md.append(url if block == "__URL__" else block)
         md.append("")
     md.extend(SIGNATURE)
     md.append("```")
@@ -282,16 +317,19 @@ txt.append("  2) Preferovany termin (od-do) + preferovany cas")
 txt.append("  3) Jmeno a prijmeni, telefon, e-mail, poznamka")
 txt.append("  sekce se jmenuje 'Objednejte se online'")
 txt.append("")
-txt.append("POZOR — r. 265 (DENT company) web MA (dentcompany.cz), ma proto")
-txt.append("text na redesign.")
+txt.append("POZOR — r. 265 (DENT company, dentcompany.cz) a r. 255 (Dentalstyl,")
+txt.append("dentalstyl.cz) web MAJI, maji proto text na redesign. Dentalstyl je")
+txt.append("navic klinika s tymem — mail i ukazka jsou psane na jmeno kliniky,")
+txt.append("ne na MUDr. Dufkovou.")
 txt.append("")
 
 for i, e in enumerate(BATCH):
-    subject, opener, middle, form, attach, closer = parts(i, e)
+    subject, blocks = parts(i, e)
+    redesign = e["slug"] in HAS_WEB or e["slug"] in CUSTOM
     txt.append("")
     txt.append("=" * 70)
     txt.append(f"{i + 1}. {e['nazev']}"
-               + ("   [WEB MA - text na redesign]" if e["slug"] in HAS_WEB else ""))
+               + ("   [WEB MA - text na redesign]" if redesign else ""))
     txt.append(f"   radek {e['radek']}")
     txt.append("=" * 70)
     txt.append("")
@@ -300,14 +338,8 @@ for i, e in enumerate(BATCH):
     txt.append("")
     txt.append("Dobrý den,")
     txt.append("")
-    txt.append(unwrap(opener))
-    txt.append("")
-    txt.append(unwrap(middle))
-    txt.append("")
-    txt.append(MAN[e["slug"]]["url"])
-    txt.append("")
-    for block in (form, attach, closer):
-        txt.append(unwrap(block))
+    for block in blocks:
+        txt.append(MAN[e["slug"]]["url"] if block == "__URL__" else unwrap(block))
         txt.append("")
     txt.extend(SIGNATURE)
     txt.append("")

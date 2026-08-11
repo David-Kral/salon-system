@@ -46,7 +46,10 @@ OVERRIDE = {
     252: ("Dentální hygiena Anirda", "anirda-dent"),
     253: ("MUDr. Marie Kuchaříková", "kucharikova-dent"),
     254: ("MUDr. Kinclová", "kinclova-dent"),
-    255: ("MUDr. Ludmila Dufková", "dufkova-dent"),
+    # r. 255 neni samostatna ordinace, ale klinika Dentalstyl s.r.o.
+    # (dentalstyl.cz) — MUDr. Dufkova je tam vedouci lekarka. Web tedy
+    # nese jmeno kliniky, ne jednoho lekare.
+    255: ("Dentalstyl", "dufkova-dent"),
     256: ("MDDr. Sylvie Konečná", "konecna-dent"),
     258: ("MDDr. Jana Bušová", "busova-dent"),
     259: ("MUDr. Pavel Čarvaš", "carvas-dent"),
@@ -89,6 +92,9 @@ OVERRIDE = {
 PALETTE = ["#356FA3", "#0F6E77", "#2E7D6B", "#7A4E6E", "#8A5A3C", "#455F8A",
            "#2F6F8F", "#3C7A5E", "#6B5B95", "#A2694E", "#34618F", "#7C4F8C"]
 
+# Kdyz uz ordinace ma svou znackovou barvu, drzime se ji misto palety.
+COLOR = {255: "#EE8B1E"}  # Dentalstyl — oranzova z jejich loga
+
 rows = list(csv.reader(open("sheet2.csv", encoding="utf-8", newline="")))
 
 # Idempotence: smaz studia z predchoziho behu teto davky
@@ -120,7 +126,7 @@ for n in range(ROWS[0], ROWS[1] + 1):
         k += 1
     taken.add(slug)
 
-    color = PALETTE[len(created) % len(PALETTE)]
+    color = COLOR.get(n, PALETTE[len(created) % len(PALETTE)])
     with open(os.path.join(TEMPLATE, "studia", f"{slug}.json"), "w", encoding="utf-8") as f:
         json.dump({"nazev": name, "barva": color}, f, ensure_ascii=False)
         f.write("\n")
