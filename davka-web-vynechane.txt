@@ -1,0 +1,61 @@
+1	Zubař Mělník	bez pouzitelneho jmena
+3	Zubní Centrum Poděbrady	bez pouzitelneho jmena
+10	Poliklinika Louny	neni zubni ordinace
+11	MUDr. Zdena Sýkorová, soukromá zubní praxe	ukazku uz ma (MUDr. Zdena Sýkorová)
+12	Dentální hygiena	bez pouzitelneho jmena
+13	MUDr. Lukáš Milič	ukazku uz ma (MUDr. Lukáš Milič)
+14	zubni-ordinace	bez pouzitelneho jmena
+15	Zubní hygiena Děčín	bez pouzitelneho jmena
+16	Dentální hygiena Poděbrady	bez pouzitelneho jmena
+17	MUDr. René Štajner	ukazku uz ma (MUDr. René Štajner)
+18	Bistrodent spol. s r.o.	ukazku uz ma (Bistrodent)
+19	MUDr. Ladislava Vranová	ukazku uz ma (MUDr. Ladislava Vranová)
+21	MDDr. Dominika Benešová	ordinace k 31.8.2026 konci provoz (podle analyzy)
+23	MUDr. Michael Chmiel	ukazku uz ma (MUDr. Michael Chmiel)
+30	MUDr. Eva Mrázková - Prodent Plus spol. s r.o.	ukazku uz ma (MUDr. Eva Mrázková)
+31	ProEste - Dentální centrum	ukazku uz ma (ProEste - Dentální centrum)
+32	MUDr. Jarmila Blažková, zubní ordinace	ukazku uz ma (MUDr. Jarmila Blažková)
+33	Galaxy Dent	ukazku uz ma (Galaxy Dent)
+34	Stomatologická ordinace Holice	ukazku uz ma (Stomatologická ordinace Holice)
+35	Zubní ordinace Švec s.r.o.	ukazku uz ma (Zubní ordinace Švec)
+36	JSmile stomatologie s.r.o.	ukazku uz ma (JSmile stomatologie)
+37	Perioimplants	ukazku uz ma (Perioimplants)
+38	Janda Přemysl MUDr.	ukazku uz ma (MUDr. Přemysl Janda)
+40	Dentista Zlín - MDDr. Martin Mráz	ukazku uz ma (Dentista Zlín)
+41	ORTHOZLIN s.r.o.	ukazku uz ma (ORTHOZLIN)
+42	WistDental, s.r.o.	ukazku uz ma (WistDental)
+47	Zubní praxe Pivovarská s.r.o. - stomatologie, zubní hygiena, stomatochirurgie České Budějovice	neni zubni ordinace
+51	Jihočeský vědeckotechnický park, a.s.	neni zubni ordinace
+55	ZUBNÍ ORDINACE BHL dent s.r.o.	ukazku uz ma (BHL dent)
+65	FN Olomouc - Klinika zubního lékařství	FN Olomouc — fakultni nemocnice, ne soukroma ordinace
+71	MUDr. Břetislav Šmíd	web oznamuje umrti lekare — neposilat
+193	AUCentrum - ordinace k pronájmu	AUCentrum — ordinace k pronajmu, ne ordinace
+243	MUDr. Hana Sedláčková	neni zubni ordinace
+265	DENT company sro	ukazku uz ma (DENT company)
+303	MDDr. Andrea Tondrová	ukazku uz ma (MDDr. Andrea Tondrová)
+338	MUDr. Ladislava Vodičková	neni zubni ordinace
+352	HI.Dentistry s.r.o.	ukazku uz ma (HI.Dentistry)
+636	DENT - zubní klinika	ukazku uz ma (DENT — zubní klinika)
+637	ART-MEDICA s.r.o.	ukazku uz ma (ART-MEDICA)
+657	Karvinská hornická nemocnice a.s.	neni zubni ordinace
+680	Gemini oční klinika - ZLÍN	neni zubni ordinace
+689	Stomatochirurgické a implantologické centrum Olomouc, spol. s r.o.	neni zubni ordinace
+695	Zubní ordinace Zlín s.r.o.	bez pouzitelneho jmena
+699	Poliklinika Karviná	neni zubni ordinace
+702	Poliklinika Kuřim Medex - K S.r.o.	neni zubni ordinace
+703	MACE restaurant	MACE restaurant — restaurace, ne ordinace
+708	CENTRUM ZUBNÍ MEDICÍNY s. r. o.	ukazku uz ma (Centrum zubní medicíny)
+709	Dental Sphere	ukazku uz ma (Dental Sphere)
+716	Zubní lékař	bez pouzitelneho jmena
+718	Zdravotní centrum Janského	neni zubni ordinace
+720	Stomatochirurgie Michl, s.r.o.	neni zubni ordinace
+724	MUDr. Lenka Vidrasová	MUDr. Vidrasova — stejny web jako r. 42 (WistDental)
+727	Lékařský dům Zlín	neni zubni ordinace
+732	JOSENIKA s.r.o.	ukazku uz ma (JOSENIKA)
+736	Všeobecná kardiologická ambulance s.r.o. - ordinace Zubatka	neni zubni ordinace
+746	Klinika ústní, čelistní a obličejové chirurgie	neni zubni ordinace
+758	MUDr. Pavel Doležel - Pediatrie	neni zubni ordinace
+764	Poliklinika Strakonice S.r.o.	neni zubni ordinace
+768	Zubní Lékař Štefková Marta MUDr.	MUDr. Stefkova — stejny web jako r. 767 (medivize.cz)
+774	Lékařský dům Géčko	neni zubni ordinace
+775	MUDr. Sádlová Lýdie - Pulsgyn s.r.o.	neni zubni ordinace
