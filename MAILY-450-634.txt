@@ -1,0 +1,3956 @@
+MAILY — radky 450-634 (146 ordinaci bez webu)
+======================================================================
+
+Nad kazdym mailem je CISLO RADKU z tabulky (ne poradove cislo).
+
+Kazdy odstavec je jeden radek — po vlozeni do mailu se nic nerozsype.
+Adresata si vyplnte v mailovem klientovi; v tabulce u techto radku
+zadne e-maily nejsou.
+
+Vsechny ukazky bezi na ukazka-1 (Dentaline styl), rezervacni
+formular ma kazdy mail.
+
+Texty jsou totozne s MAILY-ZBYTEK.txt — tohle je jen vyrez.
+
+
+======================================================================
+RADEK 451 — Dent Plzeň
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace — Dent Plzeň
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „Dent Plzeň“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/dent-plzen/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 452 — MUDr. Petr Švec
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Petr Švec“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/svec-dent-2/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 453 — Pojhanmanesh Dent
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „Pojhanmanesh Dent“:
+
+https://david-kral.github.io/salon-system/ordinace/pojhanmanesh-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 454 — MUDr. Hana Puchnerová
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Hana Puchnerová“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/puchnerova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 455 — MUDr. Věra Zeithamlová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Věra Zeithamlová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/zeithamlova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 456 — MUDr. Petr Nový
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Petr Nový“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/novy-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 457 — MUDr. Robert Houba, Ph.D.
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Robert Houba, Ph.D.“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/houba-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 458 — AF-Dent
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci — AF-Dent
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „AF-Dent“:
+
+https://david-kral.github.io/salon-system/ordinace/af-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 459 — MUDr. Andrea Bendová
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Andrea Bendová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/bendova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 460 — MDDr. Michael Vajskebr
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MDDr. Michael Vajskebr“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/vajskebr-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 461 — MUDr. Jitka Habánová
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Jitka Habánová“:
+
+https://david-kral.github.io/salon-system/ordinace/habanova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 462 — Helena Sedláčková
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „Helena Sedláčková“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/helena-sedlackova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 463 — MUDr. Martin Zich
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Martin Zich“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/zich-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 465 — MUDr. Miroslava Šteklová
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Miroslava Šteklová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/steklova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 466 — MUDr. Krmíček
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Krmíček“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/krmicek-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 467 — MUDr. Jelena Langová
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Jelena Langová“:
+
+https://david-kral.github.io/salon-system/ordinace/langova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 468 — MUDr. Hurt
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Hurt“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/hurt-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 469 — Zubní praxe Plachého
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „Zubní praxe Plachého“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/zubni-praxe-placheho-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 470 — MUDr. Veronika Voštová
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Veronika Voštová“:
+
+https://david-kral.github.io/salon-system/ordinace/vostova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 471 — Zubní Praxe Karlovarská
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „Zubní Praxe Karlovarská“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/zubni-praxe-karlovarska-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 472 — MUDr. Daniela Vrábelová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Daniela Vrábelová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/vrabelova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 473 — MUDr. Blažena Jirkovská
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Blažena Jirkovská“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/jirkovska-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 474 — MUDr. Věra Wiltová
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Věra Wiltová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/wiltova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 475 — MUDr. Mirko Fürych
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Mirko Fürych“:
+
+https://david-kral.github.io/salon-system/ordinace/furych-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 476 — Vitadent
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru — Vitadent
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „Vitadent“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/vitadent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 477 — MUDr. Jana Písařová
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Jana Písařová“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/pisarova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 478 — MUDr. Hana Bečková
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Hana Bečková“:
+
+https://david-kral.github.io/salon-system/ordinace/beckova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 480 — ART DENTAL
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „ART DENTAL“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/art-dental/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 481 — MUDr. Alena Panznerová
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Alena Panznerová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/panznerova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 482 — MUDr. Zdeňka Malá
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Zdeňka Malá“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/mala-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 483 — MUDr. M. Bergerová
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. M. Bergerová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/bergerova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 484 — MUDr. Jitka Rokytová
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Jitka Rokytová“:
+
+https://david-kral.github.io/salon-system/ordinace/rokytova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 486 — MUDr. Jarmila Lišková
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Jarmila Lišková“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/liskova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 487 — ChiroDental
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „ChiroDental“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/chirodental/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 488 — MUDr. Václav Švarc
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Václav Švarc“:
+
+https://david-kral.github.io/salon-system/ordinace/svarc-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 489 — MUDr. Iveta Červená
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Iveta Červená“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/cervena-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 490 — THORN DENT
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „THORN DENT“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/thorn-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 491 — MUDr. Ferdinanda Bočková
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Ferdinanda Bočková“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/bockova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 492 — MUDr. Václava Brožková
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Václava Brožková“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/brozkova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 493 — MUDr. Ivana Hechtová
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Ivana Hechtová“:
+
+https://david-kral.github.io/salon-system/ordinace/hechtova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 494 — MUDr. Roland Möckl
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Roland Möckl“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/mockl-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 495 — MUDr. Alena Švejstilová
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Alena Švejstilová“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/svejstilova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 496 — MUDr. Miriam Zindrová
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Miriam Zindrová“:
+
+https://david-kral.github.io/salon-system/ordinace/zindrova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 497 — MDDr. Adam Vrána
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MDDr. Adam Vrána“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/vrana-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 498 — MUDr. Michal Slavotínek a MUDr. Marta Slavotínková
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Michal Slavotínek a MUDr. Marta Slavotínková“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/slavotinek-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 499 — MUDr. Vlasta Marešová
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Vlasta Marešová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/maresova-dent-2/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 500 — MUDr. Hana Pokorná
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Hana Pokorná“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/pokorna-dent-2/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 501 — R & R Dent
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde — R & R Dent
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „R & R Dent“:
+
+https://david-kral.github.io/salon-system/ordinace/r-r-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 502 — MUDr. Pavel Jech
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Pavel Jech“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/jech-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 503 — MUDr. Eva Kubištová
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Eva Kubištová“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/kubistova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 504 — Dentální hygiena Nely
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „Dentální hygiena Nely“:
+
+https://david-kral.github.io/salon-system/ordinace/dentalni-hygiena-nely/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 505 — Holistic Dental
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu — Holistic Dental
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „Holistic Dental“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/holistic-dental/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 506 — MUDr. Božena Lebedová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Božena Lebedová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/lebedova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 507 — MUDr. Dagmar Karpowiczová
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Dagmar Karpowiczová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/karpowiczova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 508 — MUDr. Blanka Petrasová
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Blanka Petrasová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/petrasova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 513 — MDDr. Radek Švec
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MDDr. Radek Švec“:
+
+https://david-kral.github.io/salon-system/ordinace/svec-dent-3/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 514 — MUDr. Alena Pfefferová
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Alena Pfefferová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/pfefferova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 517 — Václav Novák
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — Václav Novák
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „Václav Novák“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/vaclav-novak-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 520 — Ambulance Penta
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu — Ambulance Penta
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „Ambulance Penta“:
+
+https://david-kral.github.io/salon-system/ordinace/ambulance-penta-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 521 — MUDr. Anna Taitlová
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Anna Taitlová“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/taitlova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 522 — MUDr. Irena Blašková
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Irena Blašková“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/blaskova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 523 — MUDr. Jan Konečný
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Jan Konečný“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/konecny-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 524 — MUDr. Yvetta Sochová
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Yvetta Sochová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/sochova-dent-2/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 525 — MUDr. Vlastimil Říčař
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Vlastimil Říčař“:
+
+https://david-kral.github.io/salon-system/ordinace/ricar-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 526 — MUDr. Milena Korálová
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Milena Korálová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/koralova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 527 — MUDr. Zdeněk Socha
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Zdeněk Socha“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/socha-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 528 — MUDr. Daniela Kučerová
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Daniela Kučerová“:
+
+https://david-kral.github.io/salon-system/ordinace/kucerova-dent-3/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 529 — MUDr. Eva Fichtlová
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Eva Fichtlová“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/fichtlova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 530 — MUDr. Hana Révayová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Hana Révayová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/revayova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 531 — Dental cheb
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru — Dental cheb
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „Dental cheb“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/dental-cheb/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 532 — Egradent
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online — Egradent
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „Egradent“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/egradent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 541 — MUDr. Jaroslav Revay
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Jaroslav Revay“:
+
+https://david-kral.github.io/salon-system/ordinace/revay-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 542 — SokoDent
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru — SokoDent
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „SokoDent“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/sokodent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 543 — MUDr. Tomáš Kratochvíl
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Tomáš Kratochvíl“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/kratochvil-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 545 — MUDr. Katarína Kindlová
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Katarína Kindlová“:
+
+https://david-kral.github.io/salon-system/ordinace/kindlova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 547 — MUDr. Luboš Suchý
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Luboš Suchý“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/suchy-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 548 — Jakldent
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky — Jakldent
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „Jakldent“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/jakldent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 549 — MUDr. Dana Šedivá
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Dana Šedivá“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/sediva-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 552 — MUDr. Jaroslav Herold
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Jaroslav Herold“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/herold-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 553 — MUDr. Alena Vlasáková
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Alena Vlasáková“:
+
+https://david-kral.github.io/salon-system/ordinace/vlasakova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 554 — MUDr. Tomáš Brada
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Tomáš Brada“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/brada-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 555 — MUDr. Marie Šotová
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Marie Šotová“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/sotova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 556 — MUDr. Květoslava Kovaříková
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Květoslava Kovaříková“:
+
+https://david-kral.github.io/salon-system/ordinace/kovarikova-dent-2/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 557 — MUDr. Richard Suda
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Richard Suda“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/suda-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 558 — MUDr. Květuše Rachová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Květuše Rachová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/rachova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 559 — Stomatologie Hosnedl
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „Stomatologie Hosnedl“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/stomatologie-hosnedl-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 562 — MUDr. Jaroslav Maršík
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Jaroslav Maršík“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/marsik-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 563 — Dentální hygiena a bělení — Petr Köck
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „Dentální hygiena a bělení — Petr Köck“:
+
+https://david-kral.github.io/salon-system/ordinace/kock-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 564 — MUDr. Dagmar Macháčková
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Dagmar Macháčková“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/machackova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 565 — Rovnátka Klatovy
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „Rovnátka Klatovy“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/rovnatka-klatovy-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 567 — PerfectDent Tachov
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „PerfectDent Tachov“:
+
+https://david-kral.github.io/salon-system/ordinace/perfectdent-tachov/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 570 — MUDr. Jana Kostíková
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Jana Kostíková“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/kostikova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 571 — MUDr. Marie Ditrichová
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Marie Ditrichová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/ditrichova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 572 — MUDr. Alena Kohutová
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Alena Kohutová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/kohutova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 575 — MUDr. Kamil Staněk
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Kamil Staněk“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/stanek-dent-2/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 576 — MUDr. Petr Blecha
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Petr Blecha“:
+
+https://david-kral.github.io/salon-system/ordinace/blecha-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 577 — MUDr. Kateřina Fastová
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Kateřina Fastová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/fastova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 578 — MUDr. Václav Hlinovský
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Václav Hlinovský“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/hlinovsky-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 579 — MUDr. Luboš Tesař
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Luboš Tesař“:
+
+https://david-kral.github.io/salon-system/ordinace/tesar-dent-2/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 580 — MUDr. Jiří Šmíd
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Jiří Šmíd“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/smid-dent-2/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 581 — WH - Zubní ordinace
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „WH - Zubní ordinace“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/wh-zubni-ordinace-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 582 — MUDr. Hana Weishäuplová
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Hana Weishäuplová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/weishauplova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 584 — MUDr. Jarmila Pečená
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Jarmila Pečená“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/pecena-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 585 — MUDr. Hana Hromádková
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Hana Hromádková“:
+
+https://david-kral.github.io/salon-system/ordinace/hromadkova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 586 — MUDr. Hana Filipovská
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Hana Filipovská“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/filipovska-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 587 — MUDr. Tomáš Charvát
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Tomáš Charvát“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/charvat-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 588 — MDDr. Ondřej Bolfík
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MDDr. Ondřej Bolfík“:
+
+https://david-kral.github.io/salon-system/ordinace/bolfik-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 589 — MUDr. Vladislav Lisačenko
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Vladislav Lisačenko“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/lisacenko-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 590 — MUDr. Hana Pojtingerová
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Hana Pojtingerová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/pojtingerova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 591 — MUDr. Jaroslav Schmitt
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Jaroslav Schmitt“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/schmitt-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 592 — MUDr. Hana Matějíčková
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Hana Matějíčková“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/matejickova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 593 — MUDr. Pavel Hladík
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Pavel Hladík“:
+
+https://david-kral.github.io/salon-system/ordinace/hladik-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 594 — MUDr. Vladislav Šetek
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Vladislav Šetek“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/setek-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 595 — MUDr. Regina Břízová
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Regina Břízová“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/brizova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 596 — MUDr. Simona Zemanová
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Simona Zemanová“:
+
+https://david-kral.github.io/salon-system/ordinace/zemanova-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 597 — MUDr. Olga Sudová
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Olga Sudová“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/sudova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 598 — Dentální hygiena Děčín — Daniela Kubátová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „Dentální hygiena Děčín — Daniela Kubátová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/kubatova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 599 — MUDr. Zdeněk Janda
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Zdeněk Janda“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/janda-dent-2/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 600 — MUDr. Jiřina Miličová
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Jiřina Miličová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/milicova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 602 — MUDr. Rita Rambousková
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Rita Rambousková“:
+
+https://david-kral.github.io/salon-system/ordinace/rambouskova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 603 — MUDr. Jaroslava Voráčková
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Jaroslava Voráčková“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/vorackova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 604 — MUDr. Jarmila Ivanovská
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Jarmila Ivanovská“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/ivanovska-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 606 — MUDr. Ivan Strnad
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Ivan Strnad“:
+
+https://david-kral.github.io/salon-system/ordinace/strnad-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 607 — MUDr. Romana Červová-Hájková
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Romana Červová-Hájková“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/cervova-hajkova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 608 — Dentalcare Louny
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „Dentalcare Louny“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/dentalcare-louny/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 609 — MDDr. Alžběta Ptáčková
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MDDr. Alžběta Ptáčková“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/ptackova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 610 — MUDr. Miroslav Vlček
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Miroslav Vlček“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/vlcek-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 611 — MDDr. Kateřina Gráfová
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MDDr. Kateřina Gráfová“:
+
+https://david-kral.github.io/salon-system/ordinace/grafova-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 612 — MUDr. Veronika Raisová
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Veronika Raisová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/raisova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 613 — Vaše zubní CENTRUM
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „Vaše zubní CENTRUM“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/vase-zubni-centrum-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 614 — MUDr. Zdeněk Skála
+======================================================================
+
+PREDMET ↓
+Ukázka: moderní web ordinace
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Zdeněk Skála“:
+
+https://david-kral.github.io/salon-system/ordinace/skala-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 615 — Medimade
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogu — Medimade
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „Medimade“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/medimade-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 616 — MUDr. Markéta Skolilová
+======================================================================
+
+PREDMET ↓
+Návrh webu — bez závazku
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Markéta Skolilová“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/skolilova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 617 — MUDr. Alena Chloubová
+======================================================================
+
+PREDMET ↓
+Web ordinace: ukázka na míru
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Alena Chloubová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/chloubova-dent/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 618 — MUDr. Jiří Vaněk
+======================================================================
+
+PREDMET ↓
+Jak by vás pacient našel online
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Jiří Vaněk“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/vanek-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 619 — Dental Poděbrady
+======================================================================
+
+PREDMET ↓
+Návrh webu pro vaši ordinaci
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „Dental Poděbrady“:
+
+https://david-kral.github.io/salon-system/ordinace/dental-podebrady/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 621 — MUDr. Jana Pekláková
+======================================================================
+
+PREDMET ↓
+Ukázka webu na míru
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Jana Pekláková“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/peklakova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 622 — MUDr. Romana Husáková
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Romana Husáková“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/husakova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 623 — MUDr. Pavel Raba
+======================================================================
+
+PREDMET ↓
+Připravil jsem návrh webu
+
+Dobrý den,
+
+díval jsem se, jak vás na internetu najde nový pacient. Vyšly mi jen profily v katalozích lékařů — všechny vypadají jinak a ani jeden nepůsobí jako vaše vlastní vizitka.
+
+Zpracoval jsem návrh na míru vaší ordinaci. Stránka je vedená pod jménem „MUDr. Pavel Raba“:
+
+https://david-kral.github.io/salon-system/ordinace/raba-dent/
+
+Nešlo by o pouhou vizitku. Web má i rezervační formulář: tři kroky (nový nebo stávající pacient → preferovaný termín → jméno, telefon a e-mail) a objednávka vám přijde se vším, co potřebujete vědět.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 625 — MUDr. Anna Suchánková
+======================================================================
+
+PREDMET ↓
+Vlastní web místo katalogového profilu
+
+Dobrý den,
+
+zkoušel jsem si najít web vaší ordinace a skončil jsem jen na obecných profilech v katalozích. Chybí tam fotky, ceník i možnost se objednat.
+
+Připravil jsem konkrétní ukázku, ne obecnou prezentaci. Web je pojmenovaný na „MUDr. Anna Suchánková“ a má sekce, které u zubní ordinace čekám:
+
+https://david-kral.github.io/salon-system/ordinace/suchankova-dent/
+
+Není to jen prezentace. Je v tom i online objednání, které vám ubere telefonáty během ošetření — pacient si vybere termín a nechá na sebe kontakt, vy se ozvete, až se to hodí.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 626 — MUDr. Marie Čejková
+======================================================================
+
+PREDMET ↓
+Návrh webové stránky
+
+Dobrý den,
+
+díval jsem se po webu vaší ordinace a nenašel ho. To je škoda — katalogový zápis neukáže ani ordinaci, ani to, čím se od ostatních lišíte.
+
+Připravil jsem ukázku na míru. V hlavičce i v titulku stránky je „MUDr. Marie Čejková“, takže si rovnou uvidíte, jak by web působil:
+
+https://david-kral.github.io/salon-system/ordinace/cejkova-dent/
+
+Kromě samotného webu bych přidal online objednávání. Tři jednoduché kroky pro pacienta, pro vás jedna poptávka se jménem, telefonem, e-mailem a termínem. Rozsah polí se dá upravit podle toho, jak ordinujete.
+
+Do přílohy jsem přidal screenshot úvodní stránky pro rychlou představu.
+
+Za ukázku nic neplatíte a k ničemu se nezavazujete. Kdyby vás zajímalo pokračování, napište nebo zavolejte.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 629 — MUDr. Ivana Nečasová
+======================================================================
+
+PREDMET ↓
+Jak by mohl vypadat váš web
+
+Dobrý den,
+
+všiml jsem si, že vaše ordinace nemá vlastní webovou stránku. Dnes je přitom web většinou první místo, kam se pacient podívá ještě předtím, než vůbec zvedne telefon.
+
+Připravil jsem ukázku pojmenovanou na „MUDr. Ivana Nečasová“ — s přehledem služeb, kontaktem i místem na ceník:
+
+https://david-kral.github.io/salon-system/ordinace/necasova-dent-2/
+
+Kromě webu je v ukázce i objednávkový formulář. Pacient se objedná sám, bez telefonu — vy dostanete jméno, kontakt i preferovaný termín. Co má formulář obsahovat, se dá nastavit přesně podle vaší ordinace.
+
+V příloze je snímek úvodní obrazovky, ať vidíte návrh i bez otevírání odkazu.
+
+Je to zdarma a bez závazku — kdyby se vám návrh zamlouval, ozvěte se a probereme, co upravit.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 630 — MUDr. Stanislava Vajchrová
+======================================================================
+
+PREDMET ↓
+Ukázka webu zdarma
+
+Dobrý den,
+
+když si dnes někdo hledá zubaře, většinou skončí na webu ordinace. U vás jsem ale žádný nenašel — jen zápisy v katalozích lékařů.
+
+Udělal jsem návrh přímo pro vás. Stránka je pojmenovaná „MUDr. Stanislava Vajchrová“, včetně titulku v prohlížeči:
+
+https://david-kral.github.io/salon-system/ordinace/vajchrova-dent/
+
+Součástí je i rezervační formulář na míru — vy určíte, jaké termíny nabízet a co má pacient vyplnit, klidně i výběr konkrétního zákroku. V ukázce je funkční, klidně si ho vyzkoušejte.
+
+Přikládám screenshot hlavní stránky — odkaz je pak na plnou verzi.
+
+Berte to jako ukázku zdarma, žádný závazek v tom není. Pokud by to pro vás mělo smysl, rád na tom dál zapracuji.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 631 — MUDr. Milan Jonáš
+======================================================================
+
+PREDMET ↓
+Web, který si pacient najde
+
+Dobrý den,
+
+hledal jsem na internetu vaši ordinaci a našel jsem jen záznamy v lékařských katalozích. Vlastní web, kde by se pacient dozvěděl něco o vás a o ordinaci samotné, jsem nikde nenašel.
+
+Připravil jsem proto ukázku, jak by mohl web vypadat. Není to obecná šablona — je pojmenovaná přímo na vaši ordinaci, v titulku i v hlavičce stojí „MUDr. Milan Jonáš“:
+
+https://david-kral.github.io/salon-system/ordinace/jonas-dent/
+
+Není to jen webovka. Součástí je i online objednání — pacient řekne, jestli je nový nebo stávající, vybere termín, který mu vyhovuje, a nechá kontakt. V ukázce si to můžete rovnou proklikat.
+
+V příloze najdete náhled úvodní obrazovky.
+
+Ukázka je zdarma a bez závazku. Když vám padne do oka, doladíme texty, fotky i barvy podle vás.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 632 — MUDr. Hana Karbanová
+======================================================================
+
+PREDMET ↓
+Návrh prezentace ordinace
+
+Dobrý den,
+
+prohlížel jsem si zubní ordinace v okolí a u té vaší jsem nenarazil na vlastní web — jen na katalogové zápisy, které o ordinaci samotné neřeknou téměř nic.
+
+Sestavil jsem návrh, jak by web mohl fungovat. V hlavičce je „MUDr. Hana Karbanová“, ať vidíte reálný dojem, ne prázdnou šablonu:
+
+https://david-kral.github.io/salon-system/ordinace/karbanova-dent/
+
+Web by uměl i rezervace. Formulář provede pacienta třemi kroky a na konci vám pošle poptávku s termínem a kontaktem. Jednotlivé kroky i políčka se dají nastavit podle vás.
+
+Screenshot úvodní stránky přikládám do přílohy.
+
+Nic za to nechci a nikam se tím nezavazujete. Kdyby vás to zaujalo, ozvěte se a domluvíme se na úpravách podle vašich představ.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
+
+======================================================================
+RADEK 633 — MUDr. Eva Nesměráková
+======================================================================
+
+PREDMET ↓
+Web pro vaši ordinaci — návrh zdarma
+
+Dobrý den,
+
+všiml jsem si, že o vaší ordinaci se dá na internetu dohledat jen to, co je v katalogových profilech. Vlastní web, který by ordinaci představil, chybí.
+
+Zkusil jsem načrtnout, jak by to mohlo vypadat. Ukázka nese jméno vaší ordinace — „MUDr. Eva Nesměráková“ — takže to není neutrální demo:
+
+https://david-kral.github.io/salon-system/ordinace/nesmerakova-dent/
+
+Web by nebyl jen na koukání. Pacient se přes něj objedná: vybere, jestli je u vás poprvé, zvolí termín a vyplní kontakt. Poznámku může připsat taky, takže rovnou víte, o co jde.
+
+V příloze posílám i screenshot úvodní obrazovky, ať se nemusíte nikam proklikávat.
+
+Je to ukázka zdarma a bez jakéhokoli závazku. Pokud by se vám líbila, rád proberu detaily i úpravy na míru.
+
+S pozdravem,
+David Král
+777 122 178
+fitego.cz
+
