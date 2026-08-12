@@ -1,0 +1,1882 @@
+[
+  {
+    "radek": 56,
+    "slug": "prochazka-dent",
+    "nazev": "MDDr. Jiří Procházka",
+    "puvodni": "MDDr.Jiří Procházka , zubař Olomouc",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 58,
+    "slug": "pruckova-dent-2",
+    "nazev": "MUDr. Beata Prucková",
+    "puvodni": "MUDr. Beata Prucková",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 59,
+    "slug": "gold-dent",
+    "nazev": "Gold Dent",
+    "puvodni": "Gold Dent S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 61,
+    "slug": "novakova-dent-2",
+    "nazev": "MUDr. Monika Nováková",
+    "puvodni": "Zubní Lékař Nováková Monika MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 62,
+    "slug": "hajdova-dent",
+    "nazev": "MUDr. Jaroslava Hajdová",
+    "puvodni": "MUDr. Jaroslava Hajdová",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 63,
+    "slug": "centrum-usmevu-dent",
+    "nazev": "Centrum Úsměvu",
+    "puvodni": "Centrum Úsměvu",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 67,
+    "slug": "kaczmarczyk-dent",
+    "nazev": "Kaczmarczyk",
+    "puvodni": "Kaczmarczyk S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 68,
+    "slug": "smela-dent",
+    "nazev": "MUDr. Jana Smělá",
+    "puvodni": "Smělá Jana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 70,
+    "slug": "nemec-dent",
+    "nazev": "MUDr. Petr Němec",
+    "puvodni": "MUDr. Petr Němec",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 73,
+    "slug": "vyroubalova-dent",
+    "nazev": "MUDr. Lenka Vyroubalová",
+    "puvodni": "Mudr. Lenka Vyroubalová",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 76,
+    "slug": "moravova-dent",
+    "nazev": "MUDr. Jitka Moravová",
+    "puvodni": "Moravová Jitka MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 77,
+    "slug": "sheety-dent",
+    "nazev": "MUDr. Joseph Sheety",
+    "puvodni": "Zubní Lékař Sheety Joseph MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 78,
+    "slug": "pospisil-dent",
+    "nazev": "MUDr. Pavel Pospíšil",
+    "puvodni": "Zubní Lékař Pospíšil Pavel MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 79,
+    "slug": "svacinova-dent",
+    "nazev": "MUDr. Hana Svačinová",
+    "puvodni": "MUDr. Hana Svačinová",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 80,
+    "slug": "loydova-dent",
+    "nazev": "MUDr. Marie Loydová",
+    "puvodni": "Zubní Lékař Loydová Marie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 81,
+    "slug": "kuca-dent-2",
+    "nazev": "MUDr. Miroslav Kuča",
+    "puvodni": "MUDr. Miroslav Kuča",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 83,
+    "slug": "veselovska-dent",
+    "nazev": "MUDr. Miluše Veselovská",
+    "puvodni": "MUDr. Miluše Veselovská",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 84,
+    "slug": "medivize-dent",
+    "nazev": "Medivize",
+    "puvodni": "Medivize S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 85,
+    "slug": "hubacek-dent",
+    "nazev": "MDDr. Pavel Hubáček",
+    "puvodni": "MDDr. Pavel Hubáček praktické zubní lékařství Dental Cura s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 87,
+    "slug": "bradacova-dent-2",
+    "nazev": "MUDr. Pavla Bradáčová",
+    "puvodni": "MUDr. Pavla Bradáčová",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 88,
+    "slug": "tmejova-dent",
+    "nazev": "MUDr. Lamis Tmějová",
+    "puvodni": "Tmějová Lamis MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 89,
+    "slug": "zednik-dent",
+    "nazev": "MUDr. Petr Zedník",
+    "puvodni": "Zedník Petr MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 90,
+    "slug": "fritsch-dent",
+    "nazev": "MUDr. Zdeněk Fritsch",
+    "puvodni": "MUDr. Zdeněk Fritsch",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 91,
+    "slug": "poncova-dent",
+    "nazev": "MUDr. Miroslava Poncová",
+    "puvodni": "MUDr. Miroslava Poncová",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 92,
+    "slug": "bily-dent",
+    "nazev": "MUDr. Pavel Bílý",
+    "puvodni": "MUDr. Pavel Bílý",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 93,
+    "slug": "curativa-stom-dent",
+    "nazev": "Curativa.stom",
+    "puvodni": "Curativa.stom s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 94,
+    "slug": "spacilova-dent",
+    "nazev": "MDDr. Jana Spáčilová",
+    "puvodni": "MDDr. Jana Spáčilová",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 95,
+    "slug": "kamenicek-dent",
+    "nazev": "MUDr. Tomáš Kameníček",
+    "puvodni": "MUDr. Tomáš Kameníček - stoma s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 96,
+    "slug": "dostal-dent-2",
+    "nazev": "MUDr. Bohumil Dostál",
+    "puvodni": "Dostál Bohumil MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 98,
+    "slug": "prochazka-dent-2",
+    "nazev": "MUDr. Vladimír Procházka",
+    "puvodni": "Procházka Vladimír MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 100,
+    "slug": "dentmed",
+    "nazev": "Dentmed",
+    "puvodni": "Dentmed S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 102,
+    "slug": "hornova-dent",
+    "nazev": "MUDr. Alena Hornová",
+    "puvodni": "Hornová Alena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 104,
+    "slug": "di-dent",
+    "nazev": "DI DENT",
+    "puvodni": "DI DENT s.r.o., zubní ordinace MDDr. Dalibor Maňas",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 105,
+    "slug": "hecko-dent",
+    "nazev": "MUDr. Michal Hečko",
+    "puvodni": "Mident s.r.o. MUDr. Hečko Michal - zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 106,
+    "slug": "capka-dent",
+    "nazev": "MUDr. Petr Čapka",
+    "puvodni": "MUDr. Petr Čapka",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 107,
+    "slug": "adamikova-dent",
+    "nazev": "MUDr. Eva Adamíková",
+    "puvodni": "MUDr. Eva Adamíková",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 108,
+    "slug": "hrebackova-dent",
+    "nazev": "MUDr. Magda Hřebačková",
+    "puvodni": "MUDr. Magda Hřebačková - zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 109,
+    "slug": "dentavia",
+    "nazev": "Dentavia",
+    "puvodni": "Dentavia s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 110,
+    "slug": "smejdovcova-dent",
+    "nazev": "MUDr. Blanka Šmejdovcová",
+    "puvodni": "MUDr. Blanka Šmejdovcová s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 111,
+    "slug": "sochova-dent",
+    "nazev": "MUDr. Taťána Sochová",
+    "puvodni": "Mudr. Taťána Sochová",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 112,
+    "slug": "smolka-dent",
+    "nazev": "MUDr. Pavel Smolka",
+    "puvodni": "Smolka Pavel MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 113,
+    "slug": "preclik-dent",
+    "nazev": "MUDr. Michal Preclík",
+    "puvodni": "Preclík Michal MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 114,
+    "slug": "novotna-dent",
+    "nazev": "MUDr. Magda Novotná",
+    "puvodni": "Novotná Magda MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 116,
+    "slug": "kousalova-dent",
+    "nazev": "MUDr. Hana Kousalová",
+    "puvodni": "MUDr. Hana Kousalová",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 117,
+    "slug": "miklasova-dent",
+    "nazev": "MUDr. Dana Miklášová",
+    "puvodni": "Miklášová Dana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 119,
+    "slug": "skubalova-dent",
+    "nazev": "MUDr. Helena Škubalová",
+    "puvodni": "MUDr. Helena Škubalová",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 120,
+    "slug": "lebeda-dent",
+    "nazev": "MUDr. Jiří Lebeda",
+    "puvodni": "Lebeda Jiří MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 122,
+    "slug": "urbanova-dent",
+    "nazev": "MUDr. Markéta Urbanová",
+    "puvodni": "MUDr. Markéta Urbanová",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 123,
+    "slug": "stomatologie-zlin-dent",
+    "nazev": "Stomatologie Zlín",
+    "puvodni": "Stomatologie Zlín S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 124,
+    "slug": "hlavica-dent",
+    "nazev": "MDDr. Ladislav Hlavica",
+    "puvodni": "MDDr. Ladislav Hlavica - Dentap s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 127,
+    "slug": "novakova-dent-3",
+    "nazev": "MUDr. Miloslava Nováková",
+    "puvodni": "Nováková Miloslava MUDr. - Zubní Lékař",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 128,
+    "slug": "sanedent-zlin",
+    "nazev": "Sanedent Zlín",
+    "puvodni": "Sanedent Zlín S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 131,
+    "slug": "pohanka-dent",
+    "nazev": "MUDr. Štěpán Pohanka",
+    "puvodni": "Mudr Štěpán Pohanka",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 132,
+    "slug": "sanetrnik-dent",
+    "nazev": "MUDr. Petr Sanetrník",
+    "puvodni": "MUDr. Petr Sanetrník",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 133,
+    "slug": "zatloukalova-dent",
+    "nazev": "MUDr. Dana Zatloukalová",
+    "puvodni": "Zubní Lékař Zatloukalová Dana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 138,
+    "slug": "havlikova-dent",
+    "nazev": "MUDr. Oldřiška Havlíková",
+    "puvodni": "Zubní Lékař Havlíková Oldřiška MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 139,
+    "slug": "novotna-dent-2",
+    "nazev": "MUDr. Iva Novotná",
+    "puvodni": "Zubní Lékař Novotná Iva MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 144,
+    "slug": "manasova-dent",
+    "nazev": "MUDr. Iva Maňasová",
+    "puvodni": "MUDr. Iva Maňasová - zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 146,
+    "slug": "sanza-dent",
+    "nazev": "MUDr. Marie Sanža",
+    "puvodni": "Sanža Marie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 147,
+    "slug": "mident",
+    "nazev": "Mident",
+    "puvodni": "Mident s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 148,
+    "slug": "compedent",
+    "nazev": "Compedent",
+    "puvodni": "Compedent s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 153,
+    "slug": "adamkova-dent",
+    "nazev": "MUDr. Pavlína Adamková",
+    "puvodni": "Ortodoncie Zlín - MUDr. Pavlína Adamková",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 156,
+    "slug": "pretsch-dent",
+    "nazev": "MDDr. David Pretsch",
+    "puvodni": "MDDr. David Pretsch",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 161,
+    "slug": "drbalova-dent",
+    "nazev": "MUDr. Jana Drbalová",
+    "puvodni": "Drbalová Jana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 162,
+    "slug": "janis-dent",
+    "nazev": "MUDr. Jan Jániš",
+    "puvodni": "Jániš Jan MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 163,
+    "slug": "sandent",
+    "nazev": "Sandent",
+    "puvodni": "Sandent S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 164,
+    "slug": "chudarkova-dent",
+    "nazev": "MUDr. Hana Chudárková",
+    "puvodni": "Chudárková Hana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 165,
+    "slug": "rabska-dent",
+    "nazev": "MUDr. Helena Rabská",
+    "puvodni": "MUDr. Helena Rabská, zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 166,
+    "slug": "okenica-dent",
+    "nazev": "MDDr. Petr Okenica",
+    "puvodni": "Zubní Lékař MDDr. Petr Okenica",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 167,
+    "slug": "piskorz-dent",
+    "nazev": "MUDr. Stanislav Piskorz",
+    "puvodni": "MUDr. Stanislav Piskorz",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 168,
+    "slug": "pindur-dent",
+    "nazev": "MUDr. Roman Pindur",
+    "puvodni": "Zubní Lékař Pindur Roman MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 169,
+    "slug": "madova-dent",
+    "nazev": "MUDr. Karin Maďová",
+    "puvodni": "Maďová Karin MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 170,
+    "slug": "kokasova-dent",
+    "nazev": "MUDr. Julie Kokášová",
+    "puvodni": "Zubní Lékař Kokášová Julie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 171,
+    "slug": "gag-golik-dent",
+    "nazev": "GaG Golik",
+    "puvodni": "Zubní ordinace GaG Golik",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 172,
+    "slug": "bajerova-dent",
+    "nazev": "MUDr. Helena Bajerová",
+    "puvodni": "Bajerová Helena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 173,
+    "slug": "dental-g-g",
+    "nazev": "Dental G&G",
+    "puvodni": "Dental G&G S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 174,
+    "slug": "dentalcomplex",
+    "nazev": "DentalComplex",
+    "puvodni": "DentalComplex",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 175,
+    "slug": "kisa-dent",
+    "nazev": "MUDr. Milan Kiša",
+    "puvodni": "MUDr. Milan Kiša",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 176,
+    "slug": "sirotova-dent",
+    "nazev": "MUDr. Libuše Sirotová",
+    "puvodni": "MUDr. Libuše Sirotová",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 177,
+    "slug": "sirinova-dent",
+    "nazev": "MUDr. Helena Šiřinová",
+    "puvodni": "Šiřinová Helena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 178,
+    "slug": "ozanova-dent",
+    "nazev": "MUDr. Eva Ožanová",
+    "puvodni": "MUDr. Eva Ožanová",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 180,
+    "slug": "prozuby-dent",
+    "nazev": "Prozuby",
+    "puvodni": "Prozuby",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 181,
+    "slug": "skrizala-dent",
+    "nazev": "MUDr. Petr Skřížala",
+    "puvodni": "MUDr.Petr Skřížala",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 182,
+    "slug": "garcia-dent",
+    "nazev": "MUDr. Bendito Garcia",
+    "puvodni": "MUDr. Bendito Garcia N'Dua",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 186,
+    "slug": "golasowski-dent",
+    "nazev": "MUDr. Lukáš Golasowski",
+    "puvodni": "Zubní Lékař Golasowski Lukáš MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 187,
+    "slug": "pencakova-dent",
+    "nazev": "MUDr. Anna Penčáková",
+    "puvodni": "Zubní Lékař Penčáková Anna MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 188,
+    "slug": "vystavelova-dent",
+    "nazev": "MUDr. Ewa Vystavělová",
+    "puvodni": "MUDr. Ewa Vystavělová",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 190,
+    "slug": "langrova-dent",
+    "nazev": "MUDr. Marie Langrová",
+    "puvodni": "Zubní Lékař Langrová Marie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 191,
+    "slug": "kucerova-dent-2",
+    "nazev": "MUDr. Eva Kučerová",
+    "puvodni": "Zubní lékař MUDr. Eva Kučerová",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 451,
+    "slug": "dent-plzen",
+    "nazev": "Dent Plzeň",
+    "puvodni": "Dent Plzeň s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 452,
+    "slug": "svec-dent-2",
+    "nazev": "MUDr. Petr Švec",
+    "puvodni": "Mudr. Švec Petr",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 453,
+    "slug": "pojhanmanesh-dent",
+    "nazev": "Pojhanmanesh Dent",
+    "puvodni": "Pojhanmanesh Dent s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 454,
+    "slug": "puchnerova-dent",
+    "nazev": "MUDr. Hana Puchnerová",
+    "puvodni": "Puchnerová Hana MUDr. - Praktická Zubní Lékařka",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 455,
+    "slug": "zeithamlova-dent",
+    "nazev": "MUDr. Věra Zeithamlová",
+    "puvodni": "MUDr. Zeithamlová Věra - soukromá zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 456,
+    "slug": "novy-dent",
+    "nazev": "MUDr. Petr Nový",
+    "puvodni": "Zubař Petr Nový MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 457,
+    "slug": "houba-dent",
+    "nazev": "MUDr. Robert Houba, Ph.D.",
+    "puvodni": "MUDr. Robert Houba, Ph.D.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 458,
+    "slug": "af-dent",
+    "nazev": "AF-Dent",
+    "puvodni": "AF-Dent, s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 459,
+    "slug": "bendova-dent",
+    "nazev": "MUDr. Andrea Bendová",
+    "puvodni": "MUDr.Andrea Bendová",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 460,
+    "slug": "vajskebr-dent",
+    "nazev": "MDDr. Michael Vajskebr",
+    "puvodni": "dentail s.r.o. - MDDr. Michael Vajskebr",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 461,
+    "slug": "habanova-dent",
+    "nazev": "MUDr. Jitka Habánová",
+    "puvodni": "Zubní Lékař Habánová Jitka MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 462,
+    "slug": "helena-sedlackova-dent",
+    "nazev": "Helena Sedláčková",
+    "puvodni": "Zubní ordinace Helena Sedláčková",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 463,
+    "slug": "zich-dent",
+    "nazev": "MUDr. Martin Zich",
+    "puvodni": "MUDr. Martin Zich - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 465,
+    "slug": "steklova-dent",
+    "nazev": "MUDr. Miroslava Šteklová",
+    "puvodni": "Zubní Lékař Šteklová Miroslava MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 466,
+    "slug": "krmicek-dent",
+    "nazev": "MUDr. Krmíček",
+    "puvodni": "Zubní ordinace MUDr.Krmíček",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 467,
+    "slug": "langova-dent",
+    "nazev": "MUDr. Jelena Langová",
+    "puvodni": "MUDr. Jelena Langová - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 468,
+    "slug": "hurt-dent",
+    "nazev": "MUDr. Hurt",
+    "puvodni": "MUDr. Hurt - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 469,
+    "slug": "zubni-praxe-placheho-dent",
+    "nazev": "Zubní praxe Plachého",
+    "puvodni": "Zubní praxe Plachého s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 470,
+    "slug": "vostova-dent",
+    "nazev": "MUDr. Veronika Voštová",
+    "puvodni": "MUDr. Veronika Voštová",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 471,
+    "slug": "zubni-praxe-karlovarska-dent",
+    "nazev": "Zubní Praxe Karlovarská",
+    "puvodni": "Zubní Praxe Karlovarská S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 472,
+    "slug": "vrabelova-dent",
+    "nazev": "MUDr. Daniela Vrábelová",
+    "puvodni": "MUDr. Daniela Vrábelová",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 473,
+    "slug": "jirkovska-dent",
+    "nazev": "MUDr. Blažena Jirkovská",
+    "puvodni": "MUDr. Blažena Jirkovská - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 474,
+    "slug": "wiltova-dent",
+    "nazev": "MUDr. Věra Wiltová",
+    "puvodni": "Zubní Lékař Wiltová Věra MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 475,
+    "slug": "furych-dent",
+    "nazev": "MUDr. Mirko Fürych",
+    "puvodni": "MUDr. Mirko Fürych - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 476,
+    "slug": "vitadent",
+    "nazev": "Vitadent",
+    "puvodni": "Vitadent s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 477,
+    "slug": "pisarova-dent",
+    "nazev": "MUDr. Jana Písařová",
+    "puvodni": "Zubní Lékař Písařová Jana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 478,
+    "slug": "beckova-dent",
+    "nazev": "MUDr. Hana Bečková",
+    "puvodni": "MUDr. Hana Bečková - zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 480,
+    "slug": "art-dental",
+    "nazev": "ART DENTAL",
+    "puvodni": "ART DENTAL s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 481,
+    "slug": "panznerova-dent",
+    "nazev": "MUDr. Alena Panznerová",
+    "puvodni": "Panznerová Alena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 482,
+    "slug": "mala-dent",
+    "nazev": "MUDr. Zdeňka Malá",
+    "puvodni": "Zubní Ordinace - Malá Zdeňka MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 483,
+    "slug": "bergerova-dent",
+    "nazev": "MUDr. M. Bergerová",
+    "puvodni": "Bergerová M. MUDr. zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 484,
+    "slug": "rokytova-dent",
+    "nazev": "MUDr. Jitka Rokytová",
+    "puvodni": "MUDr. Jitka Rokytová - praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 486,
+    "slug": "liskova-dent",
+    "nazev": "MUDr. Jarmila Lišková",
+    "puvodni": "Lišková Jarmila MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 487,
+    "slug": "chirodental",
+    "nazev": "ChiroDental",
+    "puvodni": "Zubní ordinace ChiroDental",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 488,
+    "slug": "svarc-dent",
+    "nazev": "MUDr. Václav Švarc",
+    "puvodni": "Zubní ordinace MUDr Švarc Václav",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 489,
+    "slug": "cervena-dent",
+    "nazev": "MUDr. Iveta Červená",
+    "puvodni": "MUDr. Iveta Červená",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 490,
+    "slug": "thorn-dent",
+    "nazev": "THORN DENT",
+    "puvodni": "THORN DENT s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 491,
+    "slug": "bockova-dent",
+    "nazev": "MUDr. Ferdinanda Bočková",
+    "puvodni": "MUDr. Ferdinanda Bočková - soukromá zubní praxe",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 492,
+    "slug": "brozkova-dent",
+    "nazev": "MUDr. Václava Brožková",
+    "puvodni": "MUDr. Václava Brožková",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 493,
+    "slug": "hechtova-dent",
+    "nazev": "MUDr. Ivana Hechtová",
+    "puvodni": "MUDr. Ivana Hechtová",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 494,
+    "slug": "mockl-dent",
+    "nazev": "MUDr. Roland Möckl",
+    "puvodni": "Zubní Lékař Möckl Roland MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 495,
+    "slug": "svejstilova-dent",
+    "nazev": "MUDr. Alena Švejstilová",
+    "puvodni": "Zubní Lékař Švejstilová Alena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 496,
+    "slug": "zindrova-dent",
+    "nazev": "MUDr. Miriam Zindrová",
+    "puvodni": "Zubní Lékař Zindrová Miriam MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 497,
+    "slug": "vrana-dent",
+    "nazev": "MDDr. Adam Vrána",
+    "puvodni": "MDDr. Adam Vrána",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 498,
+    "slug": "slavotinek-dent",
+    "nazev": "MUDr. Michal Slavotínek a MUDr. Marta Slavotínková",
+    "puvodni": "Slavotínek Michal Mudr., Slavotínková Marta MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 499,
+    "slug": "maresova-dent-2",
+    "nazev": "MUDr. Vlasta Marešová",
+    "puvodni": "MUDr. Vlasta Marešová",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 500,
+    "slug": "pokorna-dent-2",
+    "nazev": "MUDr. Hana Pokorná",
+    "puvodni": "Pokorná Hana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 501,
+    "slug": "r-r-dent",
+    "nazev": "R & R Dent",
+    "puvodni": "R & R Dent s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 502,
+    "slug": "jech-dent",
+    "nazev": "MUDr. Pavel Jech",
+    "puvodni": "MUDr. Pavel Jech",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 503,
+    "slug": "kubistova-dent",
+    "nazev": "MUDr. Eva Kubištová",
+    "puvodni": "MUDr.Eva Kubištová - privátní zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 504,
+    "slug": "dentalni-hygiena-nely",
+    "nazev": "Dentální hygiena Nely",
+    "puvodni": "Dentální hygiena Nely",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 505,
+    "slug": "holistic-dental",
+    "nazev": "Holistic Dental",
+    "puvodni": "Holistic Dental S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 506,
+    "slug": "lebedova-dent",
+    "nazev": "MUDr. Božena Lebedová",
+    "puvodni": "Lebedová Božena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 507,
+    "slug": "karpowiczova-dent",
+    "nazev": "MUDr. Dagmar Karpowiczová",
+    "puvodni": "MUDr. Dagmar Karpowiczová",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 508,
+    "slug": "petrasova-dent",
+    "nazev": "MUDr. Blanka Petrasová",
+    "puvodni": "Zubní Lékař Petrasová Blanka MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 513,
+    "slug": "svec-dent-3",
+    "nazev": "MDDr. Radek Švec",
+    "puvodni": "MDDr. Radek Švec",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 514,
+    "slug": "pfefferova-dent",
+    "nazev": "MUDr. Alena Pfefferová",
+    "puvodni": "Zubní Lékař Pfefferová Alena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 517,
+    "slug": "vaclav-novak-dent",
+    "nazev": "Václav Novák",
+    "puvodni": "Václav Novák",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 520,
+    "slug": "ambulance-penta-dent",
+    "nazev": "Ambulance Penta",
+    "puvodni": "Ambulance Penta s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 521,
+    "slug": "taitlova-dent",
+    "nazev": "MUDr. Anna Taitlová",
+    "puvodni": "MUDr. Anna Taitlová",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 522,
+    "slug": "blaskova-dent",
+    "nazev": "MUDr. Irena Blašková",
+    "puvodni": "MUDr. Blašková Irena",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 523,
+    "slug": "konecny-dent",
+    "nazev": "MUDr. Jan Konečný",
+    "puvodni": "MUDr. Jan Konečný - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 524,
+    "slug": "sochova-dent-2",
+    "nazev": "MUDr. Yvetta Sochová",
+    "puvodni": "Zubní Lékař Sochová Yvetta MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 525,
+    "slug": "ricar-dent",
+    "nazev": "MUDr. Vlastimil Říčař",
+    "puvodni": "MUDr. Vlastimil Říčař - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 526,
+    "slug": "koralova-dent",
+    "nazev": "MUDr. Milena Korálová",
+    "puvodni": "MUDr. Milena Korálová - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 527,
+    "slug": "socha-dent",
+    "nazev": "MUDr. Zdeněk Socha",
+    "puvodni": "Zubní Lékař Socha Zdeněk MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 528,
+    "slug": "kucerova-dent-3",
+    "nazev": "MUDr. Daniela Kučerová",
+    "puvodni": "MUDr. Daniela Kučerová - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 529,
+    "slug": "fichtlova-dent",
+    "nazev": "MUDr. Eva Fichtlová",
+    "puvodni": "MUDr. Eva Fichtlová - praktická zubní lékařka",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 530,
+    "slug": "revayova-dent",
+    "nazev": "MUDr. Hana Révayová",
+    "puvodni": "Révayová Hana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 531,
+    "slug": "dental-cheb",
+    "nazev": "Dental cheb",
+    "puvodni": "Dental cheb",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 532,
+    "slug": "egradent",
+    "nazev": "Egradent",
+    "puvodni": "Egradent, S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 541,
+    "slug": "revay-dent",
+    "nazev": "MUDr. Jaroslav Revay",
+    "puvodni": "Revay Jaroslav MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 542,
+    "slug": "sokodent",
+    "nazev": "SokoDent",
+    "puvodni": "SokoDent s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 543,
+    "slug": "kratochvil-dent",
+    "nazev": "MUDr. Tomáš Kratochvíl",
+    "puvodni": "MUDr. Tomáš Kratochvíl",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 545,
+    "slug": "kindlova-dent",
+    "nazev": "MUDr. Katarína Kindlová",
+    "puvodni": "MUDr. Katarína Kindlová",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 547,
+    "slug": "suchy-dent",
+    "nazev": "MUDr. Luboš Suchý",
+    "puvodni": "MUDr. Luboš Suchý",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 548,
+    "slug": "jakldent",
+    "nazev": "Jakldent",
+    "puvodni": "Jakldent S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 549,
+    "slug": "sediva-dent",
+    "nazev": "MUDr. Dana Šedivá",
+    "puvodni": "MUDr. Dana Šedivá",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 552,
+    "slug": "herold-dent",
+    "nazev": "MUDr. Jaroslav Herold",
+    "puvodni": "Zubní Lékař Herold Jaroslav MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 553,
+    "slug": "vlasakova-dent",
+    "nazev": "MUDr. Alena Vlasáková",
+    "puvodni": "MUDr. Alena Vlasáková",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 554,
+    "slug": "brada-dent",
+    "nazev": "MUDr. Tomáš Brada",
+    "puvodni": "MUDr. Tomáš Brada",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 555,
+    "slug": "sotova-dent",
+    "nazev": "MUDr. Marie Šotová",
+    "puvodni": "Zubní Lékař Šotová Marie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 556,
+    "slug": "kovarikova-dent-2",
+    "nazev": "MUDr. Květoslava Kovaříková",
+    "puvodni": "MUDr. Květoslava Kovaříková",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 557,
+    "slug": "suda-dent",
+    "nazev": "MUDr. Richard Suda",
+    "puvodni": "MUDr. Richard Suda",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 558,
+    "slug": "rachova-dent",
+    "nazev": "MUDr. Květuše Rachová",
+    "puvodni": "Zubní Lékař Rachová Květuše MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 559,
+    "slug": "stomatologie-hosnedl-dent",
+    "nazev": "Stomatologie Hosnedl",
+    "puvodni": "Stomatologie Hosnedl S.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 562,
+    "slug": "marsik-dent",
+    "nazev": "MUDr. Jaroslav Maršík",
+    "puvodni": "MUDr. Jaroslav Maršík - Praktický zubní lékař",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 563,
+    "slug": "kock-dent",
+    "nazev": "Dentální hygiena a bělení — Petr Köck",
+    "puvodni": "Dentální hygiena a bělení zubů- Petr Köck DiS. et DiS.(DH-Köck s.r.o.)",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 564,
+    "slug": "machackova-dent",
+    "nazev": "MUDr. Dagmar Macháčková",
+    "puvodni": "Zubní Lékař Macháčková Dagmar MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 565,
+    "slug": "rovnatka-klatovy-dent",
+    "nazev": "Rovnátka Klatovy",
+    "puvodni": "Rovnátka Klatovy",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 567,
+    "slug": "perfectdent-tachov",
+    "nazev": "PerfectDent Tachov",
+    "puvodni": "PerfectDent Tachov s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 570,
+    "slug": "kostikova-dent",
+    "nazev": "MUDr. Jana Kostíková",
+    "puvodni": "MUDr. Kostíková Jana",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 571,
+    "slug": "ditrichova-dent",
+    "nazev": "MUDr. Marie Ditrichová",
+    "puvodni": "MUDr. Marie Ditrichová",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 572,
+    "slug": "kohutova-dent",
+    "nazev": "MUDr. Alena Kohutová",
+    "puvodni": "MUDr. Alena Kohutová",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 575,
+    "slug": "stanek-dent-2",
+    "nazev": "MUDr. Kamil Staněk",
+    "puvodni": "Staněk Kamil MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 576,
+    "slug": "blecha-dent",
+    "nazev": "MUDr. Petr Blecha",
+    "puvodni": "Zubní Lékař Blecha Petr MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 577,
+    "slug": "fastova-dent",
+    "nazev": "MUDr. Kateřina Fastová",
+    "puvodni": "MUDr. Kateřina Fastová",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 578,
+    "slug": "hlinovsky-dent",
+    "nazev": "MUDr. Václav Hlinovský",
+    "puvodni": "MUDr. Václav Hlinovský",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 579,
+    "slug": "tesar-dent-2",
+    "nazev": "MUDr. Luboš Tesař",
+    "puvodni": "MUDr. Luboš Tesař",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 580,
+    "slug": "smid-dent-2",
+    "nazev": "MUDr. Jiří Šmíd",
+    "puvodni": "MUDr. Jiří Šmíd",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 581,
+    "slug": "wh-zubni-ordinace-dent",
+    "nazev": "WH - Zubní ordinace",
+    "puvodni": "WH - Zubní ordinace s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 582,
+    "slug": "weishauplova-dent",
+    "nazev": "MUDr. Hana Weishäuplová",
+    "puvodni": "MUDr.Hana Weishäuplová - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 584,
+    "slug": "pecena-dent",
+    "nazev": "MUDr. Jarmila Pečená",
+    "puvodni": "MUDr. Jarmila Pečená - praktické zubní lékařství a ortodoncie",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 585,
+    "slug": "hromadkova-dent",
+    "nazev": "MUDr. Hana Hromádková",
+    "puvodni": "MUDr. Hromádková Hana",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 586,
+    "slug": "filipovska-dent",
+    "nazev": "MUDr. Hana Filipovská",
+    "puvodni": "MUDr. Hana Filipovská - praktická zubní lékařka",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 587,
+    "slug": "charvat-dent",
+    "nazev": "MUDr. Tomáš Charvát",
+    "puvodni": "Zubní Lékař Charvát Tomáš MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 588,
+    "slug": "bolfik-dent",
+    "nazev": "MDDr. Ondřej Bolfík",
+    "puvodni": "Zubní ordinace - Bolfík Ondřej MDDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 589,
+    "slug": "lisacenko-dent",
+    "nazev": "MUDr. Vladislav Lisačenko",
+    "puvodni": "Mudr. Lisačenko Vladislav - praktické zubní lékařství",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 590,
+    "slug": "pojtingerova-dent",
+    "nazev": "MUDr. Hana Pojtingerová",
+    "puvodni": "MUDr. Hana Pojtingerová",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 591,
+    "slug": "schmitt-dent",
+    "nazev": "MUDr. Jaroslav Schmitt",
+    "puvodni": "Zubní Lékař Schmitt Jaroslav MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 592,
+    "slug": "matejickova-dent",
+    "nazev": "MUDr. Hana Matějíčková",
+    "puvodni": "Matějíčková Hana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 593,
+    "slug": "hladik-dent",
+    "nazev": "MUDr. Pavel Hladík",
+    "puvodni": "Hladík Pavel MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 594,
+    "slug": "setek-dent",
+    "nazev": "MUDr. Vladislav Šetek",
+    "puvodni": "Šetek Vladislav MUDr. - zubní ordinace – stomatolog",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 595,
+    "slug": "brizova-dent",
+    "nazev": "MUDr. Regina Břízová",
+    "puvodni": "MUDr. Regina Břízová",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 596,
+    "slug": "zemanova-dent",
+    "nazev": "MUDr. Simona Zemanová",
+    "puvodni": "Zemanová Simona MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 597,
+    "slug": "sudova-dent",
+    "nazev": "MUDr. Olga Sudová",
+    "puvodni": "Sudová Olga MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 598,
+    "slug": "kubatova-dent",
+    "nazev": "Dentální hygiena Děčín — Daniela Kubátová",
+    "puvodni": "DENTÁLNÍ HYGIENA DĚČÍN - Kubátová Daniela, DiS.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 599,
+    "slug": "janda-dent-2",
+    "nazev": "MUDr. Zdeněk Janda",
+    "puvodni": "Janda Zdeněk MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 600,
+    "slug": "milicova-dent",
+    "nazev": "MUDr. Jiřina Miličová",
+    "puvodni": "Miličová Jiřina MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 602,
+    "slug": "rambouskova-dent",
+    "nazev": "MUDr. Rita Rambousková",
+    "puvodni": "Rambousková Rita MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 603,
+    "slug": "vorackova-dent",
+    "nazev": "MUDr. Jaroslava Voráčková",
+    "puvodni": "Voráčková Jaroslava MUDr. - prakt. Zubní Lékařka",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 604,
+    "slug": "ivanovska-dent",
+    "nazev": "MUDr. Jarmila Ivanovská",
+    "puvodni": "Ivanovská Jarmila MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 606,
+    "slug": "strnad-dent",
+    "nazev": "MUDr. Ivan Strnad",
+    "puvodni": "Strnad Ivan MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 607,
+    "slug": "cervova-hajkova-dent",
+    "nazev": "MUDr. Romana Červová-Hájková",
+    "puvodni": "Stomatologie Mudr. Romana Červová - Hájková",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 608,
+    "slug": "dentalcare-louny",
+    "nazev": "Dentalcare Louny",
+    "puvodni": "Dentalcare Louny s.r.o.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 609,
+    "slug": "ptackova-dent",
+    "nazev": "MDDr. Alžběta Ptáčková",
+    "puvodni": "MDDr. Alžběta Ptáčková",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 610,
+    "slug": "vlcek-dent",
+    "nazev": "MUDr. Miroslav Vlček",
+    "puvodni": "Zubní Lékař Vlček Miroslav MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 611,
+    "slug": "grafova-dent",
+    "nazev": "MDDr. Kateřina Gráfová",
+    "puvodni": "MDDr. Kateřina Gráfová",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 612,
+    "slug": "raisova-dent",
+    "nazev": "MUDr. Veronika Raisová",
+    "puvodni": "MUDr. Veronika Raisová",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 613,
+    "slug": "vase-zubni-centrum-dent",
+    "nazev": "Vaše zubní CENTRUM",
+    "puvodni": "Vaše zubní CENTRUM",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 614,
+    "slug": "skala-dent",
+    "nazev": "MUDr. Zdeněk Skála",
+    "puvodni": "MUDr. Zdeněk Skála",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 615,
+    "slug": "medimade-dent",
+    "nazev": "Medimade",
+    "puvodni": "Medimade",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 616,
+    "slug": "skolilova-dent",
+    "nazev": "MUDr. Markéta Skolilová",
+    "puvodni": "Zubní Lékař Skolilová Makéta MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 617,
+    "slug": "chloubova-dent",
+    "nazev": "MUDr. Alena Chloubová",
+    "puvodni": "Zubní Lékař Chloubová Alena MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  },
+  {
+    "radek": 618,
+    "slug": "vanek-dent",
+    "nazev": "MUDr. Jiří Vaněk",
+    "puvodni": "Zubní Lékař Vaněk Jiří MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#3C7A5E"
+  },
+  {
+    "radek": 619,
+    "slug": "dental-podebrady",
+    "nazev": "Dental Poděbrady",
+    "puvodni": "Dental Poděbrady s.r.o., Zubní ordinace",
+    "sablona": "ukazka-1",
+    "barva": "#6B5B95"
+  },
+  {
+    "radek": 621,
+    "slug": "peklakova-dent",
+    "nazev": "MUDr. Jana Pekláková",
+    "puvodni": "Zubní Lékař Pekláková Jana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#A2694E"
+  },
+  {
+    "radek": 622,
+    "slug": "husakova-dent",
+    "nazev": "MUDr. Romana Husáková",
+    "puvodni": "MUDr. Romana Husáková",
+    "sablona": "ukazka-1",
+    "barva": "#34618F"
+  },
+  {
+    "radek": 623,
+    "slug": "raba-dent",
+    "nazev": "MUDr. Pavel Raba",
+    "puvodni": "MUDr. Pavel Raba, stomatolog",
+    "sablona": "ukazka-1",
+    "barva": "#7C4F8C"
+  },
+  {
+    "radek": 625,
+    "slug": "suchankova-dent",
+    "nazev": "MUDr. Anna Suchánková",
+    "puvodni": "MUDr. Anna Suchánková",
+    "sablona": "ukazka-1",
+    "barva": "#356FA3"
+  },
+  {
+    "radek": 626,
+    "slug": "cejkova-dent",
+    "nazev": "MUDr. Marie Čejková",
+    "puvodni": "Čejková Marie MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#0F6E77"
+  },
+  {
+    "radek": 629,
+    "slug": "necasova-dent-2",
+    "nazev": "MUDr. Ivana Nečasová",
+    "puvodni": "Zubní Lékař Nečasová Ivana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2E7D6B"
+  },
+  {
+    "radek": 630,
+    "slug": "vajchrova-dent",
+    "nazev": "MUDr. Stanislava Vajchrová",
+    "puvodni": "MUDr. Stanislava Vajchrová",
+    "sablona": "ukazka-1",
+    "barva": "#7A4E6E"
+  },
+  {
+    "radek": 631,
+    "slug": "jonas-dent",
+    "nazev": "MUDr. Milan Jonáš",
+    "puvodni": "MUDr. Milan Jonáš",
+    "sablona": "ukazka-1",
+    "barva": "#8A5A3C"
+  },
+  {
+    "radek": 632,
+    "slug": "karbanova-dent",
+    "nazev": "MUDr. Hana Karbanová",
+    "puvodni": "Zubní Lékař Karbanová Hana MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#455F8A"
+  },
+  {
+    "radek": 633,
+    "slug": "nesmerakova-dent",
+    "nazev": "MUDr. Eva Nesměráková",
+    "puvodni": "Ortodoncie Nesměráková Eva MUDr.",
+    "sablona": "ukazka-1",
+    "barva": "#2F6F8F"
+  }
+]

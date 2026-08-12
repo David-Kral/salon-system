@@ -1,0 +1,75 @@
+69	Zubní ordinace Olomouc	Zubni ordinace Olomouc — jen obor + mesto
+72	Stomatologie Hanos S.r.o.	ukazku uz ma (Stomatologie Hanos)
+74	dentální hygiena olomouc	dentalni hygiena olomouc — jen obor + mesto
+75	Zubař Olomouc	Zubar Olomouc — jen obor + mesto
+82	SOFRONIESKI MS s.r.o	ukazku uz ma (SOFRONIESKI MS)
+86	MUDr. Jiří Grmela	ukazku uz ma (MUDr. Jiří Grmela)
+97	Zubař v Olomouci	Zubar v Olomouci — jen obor + mesto
+99	Zubní technik	Zubni technik — bez jmena, navic technik
+101	Centrum Úsměvu S.r.o.	ukazku uz ma (Centrum Úsměvu)
+115	Soukromá stomatologická ordinace	bez identifikovatelneho jmena
+118	Estetická Stomatologie	Esteticka Stomatologie — bez jmena
+125	Stomatologická ordinace	Stomatologicka ordinace — bez jmena
+126	Stomatologie a parodontologie, s.r.o.	Stomatologie a parodontologie — bez jmena
+130	Oblastní Stomatologická Komora Zlín	Oblastni Stomatologicka Komora Zlin — komora, ne ordinace
+134	Zubní lékařka	bez identifikovatelneho jmena
+135	Soukromá stomatologická praxe	bez identifikovatelneho jmena
+136	Privátní stomatologická ordinace	Privatni stomatologicka ordinace — bez jmena
+137	Soukromý zubní lékař	Soukromy zubni lekar — bez jmena
+140	Privátní zubní technik	Privatni zubni technik — bez jmena, navic technik
+142	Zubní pohotovostní služba (21)	bez identifikovatelneho jmena
+143	Privátní zubní lékařka	Privatni zubni lekarka — bez jmena
+145	Privátní zubní lékař	zbylo jen obecne oznaceni / mesto
+149	Privátní stomatolog	Privatni stomatolog — bez jmena
+150	Soukromá zubní lékařka	bez identifikovatelneho jmena
+151	Praktická zubní lékařka	bez identifikovatelneho jmena
+152	LDK-lékařský dům kotěrova	LDK-lekarsky dum Koterova — budova, ne ordinace
+155	Z deníčku dentální hygienistky	Z denicku dentalni hygienistky — blog
+157	Privátní zubní laboratoř	neni zubni ordinace / laborator
+158	Privátní stomatologická praxe	Privatni stomatologicka praxe — bez jmena
+159	Praktický stomatolog	bez identifikovatelneho jmena
+160	Zubní Technik Stašková Marta	Zubni technik Staskova — technik, pacienty neobjednava
+179	Odbor. lékař ortodoncie a stomatologie	Odbor. lekar ortodoncie a stomatologie — bez jmena
+183	ORDINACE PRAKTICKÉHO LÉKAŘE	bez identifikovatelneho jmena
+184	ORL ambulance Karviná	neni zubni ordinace / laborator
+185	DDM	z nazvu nezbylo pouzitelne jmeno
+192	Zubní ordinace	bez identifikovatelneho jmena
+194	Přesné maily a návrhy webu, přesně co napsat od řádku 190.	bez identifikovatelneho jmena
+464	Zubní ordinace	bez identifikovatelneho jmena
+479	Privátní zubní ordinace	Privatni zubni ordinace — bez jmena
+485	Stomatologická ordinace	zbylo jen obecne oznaceni / mesto
+509	Praktické zubní lékařství	bez identifikovatelneho jmena
+510	Zubní ordinace	bez identifikovatelneho jmena
+511	Zubní ordinace s laboratoří	neni zubni ordinace / laborator
+512	Privátní zubní praxe	Privatni zubni praxe — bez jmena
+515	Stomatologická ordinace	zbylo jen obecne oznaceni / mesto
+516	Privátní zubní ordinace	zbylo jen obecne oznaceni / mesto
+518	Privátní stomatologická praxe	zbylo jen obecne oznaceni / mesto
+519	Privátní stomatologická ambulance	Privatni stomatologicka ambulance — bez jmena
+533	Společná praxe lékařů - Orofaciální centrum	Spolecna praxe lekaru - Orofacialni centrum — bez jmena
+534	Stomatologická ordinace	zbylo jen obecne oznaceni / mesto
+535	Soukromá zubní praxe	bez identifikovatelneho jmena
+536	Ordinace praktického zubního lékaře	bez identifikovatelneho jmena
+537	MUDr. Zdeněk Socha	ukazku uz ma (MUDr. Zdeněk Socha)
+538	Samostatná ordinace stomatologa	bez identifikovatelneho jmena
+539	Ordinace praktického stomatologa	bez identifikovatelneho jmena
+540	Ing. Rudolf Fejtek	Ing. Rudolf Fejtek — Ing., ne zubni lekar
+544	Zubní Pohotovost	bez identifikovatelneho jmena
+546	Ambulance zubního lékaře	Ambulance zubniho lekare — bez jmena
+550	Ordinace zubního lékaře	bez identifikovatelneho jmena
+551	Ordinace zubního lékaře	bez identifikovatelneho jmena
+560	Soukromá stomatologická ordinace	bez identifikovatelneho jmena
+561	Soukromá zubní praxe	bez identifikovatelneho jmena
+566	Soukromá zubní ordinace	bez identifikovatelneho jmena
+568	Zubní ordinace	bez identifikovatelneho jmena
+569	Stomatologická ordinace	zbylo jen obecne oznaceni / mesto
+573	Privátní zubní ordinace	zbylo jen obecne oznaceni / mesto
+574	Privátní zubní ordinace	zbylo jen obecne oznaceni / mesto
+583	Praktické zubní lékařství	bez identifikovatelneho jmena
+601	Schmitt Jaroslav MUDr.	ukazku uz ma (MUDr. Jaroslav Schmitt)
+605	Zubní laboratoř	bez identifikovatelneho jmena
+620	Zubní Středisko Poděbrady spol. S R.o.	zbylo jen obecne oznaceni / mesto
+624	Soukromá zubní ordinace	bez identifikovatelneho jmena
+627	Zubní pohotovost Mělník	Zubni pohotovost Melnik — pohotovost, ne ordinace
+628	Zubní klinika	Zubni klinika — bez jmena
+634	Ordinace stomatologa - ortodoncie	bez identifikovatelneho jmena
